@@ -10,7 +10,7 @@ permalink: /privacy/
 
 ## Who we are
 
-Our website address is: https://jkdwednite.com.
+Our website address is: /.
 
 ## Comments
 
