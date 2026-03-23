@@ -133,7 +133,7 @@ defaults:
       path: ""
       type: "sitepages"
     values:
-      layout              : page
+      layout              : default
       header_type         : base
       show_author         : false
       include_on_search   : true
