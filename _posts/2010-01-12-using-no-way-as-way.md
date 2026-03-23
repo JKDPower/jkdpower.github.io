@@ -1,0 +1,44 @@
+---
+id: 124
+title: 'Using No Way As Way?'
+date: '2010-01-12T07:33:06+00:00'
+author:
+    - 'Jeremy Lynch'
+layout: post
+guid: 'https://jkdwednite.com/newsite/?p=124'
+permalink: /using-no-way-as-way/
+siteorigin_page_settings:
+    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
+siteorigin_premium_meta:
+    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"12455674064b640028a325847320806";s:19:"_sow_form_timestamp";s:0:"";}'
+ppma_authors_name:
+    - 'Jeremy Lynch'
+footnotes:
+    - ''
+ppma_disable_author_box:
+    - '0'
+image: /wp-content/uploads/2023/07/noway.jpg
+categories:
+    - Articles
+tags:
+    - 'Jeet Kune Do'
+    - 'JKD Principles'
+---
+
+<figure class="wp-block-image alignleft size-medium">![](https://jkdwednite.com/wp-content/uploads/2023/07/noway-300x270.jpg)</figure>One of the most famous Bruce Lee quotes referring to our beloved art of Jeet Kune Do is "Using no way as way, having no limitation as limitation". Unfortunately, this one quote has been the cause of a great deal of confusion. Another quote of Bruce Lee’s that is used frequently is "I don’t believe in styles" and another, "My followers in [Jeet Kune Do](https://jkdwednite.com/jeet-kune-do/), do listen to this … all fixed, set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns." The confusion is between two major and opposite interpretations of these quotes. On one hand, you have the belief that anything you do is Jeet Kune Do because Jeet Kune Do cannot be categorized and there is "No limitation" on what you do. On the other hand is the idea that there is a basic and highly scientific [structure](https://jkdwednite.com/structure/) in Jeet Kune Do which all individuals learning JKD should be taught. I subscribe to the second belief.
+
+Let me describe in short how I and the other instructors of the Wednesday Night Group have come to this conclusion. I know that we are not the only ones to think this way, I am simply explaining how we got there.
+
+When I moved to California in December of 1990 I was the self-proclaimed number one fan of Bruce Lee. I had been searching for JKD for most of my life and that was when I met [Tim Tackett](https://jkdwednite.com/tim/). I immediately realized that I was fortunate to have been accepted into this group (which would later be dubbed the Wednesday Night Group.) I did not, however, understand just how lucky I was. My first night in Tim Tackett’s garage I met Bob Bremer. I soon found out, that not only was [Bob Bremer](https://jkdwednite.com/bob/) an original student of Bruce Lee, but he had a reputation as the "Ass Kicker" of the Chinatown school. Tim Tackett was undoubtedly an excellent teacher, but as the first several months of my training went by something very profound began to happen. As we would practice a technique from this art or that, Bob would speak up and remind us what Bruce Lee had told him on many occasions about using techniques where you left yourself open to counter-attack. Little by little he began to help us take a good look at what we were practicing and instilled in us the principle of questioning what you learn, which in most martial arts schools is extremely taboo. I will always be grateful that Tim Tackett did not bristle and resist this, but encouraged Bob to say whatever he felt was right.
+
+What made this time at the Wednesday Night Group so special and important was the fortunate combination of people that were there, each giving input and all searching for truth. [Bert Poe](https://jkdwednite.com/bert/), [Sonny Bygum](https://jkdwednite.com/sonny/), [Dennis Blue](https://jkdwednite.com/dennis/), and [Jim Sewell](https://jkdwednite.com/jim/) were regulars and each brought an individuality and an intense yearning for truth and simplicity. My friend Louis Berard started training around the same time I did and together we soaked in all we could from these great instructors. We practiced hour after hour together.
+
+The end result was that all of us realized that a large portion of what we were doing was not Jeet Kune Do. Many of the techniques we were practicing were from other arts and less direct and less simple than what we already had. We realized that somewhere along the line, someone must have decided that Jeet Kune Do was about learning as many arts as possible, and getting as many techniques under your belt as you could. I am happy to say, that for the majority of years that I have studied and taught at the Wednesday Night Group we have prided ourselves on learning and teaching primarily the Jeet Kune Do curriculum that Bruce Lee taught at his last school, the Chinatown School.
+
+Now, the question begs answering, "what about those first quotes that refer to not being bound by any style?" Here is my answer. Not one of us feels that he is confined by what we teach. We are completely at liberty to add any technique that is better than what we do and to drop techniques if we find them outdated. The amazing thing is, when you look at Jeet Kune Do with a critical eye, you must confess that the majority of the art is still cutting edge. The examples show the simplicity and directness that JKD still has over the majority of ways that people respond to attack. Not only are the responses to attack cutting edge, but Bruce Lee incorporated some outstanding drills to develop [speed](https://jkdwednite.com/bruce-lee-speed/), timing and sensitivity to which I have yet to find an equal. Each technique, when taught in the manner that Bruce Lee meant it to be taught will give the practitioner the ability to strike with maximum [power](https://jkdwednite.com/punching-power/).
+
+One of the things that strengthens my belief in this way of thinking even more is that when you look at the majority of schools that have decided to teach everything under the sun and call it Jeet Kune Do, they are very rarely as powerful as they could be (and ought to be). I have worked with several such schools and many wonderful people that know very much about all the various arts that are passed around, but know very little about what Bruce Lee called "Hurting ‘em with a flick." Power is drastically missing and in many cases, so much time is spent learning this technique or that, that there is little time to become a FIGHTER. Bruce Lee emphasized daily decrease, not increase. In our case this philosophy has been a great success. We try to have a handful of tools under our belts that will serve us. If ever a new technique is added to our regimen it is only after intense scrutinization. We ask, "Will it work on the street?" "Am I open to any kind of counter attack?" "Is it better than what I am already doing?" If we cannot answer all of these questions appropriately then we simply do not add it.
+
+One of the greatest gifts that Jeet Kune Do has given our group is the absolute freedom to question what we learn or even the instructor himself. When one is completely honest with one's self and without ego, it is easy to see that simplicity, and not complexity or flash is the key. But alas, simplicity is boring. Training the same techniques over and over is no fun. Taking a never-ending journey to get more from yourself at times does not feel as rewarding as getting a new belt in a new art. People mistake the path to simplicity as the easy way out. That belief could not be further from the truth. The path to simplicity requires continuous self-evaluation. In order for your art to support you, you must be tried by fire until your muscles react exactly when and how you want them to. When you have reached that point, you realize that you have only reached one of the lower summits in the journey up the mountain of self-discovery.
+
+To use no way as way, to have no limitation as limitation means that you must be free mentally and physically to express yourself however you must. This is not possible when the mind is bogged down with an endless clutter of mediocre and unscientific techniques.
