@@ -21,24 +21,27 @@ Migrate a WordPress export of the JKD Wednesday Night Group site to a fully func
 - `repository`: `jkdpower/jkdpower.github.io`
 - `author.name`: "JKD Wednesday Night Group"
 - `author.location`: "Redlands, California"
-- Remove `_cheatsheet` collection; remove cheatsheet-related defaults and nav items
+- Remove `_cheatsheet` collection entry; remove cheatsheet-related defaults and nav items
 - Keep `search.provider: fusejs`
 - Keep pagination at 4 posts/page at `/blog/page:num/`
+- Leave `collections_dir` blank (empty, as currently set)
 
 ### Pages collection
+**Use collection name `sitepages`** (not `pages`, which is a reserved Jekyll internal variable that Chulapa's templates rely on via `site.pages`).
+
 Add to `collections:` block:
 ```yaml
-pages:
+sitepages:
   output: true
   permalink: /:name/
 ```
-Remove the `include: _pages` directive (no longer needed with collection config).
+Remove the `include: _pages` directive (no longer needed). Do this in the same commit as adding the collection, not before.
 
-Add a `defaults` entry for the `pages` collection type:
+Add a `defaults` entry for the `sitepages` collection type:
 ```yaml
 - scope:
     path: ""
-    type: "pages"
+    type: "sitepages"
   values:
     layout: page
     header_type: base
@@ -46,9 +49,49 @@ Add a `defaults` entry for the `pages` collection type:
     include_on_search: true
 ```
 
-Each page file gets an explicit `permalink:` in its frontmatter matching its WordPress slug (e.g. `/about/`, `/members/`, `/contact/`).
+Each page file gets an explicit `permalink:` in its frontmatter. For most files the permalink matches the filename (e.g. `about.md` → `/about/`). Non-obvious mappings:
 
-Key pages with featured images get `header_type: hero` in their individual frontmatter.
+| File | Permalink |
+|------|-----------|
+| `about.md` | `/about/` |
+| `affiliated.md` | `/affiliated/` |
+| `articles.md` | `/articles/` |
+| `bert.md` | `/bert/` |
+| `bob.md` | `/bob/` |
+| `books.md` | `/books/` |
+| `brent.md` | `/brent/` |
+| `classes.md` | `/classes/` |
+| `combatives.md` | `/combatives/` |
+| `contact.md` | `/contact/` |
+| `dennis.md` | `/dennis/` |
+| `francesco-malfatti.md` | `/francesco-malfatti/` |
+| `gallery.md` | `/gallery/` |
+| `group-news.md` | `/group-news/` |
+| `hans.md` | `/hans/` |
+| `impact-edge.md` | `/impact-edge/` |
+| `jeet-kune-do.md` | `/jeet-kune-do/` |
+| `jeremy.md` | `/jeremy/` |
+| `jim.md` | `/jim/` |
+| `kwoklyn.md` | `/kwoklyn/` |
+| `mccann.md` | `/mccann/` |
+| `members.md` | `/members/` |
+| `mike.md` | `/mike/` |
+| `nicolas-calluori.md` | `/nicolas-calluori/` |
+| `official.md` | `/official/` |
+| `privacy.md` | `/privacy/` |
+| `alexander-terra.md` | `/alexander-terra/` |
+| `self-defense-blog.md` | `/self-defense-blog/` |
+| `seminars.md` | `/seminars/` |
+| `sonny.md` | `/sonny/` |
+| `steven.md` | `/steven/` |
+| `tim.md` | `/tim/` |
+| `videos.md` | `/videos/` |
+| `vince.md` | `/vince/` |
+| `blog.md` | **DELETE** — redundant with `blog/index.html` (see below) |
+| `home-page.md` | **DELETE** — replaced by new `index.md` |
+| `cheatsheet.md` | **DELETE** — cheatsheet feature removed |
+
+Key pages with featured images get `header_type: hero` in their individual frontmatter: `about.md`, `jeet-kune-do.md`, `combatives.md`, `members.md`, `seminars.md`, all instructor profile pages.
 
 ### Navigation
 ```
@@ -83,12 +126,15 @@ image: /wp-content/uploads/2023/08/history-featured.jpg
 **Body sections:**
 1. **Mission statement** — "The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kune Do, to help define and teach the core curriculum." with a [Get In Touch](/contact/) button
 2. **Three training paths** — Bootstrap card row for Old School JKD, Combatives, and Impact & Edged Weapons, each linking to their respective pages
-3. **Recent Articles** — Liquid loop showing 4–5 most recent posts
-4. **Recent News** — Liquid loop filtered to a news/events category
+3. **Recent Articles** — Liquid loop showing 4–5 most recent posts from the `Articles` category
+4. **Recent News** — Liquid loop showing 3 most recent posts from the `Events` category
 
 ---
 
 ## Section 3: Page Content Rewrite Strategy
+
+### WordPress frontmatter garbage
+All WP-exported pages and posts contain junk frontmatter fields: `siteorigin_page_settings`, `siteorigin_premium_meta`, `two_optimized_date`, `ppma_authors_name`, `ppma_disable_author_box`, `guid`, `footnotes`. These are **in scope to strip** from all files during the content rewrite pass. They are inert to Jekyll but bloat files and clutter the frontmatter.
 
 ### Pages requiring full SiteOrigin HTML cleanup → Markdown rewrite
 
@@ -102,10 +148,10 @@ image: /wp-content/uploads/2023/08/history-featured.jpg
 ### Individual instructor profile pages
 Files: `bob.md`, `tim.md`, `jim.md`, `bert.md`, `sonny.md`, `dennis.md`, `jeremy.md`, `vince.md`, `brent.md`, `mike.md`, `mccann.md`, `hans.md`, `steven.md`, `kwoklyn.md`, `alexander-terra.md`, `nicolas-calluori.md`, `francesco-malfatti.md`
 
-Each gets: `header_type: hero`, clean Markdown bio, local image reference, any relevant links.
+Each gets: `header_type: hero`, clean Markdown bio, local image reference, stripped WP frontmatter garbage, any relevant links.
 
-### Pages already mostly clean (permalink + minor link fixes only)
-`about.md`, `contact.md`, `jeet-kune-do.md`, `combatives.md`, `impact-edge.md`, `classes.md`, `videos.md`, `articles.md`, `blog.md`, `gallery.md`, `books.md`, `group-news.md`, `self-defense-blog.md`, `privacy.md`
+### Pages already mostly clean (permalink + minor link fixes + frontmatter strip only)
+`about.md`, `contact.md`, `jeet-kune-do.md`, `combatives.md`, `impact-edge.md`, `classes.md`, `videos.md`, `articles.md`, `gallery.md`, `books.md`, `group-news.md`, `self-defense-blog.md`, `privacy.md`
 
 ### Internal link rewriting
 - All `https://jkdwednite.com/some-page/` → `/some-page/`
@@ -118,16 +164,20 @@ Each gets: `header_type: hero`, clean Markdown bio, local image reference, any r
 
 ### Post frontmatter normalization
 - `author:` field: normalize from array format `['Tim Tackett']` to string `"Tim Tackett"` for Chulapa compatibility
+- Strip WP junk frontmatter fields (same list as pages above) from all posts
 - Images already use `/wp-content/uploads/...` — correct, no change needed
-- `permalink:` already set on all posts — no change needed
 
-### Chulapa defaults for posts (keep existing, minor tweaks)
+### Chulapa defaults for posts (keep existing)
 - `header_type: post` (keep)
 - `show_author: true`, `show_date: true`, `show_tags: true`, `show_categories: true` (keep)
 
-### Files to remove / clean up
-- `_cheatsheet/` directory contents (or leave files, just remove from config/nav)
-- Update `index.md` (replaced by new homepage)
+### Files to DELETE
+- `_pages/blog.md` — would collide with `blog/index.html` (the jekyll-paginate driver); the blog index page already works
+- `_pages/home-page.md` — replaced by the new `index.md` homepage
+- `_pages/cheatsheet.md` — cheatsheet feature removed
+- `_posts/2025-10-03-landing-page.md` — Chulapa 101 demo post, not JKD content
+- `_posts/2025-10-13-current-skin.md` — Chulapa 101 demo post, not JKD content
+- `_cheatsheet/` directory (or just remove from config/nav and exclude from build)
 
 ### Files NOT touched
 - `_drafts/`
