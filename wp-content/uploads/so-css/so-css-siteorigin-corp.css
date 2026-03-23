@@ -1,0 +1,9 @@
+.site-branding {
+	line-height: 0 !important;
+}
+
+.main-navigation ul li {
+	font-family: Montserrat,sans-serif;
+	font-size: 0.8rem;
+	font-weight: 900;
+}
