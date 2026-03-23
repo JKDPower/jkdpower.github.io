@@ -1,25 +1,72 @@
 ---
 layout: default
-title: Chulapa on remote
+title: "JKD Wednesday Night Group"
+subtitle: "Preserve · Promote · Practice"
 header_type: hero
-subtitle: Starter pack
+image: /wp-content/uploads/2023/08/history-featured.jpg
+include_on_search: false
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+<div class="container py-4">
 
-Contains basic configuration to get you a site with:
+<div class="row justify-content-center mb-5">
+<div class="col-md-8 text-center">
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Github Action for deploying the site.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kune Do, to help define and teach the core curriculum.
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+<a href="/contact/" class="btn btn-primary mt-3">Get In Touch</a>
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+</div>
+</div>
+
+## Training
+
+<div class="row mb-5">
+<div class="col-md-4 mb-3">
+<div class="card h-100">
+<div class="card-body">
+<h4 class="card-title">Old School JKD</h4>
+<p class="card-text">Bruce Lee's Jeet Kune Do as taught through the L.A. Chinatown lineage — direct, efficient, and effective.</p>
+<a href="/jeet-kune-do/" class="btn btn-outline-primary btn-sm">Learn More</a>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-3">
+<div class="card h-100">
+<div class="card-body">
+<h4 class="card-title">Combatives</h4>
+<p class="card-text">Practical self-defence skills drawn from JKD principles, adapted for real-world application.</p>
+<a href="/combatives/" class="btn btn-outline-primary btn-sm">Learn More</a>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-3">
+<div class="card h-100">
+<div class="card-body">
+<h4 class="card-title">Impact &amp; Edged Weapons</h4>
+<p class="card-text">Training with impact tools and edged weapons as an extension of the JKD curriculum.</p>
+<a href="/impact-edge/" class="btn btn-outline-primary btn-sm">Learn More</a>
+</div>
+</div>
+</div>
+</div>
+
+## Recent Articles
+
+{% assign articles = site.posts | where_exp: "post", "post.categories contains 'Articles'" %}
+{% for post in articles limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
+{% endfor %}
+
+[View all articles →](/articles/)
+
+## Recent News &amp; Events
+
+{% assign events = site.posts | where_exp: "post", "post.categories contains 'Events'" %}
+{% for post in events limit:3 %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
+{% endfor %}
+
+[View all posts →](/blog/)
+
+</div>
