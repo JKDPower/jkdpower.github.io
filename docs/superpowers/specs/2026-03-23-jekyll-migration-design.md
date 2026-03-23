@@ -29,13 +29,15 @@ Migrate a WordPress export of the JKD Wednesday Night Group site to a fully func
 ### Pages collection
 **Use collection name `sitepages`** (not `pages`, which is a reserved Jekyll internal variable that Chulapa's templates rely on via `site.pages`).
 
+Jekyll looks for a collection named `sitepages` in a directory named `_sitepages/`. Therefore, **rename `_pages/` to `_sitepages/`** as part of the same commit that declares the collection and removes `include: _pages`. Do not do these steps separately or the build will break.
+
 Add to `collections:` block:
 ```yaml
 sitepages:
   output: true
   permalink: /:name/
 ```
-Remove the `include: _pages` directive (no longer needed). Do this in the same commit as adding the collection, not before.
+Remove the `include: _pages` directive (no longer needed). Do this in the same commit as adding the collection and the directory rename.
 
 Add a `defaults` entry for the `sitepages` collection type:
 ```yaml
@@ -87,9 +89,21 @@ Each page file gets an explicit `permalink:` in its frontmatter. For most files 
 | `tim.md` | `/tim/` |
 | `videos.md` | `/videos/` |
 | `vince.md` | `/vince/` |
-| `blog.md` | **DELETE** — redundant with `blog/index.html` (see below) |
+| `blog.md` | **DELETE** — redundant with `blog/index.html` (the jekyll-paginate driver) |
 | `home-page.md` | **DELETE** — replaced by new `index.md` |
 | `cheatsheet.md` | **DELETE** — cheatsheet feature removed |
+| `current_skin.md` | **DELETE** — Chulapa 101 demo page, no JKD content |
+
+### Chulapa infrastructure pages (keep, no content changes)
+These files stay in `_sitepages/` and have `permalink:` in their frontmatter that overrides the collection default:
+
+| File | Permalink | Notes |
+|------|-----------|-------|
+| `archive.md` | `/archive/` | Keep — date archive |
+| `categories.md` | `/categories/` | Keep — category index |
+| `tags.md` | `/tags/` | Keep — tag index |
+| `search.md` | `/search/` | Keep — site search |
+| `404.md` | `/404.html` | Keep — add `include_on_search: false` to frontmatter to prevent it appearing in search results |
 
 Key pages with featured images get `header_type: hero` in their individual frontmatter: `about.md`, `jeet-kune-do.md`, `combatives.md`, `members.md`, `seminars.md`, all instructor profile pages.
 
@@ -137,6 +151,8 @@ image: /wp-content/uploads/2023/08/history-featured.jpg
 All WP-exported pages and posts contain junk frontmatter fields: `siteorigin_page_settings`, `siteorigin_premium_meta`, `two_optimized_date`, `ppma_authors_name`, `ppma_disable_author_box`, `guid`, `footnotes`. These are **in scope to strip** from all files during the content rewrite pass. They are inert to Jekyll but bloat files and clutter the frontmatter.
 
 ### Pages requiring full SiteOrigin HTML cleanup → Markdown rewrite
+
+These four also appear in the Section 1 permalink table; both tables are relevant — Section 1 governs routing, this section governs content rewrite scope.
 
 | File | Content to produce |
 |------|--------------------|
