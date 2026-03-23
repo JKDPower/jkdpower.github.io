@@ -5,7 +5,9 @@ author: 'JKD WNG'
 layout: page
 image: /wp-content/uploads/2023/07/books-kickboxing.jpg
 permalink: /books/
+permalink: /books/
 ---
+
 
 
 Books on Bruce Lee's Jeet Kune Do by [members](/members/) of the JKD Wednesday Night Group plus other recommended reading on JKD, Self-Defense, Combatives and Mindset.

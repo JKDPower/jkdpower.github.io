@@ -5,7 +5,9 @@ author: 'JKD WNG'
 layout: page
 image: /wp-content/uploads/2023/08/privacy-featured.jpg
 permalink: /privacy/
+permalink: /privacy/
 ---
+
 
 
 ## Who we are

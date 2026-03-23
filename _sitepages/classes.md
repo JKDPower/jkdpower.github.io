@@ -5,7 +5,9 @@ author: 'JKD WNG'
 layout: page
 image: /wp-content/uploads/2023/08/classes-featured.jpg
 permalink: /classes/
+permalink: /classes/
 ---
+
 
 
 ![](/wp-content/uploads/2023/07/class1.jpg)

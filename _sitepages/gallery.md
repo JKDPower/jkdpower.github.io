@@ -5,7 +5,9 @@ author: 'JKD WNG'
 layout: page
 image: /wp-content/uploads/2023/08/tackett-author.jpg
 permalink: /gallery/
+permalink: /gallery/
 ---
+
 
 
 The JKD Wednesday Night Group, our lineage and history in photos.

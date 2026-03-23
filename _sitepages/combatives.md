@@ -9,6 +9,7 @@ header_type: hero
 ---
 
 
+
 Built upon the [Jeet Kune Do](/jeet-kune-do/) platform and integrating WWII hand-to-hand combat skills with modern tactics, Personal Combatives is a simple, direct and effective approach to self-defense.
 
 Primary sources of knowledge and experience contained within the program include renowned combat experts like [Bert Poe](/bert/), who saw action in the pacific theater, Korea, and special operations around the world as well as [Dennis Blue](/dennis/), a former military professional and private contractor with more than 40 years of formal martial arts training.

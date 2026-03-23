@@ -5,7 +5,9 @@ author: 'JKD WNG'
 layout: page
 image: /wp-content/uploads/2023/10/video-featured.jpg
 permalink: /videos/
+permalink: /videos/
 ---
+
 
 
 Videos featuring JKD Wednesday Night Group [Instructors](/official/) covering a wide variety of topics including interception, the one inch punch, self defense, and kickboxing elements of Jeet Kune Do.

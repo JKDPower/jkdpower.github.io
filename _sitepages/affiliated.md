@@ -5,7 +5,9 @@ author: 'JKD WNG'
 layout: page
 image: /wp-content/uploads/2023/08/affiliated-featured.jpg
 permalink: /affiliated/
+permalink: /affiliated/
 ---
+
 
 
 Affiliates may teach elements of [WNG JKD](/wednesday-night-group-jkd/) combined with material from other sources. [Official Instructors](/official/) teach the Wednesday Night Group's brand of Jeet Kune Do. (*Requirements for becoming an Affiliate will be published soon. Add yourself to the Affiliate Program [waiting list](#waiting-list).)*

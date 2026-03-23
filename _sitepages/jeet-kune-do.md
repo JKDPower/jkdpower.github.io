@@ -9,6 +9,7 @@ header_type: hero
 ---
 
 
+
 Our expression of Jeet Kune Do is often referred to as 'Old School Jeet Kune Do', and we feel the term is accurate enough to describe what we do. Old School JKD is primarily based on the Los Angeles Chinatown stage of Jeet Kune Do, which began in the mid to late 1960s at Bruce Lee's College Street school and continued through the early 1970s in Dan Inosanto's backyard training group, which was overseen by Lee. In 1973, [Tim Tackett](/tim/) was granted permission to have his own small training group in Redlands, California and so began the JKD Wednesday Night Group. Initially meeting in a rented hall in Redlands on Wednesday nights, the group eventually moved to Tackett's garage, where Jeet Kune Do training continued under his watchful eye until 2023, when he moved to North Carolina to be with family.
 
 During that 50 year span, many brilliant martial artists trained with the group, shared their knowledge, and had an impact on the JKD taught there, most notable of whom was [Bob Bremer](/bob/). Now retired, Bob Bremer quickly became a living "JKD filter" for anything being taught on Wednesday nights that strayed too far from the simplicity and directness of Bruce Lee's Jeet Kune Do. Bob brought a unique perspective from his time spent [training with Bruce](https://www.youtube.com/watch?v=7_a_Zq9sPaY&list=PL_pfKJLH1PuW88EMli4WfIT58dzcdMXgK).
