@@ -2,7 +2,7 @@
 title: 'History and Purpose'
 date: '2023-07-18T10:28:05+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/history-featured.jpg
 permalink: /about/
 header_type: hero

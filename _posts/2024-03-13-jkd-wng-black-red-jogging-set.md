@@ -2,7 +2,7 @@
 title: 'JKD WNG Black / Red Jogging Set'
 date: '2024-03-13T00:35:04+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /jkd-wng-black-red-jogging-set/
 image: /wp-content/uploads/2024/03/black-red-jogging-set-featured.jpg
 categories:

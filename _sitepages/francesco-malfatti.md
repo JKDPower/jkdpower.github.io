@@ -2,7 +2,7 @@
 title: 'Francesco Malfatti'
 date: '2023-10-06T04:48:13+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/10/francesco-malfatti-featured.jpg
 permalink: /francesco-malfatti/
 header_type: hero

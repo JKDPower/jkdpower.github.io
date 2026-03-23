@@ -2,7 +2,7 @@
 title: 'The Natural Stance in Jeet Kune Do'
 date: '2012-06-30T07:19:07+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /the-natural-stance-in-jeet-kune-do/
 image: /wp-content/uploads/2023/08/natural-stance-featured.jpg
 categories:

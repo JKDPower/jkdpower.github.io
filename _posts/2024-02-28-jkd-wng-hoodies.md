@@ -2,7 +2,7 @@
 title: 'JKD WNG Hoodies'
 date: '2024-02-28T03:04:43+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /jkd-wng-hoodies/
 image: /wp-content/uploads/2024/02/WNG-Hoodie-Mockup-featured.jpg
 categories:

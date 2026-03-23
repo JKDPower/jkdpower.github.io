@@ -2,7 +2,7 @@
 title: 'Nicolas Calluori'
 date: '2023-09-20T09:20:30+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/09/nicolas-calluori-featured.jpg
 permalink: /nicolas-calluori/
 header_type: hero

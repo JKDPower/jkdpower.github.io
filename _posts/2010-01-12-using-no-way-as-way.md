@@ -2,7 +2,7 @@
 title: 'Using No Way As Way?'
 date: '2010-01-12T07:33:06+00:00'
 author: "Jeremy Lynch"
-layout: post
+layout: default
 permalink: /using-no-way-as-way/
 image: /wp-content/uploads/2023/07/noway.jpg
 categories:

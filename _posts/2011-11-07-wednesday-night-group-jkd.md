@@ -2,7 +2,7 @@
 title: 'Wednesday Night Group JKD'
 date: '2011-11-07T18:53:41+00:00'
 author: "Dennis Blue"
-layout: post
+layout: default
 permalink: /wednesday-night-group-jkd/
 image: /wp-content/uploads/2011/11/wng-jkd-featured.jpg
 categories:

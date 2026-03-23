@@ -1,6 +1,6 @@
 ---
 title: Members
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/WNG-red-black.jpg
 header_type: hero
 permalink: /members/

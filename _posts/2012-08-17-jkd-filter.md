@@ -2,7 +2,7 @@
 title: 'The JKD Filter'
 date: '2012-08-17T07:35:13+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /jkd-filter/
 image: /wp-content/uploads/2023/07/jkdfilter.jpg
 categories:

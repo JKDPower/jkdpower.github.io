@@ -2,7 +2,7 @@
 title: 'What Have You Mastered?'
 date: '2002-01-24T07:29:38+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /what-have-you-mastered/
 image: /wp-content/uploads/2002/01/mastered.jpg
 categories:

@@ -2,7 +2,7 @@
 title: '2023 Legacy Camp: September 22-24, Pinon Hills, CA / Zoom'
 date: '2023-06-12T10:53:58+00:00'
 author: "Vince V"
-layout: post
+layout: default
 permalink: /2023-legacy-camp-september-22-24-pinon-hills-ca-zoom/
 image: /wp-content/uploads/2023/07/2023camp.jpg
 categories:

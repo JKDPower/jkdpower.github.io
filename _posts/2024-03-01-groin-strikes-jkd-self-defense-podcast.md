@@ -2,7 +2,7 @@
 title: 'Groin strikes &#8211; Simple And Direct Podcast'
 date: '2024-03-01T11:35:38+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /groin-strikes-jkd-self-defense-podcast/
 image: /wp-content/uploads/2024/03/SD-Podcast-featured.jpg
 categories:

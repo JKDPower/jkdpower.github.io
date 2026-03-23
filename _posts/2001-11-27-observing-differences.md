@@ -2,7 +2,7 @@
 title: 'Observing Differences'
 date: '2001-11-27T07:26:15+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /observing-differences/
 image: /wp-content/uploads/2023/07/observing-differences.jpg
 categories:

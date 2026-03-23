@@ -2,7 +2,7 @@
 title: 'Street Effective Martial Arts'
 date: '2014-09-21T07:39:34+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /street-effective/
 image: /wp-content/uploads/2014/09/streeteffective.jpg
 categories:

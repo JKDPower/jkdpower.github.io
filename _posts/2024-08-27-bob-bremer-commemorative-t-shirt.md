@@ -2,7 +2,7 @@
 title: 'Bob Bremer Commemorative T-Shirt'
 date: '2024-08-27T09:24:31+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /bob-bremer-commemorative-t-shirt/
 image: /wp-content/uploads/2024/08/Bremer-cotton2.jpg
 categories:

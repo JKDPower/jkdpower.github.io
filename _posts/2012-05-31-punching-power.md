@@ -2,7 +2,7 @@
 title: 'Punching Power'
 date: '2012-05-31T07:36:40+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /punching-power/
 image: /wp-content/uploads/2023/07/punching-power.jpg
 categories:

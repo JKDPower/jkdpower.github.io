@@ -2,7 +2,7 @@
 title: 'Alexander Terra'
 date: '2023-09-17T16:34:44+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/09/alexander-terra.jpg
 permalink: /alexander-terra/
 header_type: hero

@@ -2,7 +2,7 @@
 title: 'Getting Started in JKD'
 date: '2010-03-01T08:35:56+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /getting-started-in-jkd/
 image: /wp-content/uploads/2010/03/tackett-jkd.jpg
 categories:

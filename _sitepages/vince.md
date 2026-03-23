@@ -2,7 +2,7 @@
 title: 'Vince Raimondi'
 date: '2023-07-20T16:55:18+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/raimondi-featured.jpg
 permalink: /vince/
 header_type: hero

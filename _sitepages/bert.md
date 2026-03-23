@@ -2,7 +2,7 @@
 title: 'Bert Poe'
 date: '2023-07-20T22:05:54+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/bert-lg.jpg
 permalink: /bert/
 header_type: hero

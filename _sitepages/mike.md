@@ -2,7 +2,7 @@
 title: 'Mike Blesch'
 date: '2023-07-20T11:24:41+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/mike.jpg
 permalink: /mike/
 header_type: hero

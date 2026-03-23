@@ -2,7 +2,7 @@
 title: 'Bob Bremer and Tim Tackett T-Shirts'
 date: '2024-07-27T03:59:52+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /bob-bremer-and-tim-tackett-t-shirts/
 image: /wp-content/uploads/2024/07/Person-4.jpg
 categories:

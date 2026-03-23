@@ -2,7 +2,7 @@
 title: 'JKD WNG &#8220;Legacy&#8221; Basic T-Shirt'
 date: '2024-02-22T22:45:29+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /jkd-wng-legacy-basic-tshirt/
 image: /wp-content/uploads/2024/02/Lifestyle.jpg
 categories:

@@ -2,7 +2,7 @@
 title: 'JKD Wooden Dummy Training'
 date: '2024-09-18T12:06:51+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /jkd-wooden-dummy-training/
 image: /wp-content/uploads/2024/09/wooden-dummy-cover.jpg
 categories:

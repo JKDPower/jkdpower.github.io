@@ -2,7 +2,7 @@
 title: 'Jeet Kune Do'
 date: '2023-09-21T06:10:02+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/09/jeet-kune-do-ft.jpg
 permalink: /jeet-kune-do/
 header_type: hero

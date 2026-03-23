@@ -2,7 +2,7 @@
 title: 'Brent Lance'
 date: '2023-07-20T16:58:08+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/brent-featured.jpg
 permalink: /brent/
 header_type: hero

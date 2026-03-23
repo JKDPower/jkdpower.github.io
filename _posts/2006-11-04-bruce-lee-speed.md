@@ -2,7 +2,7 @@
 title: 'Bruce Lee&#8217;s 6 Types of Speed'
 date: '2006-11-04T13:59:36+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /bruce-lee-speed/
 image: /wp-content/uploads/2023/08/bruce-jump-rope.jpg
 categories:

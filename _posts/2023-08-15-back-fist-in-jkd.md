@@ -2,7 +2,7 @@
 title: 'Back Fist in JKD'
 date: '2023-08-15T14:07:53+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /back-fist-in-jkd/
 image: /wp-content/uploads/2023/08/back-fist.jpg
 categories:

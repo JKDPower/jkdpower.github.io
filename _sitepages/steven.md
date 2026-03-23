@@ -2,7 +2,7 @@
 title: 'Steven Resell'
 date: '2023-07-20T16:53:17+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/steven-featured.jpg
 permalink: /steven/
 header_type: hero

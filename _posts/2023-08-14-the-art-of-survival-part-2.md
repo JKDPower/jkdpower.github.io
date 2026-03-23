@@ -2,7 +2,7 @@
 title: 'The Art of Survival: Part 2 (Mental Preparation)'
 date: '2023-08-14T11:19:56+00:00'
 author: "Dennis Blue"
-layout: post
+layout: default
 permalink: /the-art-of-survival-part-2/
 image: /wp-content/uploads/2023/08/survival2-featured.jpg
 categories:

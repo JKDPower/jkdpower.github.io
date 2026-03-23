@@ -2,7 +2,7 @@
 title: 'Personal Combatives'
 date: '2023-10-01T05:30:32+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/09/combatives.jpg
 permalink: /combatives/
 header_type: hero

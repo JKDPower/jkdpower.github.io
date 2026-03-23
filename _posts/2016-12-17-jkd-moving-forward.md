@@ -2,7 +2,7 @@
 title: 'JKD: Moving Forward'
 date: '2016-12-17T07:46:06+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /jkd-moving-forward/
 image: /wp-content/uploads/2023/08/privacy-featured.jpg
 categories:

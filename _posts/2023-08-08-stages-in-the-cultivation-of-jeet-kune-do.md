@@ -2,7 +2,7 @@
 title: 'Stages in the cultivation of Jeet Kune Do'
 date: '2023-08-08T23:54:36+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /stages-in-the-cultivation-of-jeet-kune-do/
 image: /wp-content/uploads/2023/08/bruce1.jpg
 categories:

@@ -2,7 +2,7 @@
 title: 'Is Jeet Kune Do a style?'
 date: '2023-08-14T00:06:13+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /is-jeet-kune-do-a-style/
 image: /wp-content/uploads/2023/08/jkd-style.jpg
 categories:

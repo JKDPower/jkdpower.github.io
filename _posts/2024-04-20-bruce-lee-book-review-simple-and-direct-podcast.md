@@ -2,7 +2,7 @@
 title: 'Bruce Lee book review &#8211; Simple And Direct Podcast'
 date: '2024-04-20T07:09:11+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /bruce-lee-book-review-simple-and-direct-podcast/
 image: /wp-content/uploads/2024/03/SD-Podcast-featured.jpg
 categories:

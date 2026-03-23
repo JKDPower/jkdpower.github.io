@@ -2,7 +2,7 @@
 title: 'The Hammer Principle'
 date: '2004-06-10T07:31:28+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /the-hammer-principle/
 image: /wp-content/uploads/2004/06/Bremer2.jpg
 categories:

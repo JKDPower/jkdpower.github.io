@@ -1,6 +1,6 @@
 ---
 title: 'Official JKD Instructors'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/TTBB-color.jpg
 header_type: hero
 permalink: /official/

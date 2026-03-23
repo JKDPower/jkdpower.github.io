@@ -2,7 +2,7 @@
 title: 'Jeet Kune Do Trapping'
 date: '2008-11-13T10:53:59+00:00'
 author: "Jeremy Lynch"
-layout: post
+layout: default
 permalink: /jeet-kune-do-trapping/
 image: /wp-content/uploads/2023/08/trapping-featured.jpg
 categories:

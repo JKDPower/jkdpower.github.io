@@ -2,7 +2,7 @@
 title: Structure
 date: '2006-07-15T07:18:03+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /structure/
 image: /wp-content/uploads/2006/07/structure.jpg
 categories:

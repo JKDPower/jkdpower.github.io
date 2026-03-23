@@ -2,7 +2,7 @@
 title: 'Kwoklyn Wan'
 date: '2023-07-20T17:00:56+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/kwoklyn-wan.jpg
 permalink: /kwoklyn/
 header_type: hero

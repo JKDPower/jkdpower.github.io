@@ -2,7 +2,7 @@
 title: 'The Art of Survival: Part 3 (Confrontation)'
 date: '2023-08-14T12:45:20+00:00'
 author: "Dennis Blue"
-layout: post
+layout: default
 permalink: /the-art-of-survival-part-3/
 image: /wp-content/uploads/2023/08/survival3-featured.jpg
 categories:

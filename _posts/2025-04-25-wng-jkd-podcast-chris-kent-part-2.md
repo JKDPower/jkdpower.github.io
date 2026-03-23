@@ -2,7 +2,7 @@
 title: 'WNG JKD Podcast &#8211; Chris Kent (part 2)'
 date: '2025-04-25T09:30:36+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /wng-jkd-podcast-chris-kent-part-2/
 image: /wp-content/uploads/2025/04/Chris-Kent.jpg
 categories:

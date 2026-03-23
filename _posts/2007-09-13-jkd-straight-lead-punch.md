@@ -2,7 +2,7 @@
 title: 'JKD Straight Lead Punch'
 date: '2007-09-13T01:35:56+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /jkd-straight-lead-punch/
 image: /wp-content/uploads/2007/09/jkd-straight-lead-punch.jpg
 categories:

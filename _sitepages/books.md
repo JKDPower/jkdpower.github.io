@@ -2,7 +2,7 @@
 title: 'Jeet Kune Do Books'
 date: '2023-07-22T23:12:00+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/books-kickboxing.jpg
 permalink: /books/
 permalink: /books/

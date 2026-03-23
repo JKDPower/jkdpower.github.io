@@ -2,7 +2,7 @@
 title: 'What Makes JKD JKD?'
 date: '2019-04-28T07:42:15+00:00'
 author: "Steven Resell"
-layout: post
+layout: default
 permalink: /what-makes-jkd/
 image: /wp-content/uploads/2023/07/whatmakesjkd.jpg
 categories:

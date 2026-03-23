@@ -2,7 +2,7 @@
 title: 'WNG JKD Podcast &#8211; Episode 1'
 date: '2025-02-01T12:43:10+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /wng-jkd-podcast-episode-1/
 image: /wp-content/uploads/2023/08/wng-ident.jpg
 categories:

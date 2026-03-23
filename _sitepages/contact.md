@@ -2,7 +2,7 @@
 title: Contact
 date: '2023-07-18T05:30:55+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/contact-featured.jpg
 permalink: /contact/
 permalink: /contact/

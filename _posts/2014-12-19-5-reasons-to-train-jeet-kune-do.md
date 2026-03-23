@@ -2,7 +2,7 @@
 title: '5 Reasons to train in Jeet Kune Do'
 date: '2014-12-19T10:38:31+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /5-reasons-to-train-jeet-kune-do/
 image: /wp-content/uploads/2023/08/tackett-kick.jpg
 categories:

@@ -2,7 +2,7 @@
 title: 'Chinatown JKD WNG Jersey'
 date: '2024-09-21T06:01:37+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /chinatown-jkd-wng-jersey/
 image: /wp-content/uploads/2024/09/bt-jersey-front.jpg
 categories:

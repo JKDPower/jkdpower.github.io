@@ -2,7 +2,7 @@
 title: 'The Art of Survival: Part 4 (Fear &#038; Action)'
 date: '2023-08-14T15:06:58+00:00'
 author: "Dennis Blue"
-layout: post
+layout: default
 permalink: /the-art-of-survival-part-4/
 image: /wp-content/uploads/2023/08/survival4-featured.jpg
 categories:

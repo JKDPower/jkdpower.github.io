@@ -2,7 +2,7 @@
 title: 'Tim Tackett Commemorative Sweatshirts'
 date: '2024-02-20T01:37:54+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /tim-tackett-commemorative-sweatshirts/
 image: /wp-content/uploads/2024/02/Sweatshirt-Lifestyle-Man.jpg
 categories:

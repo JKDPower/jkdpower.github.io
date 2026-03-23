@@ -2,7 +2,7 @@
 title: 'Group News'
 date: '2024-02-20T01:39:38+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2024/02/news-updates.jpg
 permalink: /group-news/
 permalink: /group-news/

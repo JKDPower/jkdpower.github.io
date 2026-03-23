@@ -2,7 +2,7 @@
 title: 'Jim McCann'
 date: '2023-07-20T16:56:49+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/mccann-featured.jpg
 permalink: /mccann/
 header_type: hero

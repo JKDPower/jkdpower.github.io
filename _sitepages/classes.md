@@ -2,7 +2,7 @@
 title: 'Jeet Kune Do Classes'
 date: '2023-07-18T05:40:55+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/classes-featured.jpg
 permalink: /classes/
 permalink: /classes/

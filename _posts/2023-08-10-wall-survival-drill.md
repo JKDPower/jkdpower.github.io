@@ -2,7 +2,7 @@
 title: 'The Wall Survival Drill'
 date: '2023-08-10T20:47:21+00:00'
 author: "Erik Paulson"
-layout: post
+layout: default
 permalink: /wall-survival-drill/
 image: /wp-content/uploads/2023/08/erik-paulson-featured.jpg
 categories:

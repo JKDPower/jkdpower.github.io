@@ -2,7 +2,7 @@
 title: 'Jim Sewell'
 date: '2023-07-20T22:04:48+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/jim-sewell.jpg
 permalink: /jim/
 header_type: hero

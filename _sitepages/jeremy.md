@@ -2,7 +2,7 @@
 title: 'Jeremy Lynch'
 date: '2023-07-20T16:52:12+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/jeremy-featured.jpg
 permalink: /jeremy/
 header_type: hero

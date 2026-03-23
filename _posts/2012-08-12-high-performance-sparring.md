@@ -2,7 +2,7 @@
 title: 'High Performance Sparring'
 date: '2012-08-12T07:37:55+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /high-performance-sparring/
 image: /wp-content/uploads/2023/07/sparring.jpg
 categories:

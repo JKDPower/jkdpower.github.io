@@ -2,7 +2,7 @@
 title: 'Impact & Edged Weapons'
 date: '2023-10-03T05:38:55+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/09/impact-edge-featured.jpg
 permalink: /impact-edge/
 ---

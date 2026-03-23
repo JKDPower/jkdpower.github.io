@@ -2,7 +2,7 @@
 title: 'Tim Tackett'
 date: '2023-07-20T22:03:34+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/tim-tackett.jpg
 permalink: /tim/
 header_type: hero

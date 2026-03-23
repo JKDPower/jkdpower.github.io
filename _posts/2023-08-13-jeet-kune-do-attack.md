@@ -2,7 +2,7 @@
 title: 'Jeet Kune Do: Attack'
 date: '2023-08-13T03:30:36+00:00'
 author: "Tim Tackett"
-layout: post
+layout: default
 permalink: /jeet-kune-do-attack/
 image: /wp-content/uploads/2023/08/jkd-attack-featured.jpg
 categories:

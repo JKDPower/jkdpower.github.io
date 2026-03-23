@@ -2,7 +2,7 @@
 title: 'Dennis Blue interview by Jeremy Lynch'
 date: '2008-08-21T11:34:21+00:00'
 author: "Jeremy Lynch"
-layout: post
+layout: default
 permalink: /dm-blue-interview/
 image: /wp-content/uploads/2023/09/dennis_blue.jpg
 categories:

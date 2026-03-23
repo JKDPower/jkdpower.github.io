@@ -2,7 +2,7 @@
 title: 'Inside The Fighting Measure'
 date: '2012-11-13T07:41:05+00:00'
 author: "Mike Blesch"
-layout: post
+layout: default
 permalink: /close-quarter-tactics/
 image: /wp-content/uploads/2023/07/close-quarter.jpg
 categories:

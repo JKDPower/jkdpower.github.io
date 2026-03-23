@@ -2,7 +2,7 @@
 title: 'The Art of Survival: Part 1 (S.U.R.V.I.V.A.L.)'
 date: '2023-08-14T10:04:43+00:00'
 author: "Dennis Blue"
-layout: post
+layout: default
 permalink: /the-art-of-survival-part-1/
 image: /wp-content/uploads/2023/08/survival1-featured.jpg
 categories:

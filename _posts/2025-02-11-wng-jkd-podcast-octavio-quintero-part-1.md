@@ -2,7 +2,7 @@
 title: 'WNG JKD Podcast &#8211; Octavio Quintero (part 1)'
 date: '2025-02-11T06:54:10+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /wng-jkd-podcast-octavio-quintero-part-1/
 image: /wp-content/uploads/2025/02/OQ.jpg
 categories:

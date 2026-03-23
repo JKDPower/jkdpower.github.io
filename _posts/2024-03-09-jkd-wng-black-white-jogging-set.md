@@ -2,7 +2,7 @@
 title: 'JKD WNG Black / White Jogging Set'
 date: '2024-03-09T12:15:19+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /jkd-wng-black-white-jogging-set/
 image: /wp-content/uploads/2024/03/WNG-black-white-hoodie.jpg
 categories:

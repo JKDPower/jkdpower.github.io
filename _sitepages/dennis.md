@@ -2,7 +2,7 @@
 title: 'Dennis Blue'
 date: '2023-07-20T11:34:06+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/blue-featured.jpg
 permalink: /dennis/
 header_type: hero

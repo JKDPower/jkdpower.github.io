@@ -2,7 +2,7 @@
 title: 'Self Defense Blog'
 date: '2023-08-14T09:44:44+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/self-defense-blog.jpg
 permalink: /self-defense-blog/
 permalink: /self-defense-blog/

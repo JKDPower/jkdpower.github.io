@@ -2,7 +2,7 @@
 title: 'Privacy Policy'
 date: '2023-07-17T09:08:13+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/privacy-featured.jpg
 permalink: /privacy/
 permalink: /privacy/

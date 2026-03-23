@@ -2,7 +2,7 @@
 title: 'Footwork in fighting &#8211; Simple And Direct Podcast'
 date: '2024-03-20T05:22:20+00:00'
 author: "JKD WNG"
-layout: post
+layout: default
 permalink: /footwork-in-fighting-simple-and-direct-podcast/
 image: /wp-content/uploads/2024/03/SD-Podcast-featured.jpg
 categories:

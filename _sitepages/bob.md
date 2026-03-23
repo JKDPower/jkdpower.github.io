@@ -2,7 +2,7 @@
 title: 'Bob Bremer'
 date: '2023-07-20T17:28:40+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/07/bremer1.jpg
 permalink: /bob/
 header_type: hero

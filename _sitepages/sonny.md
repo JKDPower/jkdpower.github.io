@@ -2,7 +2,7 @@
 title: 'Sonny Bygum'
 date: '2023-07-20T22:06:54+00:00'
 author: 'JKD WNG'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/sonny-featured.jpg
 permalink: /sonny/
 header_type: hero

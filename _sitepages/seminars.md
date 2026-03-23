@@ -1,6 +1,6 @@
 ---
 title: 'Jeet Kune Do Seminars'
-layout: page
+layout: default
 image: /wp-content/uploads/2023/08/seminars-featured1.jpg
 header_type: hero
 permalink: /seminars/
