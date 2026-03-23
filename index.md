@@ -19,7 +19,7 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 </div>
 </div>
 
-## Training
+<h2>Training</h2>
 
 <div class="row mb-5">
 <div class="col-md-4 mb-3">
@@ -51,7 +51,7 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 </div>
 </div>
 
-## Recent Articles
+<h2>Recent Articles</h2>
 
 {% assign articles = site.posts | where_exp: "post", "post.categories contains 'Articles'" %}
 {% for post in articles limit:5 %}
@@ -60,7 +60,7 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 
 [View all articles →](/articles/)
 
-## Recent News &amp; Events
+<h2>Recent News &amp; Events</h2>
 
 {% assign events = site.posts | where_exp: "post", "post.categories contains 'Events'" %}
 {% for post in events limit:3 %}
