@@ -90,7 +90,7 @@ def clean_file(path: Path, permalink: str, header_type: str = None) -> None:
 
 
 if __name__ == '__main__':
-    base = Path(__file__).resolve().parent.parent.parent / '_sitepages'
+    base = Path(__file__).resolve().parent.parent.parent.parent / '_sitepages'
 
     pages = {
         'about.md':             ('/about/',              'hero'),
@@ -107,6 +107,23 @@ if __name__ == '__main__':
         'self-defense-blog.md': ('/self-defense-blog/',    None),
         'privacy.md':           ('/privacy/',              None),
         'affiliated.md':        ('/affiliated/',           None),
+        'bob.md':               ('/bob/',                 'hero'),
+        'tim.md':               ('/tim/',                 'hero'),
+        'jim.md':               ('/jim/',                 'hero'),
+        'bert.md':              ('/bert/',                'hero'),
+        'sonny.md':             ('/sonny/',               'hero'),
+        'dennis.md':            ('/dennis/',              'hero'),
+        'jeremy.md':            ('/jeremy/',              'hero'),
+        'vince.md':             ('/vince/',               'hero'),
+        'brent.md':             ('/brent/',               'hero'),
+        'mike.md':              ('/mike/',                'hero'),
+        'mccann.md':            ('/mccann/',              'hero'),
+        'hans.md':              ('/hans/',                'hero'),
+        'steven.md':            ('/steven/',              'hero'),
+        'kwoklyn.md':           ('/kwoklyn/',             'hero'),
+        'alexander-terra.md':   ('/alexander-terra/',     'hero'),
+        'nicolas-calluori.md':  ('/nicolas-calluori/',    'hero'),
+        'francesco-malfatti.md':('/francesco-malfatti/',  'hero'),
     }
 
     for filename, (permalink, header_type) in pages.items():
