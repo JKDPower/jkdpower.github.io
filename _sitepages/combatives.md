@@ -1,38 +1,33 @@
 ---
-id: 4511
 title: 'Personal Combatives'
 date: '2023-10-01T05:30:32+00:00'
 author: 'JKD WNG'
 layout: page
-guid: 'https://jkdwednite.com/?page_id=4511'
-ppma_authors_name:
-    - 'JKD WNG'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"213381434765186b5579722355742511";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/09/combatives.jpg
+permalink: /combatives/
+header_type: hero
 ---
 
-<figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/09/personal-combatives-1024x536.jpg)</figure>Built upon the [Jeet Kune Do](https://jkdwednite.com/jeet-kune-do/) platform and integrating WWII hand-to-hand combat skills with modern tactics, Personal Combatives is a simple, direct and effective approach to self-defense.
 
-Primary sources of knowledge and experience contained within the program include renowned combat experts like [Bert Poe](https://jkdwednite.com/bert/), who saw action in the pacific theater, Korea, and special operations around the world as well as [Dennis Blue](https://jkdwednite.com/dennis/), a former military professional and private contractor with more than 40 years of formal martial arts training.
+Built upon the [Jeet Kune Do](/jeet-kune-do/) platform and integrating WWII hand-to-hand combat skills with modern tactics, Personal Combatives is a simple, direct and effective approach to self-defense.
 
-Prior to creating the Personal Combatives program, Dennis spent 30 years under the mentoring of [Tim Tackett](https://jkdwednite.com/tim/) and Bert Poe, along with Bruce Lee students [Bob Bremer](https://jkdwednite.com/bob/), Jim Sewell and Pete Jacobs. His diverse background in formal Asian, Pacific Island, Western, European and Russian Martial Arts brings a unique flavor to the practicality of the program.
+Primary sources of knowledge and experience contained within the program include renowned combat experts like [Bert Poe](/bert/), who saw action in the pacific theater, Korea, and special operations around the world as well as [Dennis Blue](/dennis/), a former military professional and private contractor with more than 40 years of formal martial arts training.
+
+Prior to creating the Personal Combatives program, Dennis spent 30 years under the mentoring of [Tim Tackett](/tim/) and Bert Poe, along with Bruce Lee students [Bob Bremer](/bob/), Jim Sewell and Pete Jacobs. His diverse background in formal Asian, Pacific Island, Western, European and Russian Martial Arts brings a unique flavor to the practicality of the program.
 
 For the first time ever, this unique training is available to the general public through live seminars and virtual training events. A streamlined version of the program can even be offered by martial arts school owners who affiliate with the JKD Wednesday Night Group.
 
-<div class="wp-block-group alignfull nfd-my-0 nfd-px-md nfd-py-stack nfd-container">## Get started with Combatives training
+## Get started with Combatives training
 
-<div class="wp-block-group nfd-text-md nfd-text-current" style="padding-bottom:16px">Register for a live training event or schedule a private, one-on-one virtual training session.
+Register for a live training event or schedule a private, one-on-one virtual training session.
 
-</div><div class="wp-block-buttons nfd-text-base" style="margin-top:16px"><div class="wp-block-button is-style-outline nfd-text-current" style="font-style:normal;font-weight:500;line-height:1.5">[Pre-register for our next Combatives seminar](#pre-register)</div><div class="wp-block-button is-style-outline" style="font-style:normal;font-weight:500;line-height:1.5">[Contact us to book an event or virtual class ](https://jkdwednite.com/contact/)</div></div></div><figure class="wp-block-pullquote">> “Success is having a simple plan, well-rehearsed and executed with maximum aggression.”
-> 
-> <cite>U.S. Army Airborne Ranger Proverb</cite>
+[Pre-register for our next Combatives seminar](#pre-register) | [Contact us to book an event or virtual class](/contact/)
 
-</figure>### JKD vs Combatives
+> “Success is having a simple plan, well-rehearsed and executed with maximum aggression.”
+>
+> — U.S. Army Airborne Ranger Proverb
+
+### JKD vs Combatives
 
 All of the Wednesday Night Group’s training is inspired by Bruce Lee, who developed Jeet Kune Do from his research into Chinese Boxing methods, Western Boxing and Fencing primarily.
 
