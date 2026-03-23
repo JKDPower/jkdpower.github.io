@@ -643,7 +643,13 @@ with:
 ```
 (Do this for all `<span style>` tags in the file.)
 
-**Other pages** — Check each page for similar minor HTML artefacts and convert to Markdown equivalents.
+**Other pages** — Run this first to find which remaining pages need attention:
+
+```bash
+grep -l "wp-block\|<div\|<figure" _sitepages/*.md
+```
+
+For each file listed, scan for `<figure>`, `<div class="wp-block-...">`, and `<span style=...>` elements and convert to plain Markdown equivalents.
 
 - [ ] **Step 4: Build and verify**
 
@@ -946,7 +952,7 @@ Official Instructors teach the Wednesday Night Group's brand of [Jeet Kune Do](/
 <!-- Continue for all European countries -->
 ```
 
-Fill in all instructor data from the live site before committing.
+- [ ] **Confirm all instructor rows are populated** — scan the file for any remaining `<!-- Add` comments before proceeding. The build will succeed with placeholders still present; don't let that mask incomplete data.
 
 - [ ] **Step 3: Build and verify**
 
@@ -1073,7 +1079,8 @@ from pathlib import Path
 REMOVE_FIELDS = [
     'id', 'guid', 'siteorigin_page_settings', 'siteorigin_premium_meta',
     'two_optimized_date', 'two_page_speed', 'ppma_authors_name',
-    'ppma_disable_author_box', 'footnotes',
+    'ppma_disable_author_box', 'footnotes', 'panels_data',
+    'siteorigin_panels_data',
 ]
 
 def strip_frontmatter_fields(fm_text: str) -> str:
@@ -1198,7 +1205,7 @@ for path in "" about contact jeet-kune-do combatives seminars classes \
             articles blog videos gallery books members official affiliated \
             group-news privacy self-defense-blog impact-edge \
             bob tim jim bert sonny dennis jeremy vince brent mike \
-            mccann hans steven kwoklyn mccann; do
+            mccann hans steven kwoklyn; do
   echo -n "$path: "
   ls _site/$path/index.html 2>&1 | head -1
 done
