@@ -1,22 +1,9 @@
 ---
-id: 3527
 title: 'Jeet Kune Do Trapping'
 date: '2008-11-13T10:53:59+00:00'
-author:
-    - 'Jeremy Lynch'
+author: "Jeremy Lynch"
 layout: post
-guid: 'https://jkdwednite.com/?p=3527'
 permalink: /jeet-kune-do-trapping/
-ppma_authors_name:
-    - 'Jeremy Lynch'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"154150397364d8a69c65359956153274";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/08/trapping-featured.jpg
 categories:
     - Blog
@@ -26,13 +13,16 @@ tags:
     - 'Trapping Hands'
 ---
 
+
+
+
 When Jeet Kune Do trapping is mentioned today, it is met with a number of positive as well as negative responses. On one hand, there are those who think anything Bruce Lee wrote, talked about, illustrated or performed is definitely Jeet Kune Do. No doubt about it. On the other hand, you have people who view training methods like trapping, try the techniques a few times, and then decide whether Bruce Lee would have made major modifications or tossed out the entire thing altogether. In the end, neither of the above responses shows an understanding of how Jeet Kune Do really works, or more importantly, what it takes to make it work for you.
 
-Jeet Kune Do was the result of an evolution of Bruce Lee’s personal experience in the martial arts. Although most are familiar with the phrase, “[Using no way as way](https://jkdwednite.com/using-no-way-as-way/),” there remain definite, scientific guidelines to how JKD works. Understanding this, we can do away with the first of the above responses, because we realize that Bruce Lee himself eliminated a large portion of the methods he had previously practiced.
+Jeet Kune Do was the result of an evolution of Bruce Lee’s personal experience in the martial arts. Although most are familiar with the phrase, “[Using no way as way](/using-no-way-as-way/),” there remain definite, scientific guidelines to how JKD works. Understanding this, we can do away with the first of the above responses, because we realize that Bruce Lee himself eliminated a large portion of the methods he had previously practiced.
 
 As far as the second response, it is necessary to understand the process we go through before we just chuck a technique or method as “useless.” First, we ask ourselves, “Is there another, more scientific way to get the same results that we were aiming for with the technique?” Note I said, “more scientific way,” not “another way.” Secondly, we ask ourselves, “Have I truly drilled this enough to make it my own, or have I just tried it and found that it was just hard to do?”
 
-If the toughness of the drill decides what technique you keep, then you have no business in the martial arts. Thirdly, we ask, “Do I really understand the purpose that Bruce Lee had when originally teaching this?” We must either answer those questions satisfactorily or we continue trying to perfect the drill in question. The fact is, when we look at the [Chinatown Jeet Kune Do](https://jkdwednite.com/jeet-kune-do/) (that is, Jeet Kune Do from Bruce Lee’s last school) we have a hard time finding things more scientific than what is already in place. True, we have placed more emphasis on some things than we used to (like grappling), but for the most part, Jeet Kune Do as a whole still works better than anything I have ever seen.
+If the toughness of the drill decides what technique you keep, then you have no business in the martial arts. Thirdly, we ask, “Do I really understand the purpose that Bruce Lee had when originally teaching this?” We must either answer those questions satisfactorily or we continue trying to perfect the drill in question. The fact is, when we look at the [Chinatown Jeet Kune Do](/jeet-kune-do/) (that is, Jeet Kune Do from Bruce Lee’s last school) we have a hard time finding things more scientific than what is already in place. True, we have placed more emphasis on some things than we used to (like grappling), but for the most part, Jeet Kune Do as a whole still works better than anything I have ever seen.
 
 Here is another way to look at JKD trapping: In my experience, people have a large misunderstanding of how trapping is to be applied in a fighting situation. Something Bruce Lee told Bob Bremer gives insight into how we should be using trapping. Bob was asking Bruce for further explanation on trapping. Bruce Lee turned to him and said, “Just claw your opponent’s hands down and beat the (bleep) out of him.”
 

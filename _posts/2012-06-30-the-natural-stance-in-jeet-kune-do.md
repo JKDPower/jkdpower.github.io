@@ -1,20 +1,9 @@
 ---
-id: 3230
 title: 'The Natural Stance in Jeet Kune Do'
 date: '2012-06-30T07:19:07+00:00'
-author:
-    - 'Tim Tackett'
+author: "Tim Tackett"
 layout: post
-guid: 'https://jkdwednite.com/?p=3230'
 permalink: /the-natural-stance-in-jeet-kune-do/
-ppma_authors_name:
-    - 'Tim Tackett'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"90205004464d4807b48841192483563";s:19:"_sow_form_timestamp";s:0:"";}'
 image: /wp-content/uploads/2023/08/natural-stance-featured.jpg
 categories:
     - Blog
@@ -22,6 +11,9 @@ tags:
     - 'Jeet Kune Do'
     - Techniques
 ---
+
+
+
 
 A good friend of the Wednesday Night Group is [Hock Hochheim](https://www.forcenecessary.com/). Hock has talked to us about what he calls “the myth of the duel”. What he means is that most people in martial arts train as if were still living in the age of dueling. The age of dueling was a time when two gentlemen would meet at a certain time and settle their differences with either a gun or sword. The closest thing to that we have today is the Boxing or MMA match, where two fighters would meet at a certain time with rules and a referee. When I was in high school in the 1950’s it was still common for two guys to meet at a park after school and have a fight. They would square off like two boxers and the fight was on. When one gave up the fight was over, and they shook hands and usually became friends. Sadly those days are long gone.
 
@@ -33,14 +25,14 @@ This will not scare them and gives them way too much information. When someone c
 
 You must also learn to always stand in a natural stance with your strong leg forward and your hands in a relaxed position.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance02-683x1024.jpg)<figcaption class="wp-element-caption">**Natural stance - Front view**</figcaption></figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance01-683x1024.jpg)<figcaption class="wp-element-caption">**Natural stance - Side view**</figcaption></figure></figure>Below we see the natural stance talking to someone in the street at the proper distance.
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance02-683x1024.jpg)<figcaption class="wp-element-caption">**Natural stance - Front view**</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance01-683x1024.jpg)<figcaption class="wp-element-caption">**Natural stance - Side view**</figcaption></figure></figure>Below we see the natural stance talking to someone in the street at the proper distance.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance03-1024x683.jpg)<figcaption class="wp-element-caption">**Conversation at proper distance**</figcaption></figure></figure>If the person you are talking to tries to step toward you raise both hands as a barrier and tell him in a strong voice not to take another step.
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance03-1024x683.jpg)<figcaption class="wp-element-caption">**Conversation at proper distance**</figcaption></figure></figure>If the person you are talking to tries to step toward you raise both hands as a barrier and tell him in a strong voice not to take another step.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance04-1024x683.jpg)<figcaption class="wp-element-caption">**Too close - Hands are up**</figcaption></figure></figure>If he continues to come forward you can use a double finger thrust to the eyes.
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance04-1024x683.jpg)<figcaption class="wp-element-caption">**Too close - Hands are up**</figcaption></figure></figure>If he continues to come forward you can use a double finger thrust to the eyes.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance05-1024x683.jpg)<figcaption class="wp-element-caption">**Double finger thrust to his eyes**</figcaption></figure></figure>Or you could use a different response based on your level of skill and training.
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance05-1024x683.jpg)<figcaption class="wp-element-caption">**Double finger thrust to his eyes**</figcaption></figure></figure>Or you could use a different response based on your level of skill and training.
 
-<figure class="wp-block-gallery has-nested-images columns-4 is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance06-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance07-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance08-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/08/natural-stance09-1024x683.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">Shin/knee side kick response</figcaption></figure>The important thing is to keep your response simple and direct. After you have stopped the attack you can decide to retreat or finish him. In most cases it might be best to just get the hell out of there.
+<figure class="wp-block-gallery has-nested-images columns-4 is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance06-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance07-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance08-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/08/natural-stance09-1024x683.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">Shin/knee side kick response</figcaption></figure>The important thing is to keep your response simple and direct. After you have stopped the attack you can decide to retreat or finish him. In most cases it might be best to just get the hell out of there.
 
 The important thing is that whenever you go out of the house you need to make sure that you are able to come home in one piece.

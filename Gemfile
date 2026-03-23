@@ -15,5 +15,6 @@ end
 gem 'jekyll-paginate'
 gem 'kramdown-parser-gfm'
 gem 'ostruct'
-gem 'fiddle'
 gem 'faraday-retry'
+gem 'tzinfo'
+gem 'tzinfo-data'

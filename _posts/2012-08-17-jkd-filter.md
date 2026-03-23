@@ -1,22 +1,9 @@
 ---
-id: 126
 title: 'The JKD Filter'
 date: '2012-08-17T07:35:13+00:00'
-author:
-    - 'Mike Blesch'
+author: "Mike Blesch"
 layout: post
-guid: 'https://jkdwednite.com/newsite/?p=126'
 permalink: /jkd-filter/
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"124842450764b6405921329422354668";s:19:"_sow_form_timestamp";s:0:"";}'
-ppma_authors_name:
-    - 'Mike Blesch'
-ppma_disable_author_box:
-    - '0'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/07/jkdfilter.jpg
 categories:
     - Articles
@@ -25,11 +12,14 @@ tags:
     - 'JKD Principles'
 ---
 
-<figure class="wp-block-image alignleft size-medium is-resized">[![](https://jkdwednite.com/wp-content/uploads/2023/07/filter-cover-225x300.jpg)](https://www.jkdwednite.com/JKD-Filter.pdf)<figcaption class="wp-element-caption">[Download PDF](https://www.jkdwednite.com/JKD-Filter.pdf)</figcaption></figure>By labeling Jeet Kune Do as "just a philosophy" with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by its founder, Bruce Lee. On the other hand, by crystallizing the art as "only what Bruce Lee taught," we deprive ourselves of the free expression and naturalness (or natural-unnaturalness!) advocated so strongly by Sijo Lee.
 
-Our group does not believe that either approach is wholly correct. The Original JKD material (so-called) combined with the philosophical elements contained within Bruce Lee's notes and writings provide a foundation upon which we build our own personal martial art. In our case, this is the origin of "[Old School JKD](https://jkdwednite.com/jeet-kune-do/)".
 
-Using the principles laid out by Bruce Lee along with an understanding of the [foundation and function of Jeet Kune Do](https://jkdwednite.com/stages-in-the-cultivation-of-jeet-kune-do/), we can investigate other arts and draw out their essence. We call this the "JKD Filter".
+
+<figure class="wp-block-image alignleft size-medium is-resized">[![](/wp-content/uploads/2023/07/filter-cover-225x300.jpg)](https://www.jkdwednite.com/JKD-Filter.pdf)<figcaption class="wp-element-caption">[Download PDF](https://www.jkdwednite.com/JKD-Filter.pdf)</figcaption></figure>By labeling Jeet Kune Do as "just a philosophy" with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by its founder, Bruce Lee. On the other hand, by crystallizing the art as "only what Bruce Lee taught," we deprive ourselves of the free expression and naturalness (or natural-unnaturalness!) advocated so strongly by Sijo Lee.
+
+Our group does not believe that either approach is wholly correct. The Original JKD material (so-called) combined with the philosophical elements contained within Bruce Lee's notes and writings provide a foundation upon which we build our own personal martial art. In our case, this is the origin of "[Old School JKD](/jeet-kune-do/)".
+
+Using the principles laid out by Bruce Lee along with an understanding of the [foundation and function of Jeet Kune Do](/stages-in-the-cultivation-of-jeet-kune-do/), we can investigate other arts and draw out their essence. We call this the "JKD Filter".
 
 ## Jack Of All Trades or Master of Some?
 
@@ -60,7 +50,7 @@ Sometimes a technique that we really like may not pass through the filter. The q
 
 Also known as the "Pareto principle", the 80/20 rule states that quite often 80% of your results will come from 20% of your efforts. Therefore, to achieve maximum results, you should spend 80% of your time on the 20% that matters. This is a very useful idea which has been applied successfully to numerous disciplines. For our group, it essentially functions as a 2nd level to the JKD filter by reminding us to focus on the core techniques and principles of JKD. The trick is figuring out exactly which techniques make up the vital 20% that will deliver 80% of the results.
 
-When it comes to combat sports like MMA and Boxing the task is somewhat simpler because of the detailed statistics available. We can discern that for a lightweight MMA fighter more fights are finished by submission than KO, so the fighters training habits need to reflect that. The opposite becomes true for the Welterweight class and above. Admittedly, there is more than one way to interpret the data (ie. Smaller fighters need to work on their [punching power](https://jkdwednite.com/punching-power/) and larger fighters need to work on their submissions) but that isn't relevant to the current discussion.
+When it comes to combat sports like MMA and Boxing the task is somewhat simpler because of the detailed statistics available. We can discern that for a lightweight MMA fighter more fights are finished by submission than KO, so the fighters training habits need to reflect that. The opposite becomes true for the Welterweight class and above. Admittedly, there is more than one way to interpret the data (ie. Smaller fighters need to work on their [punching power](/punching-power/) and larger fighters need to work on their submissions) but that isn't relevant to the current discussion.
 
 In Boxing we find that the fighter that throws the most jabs usually wins. The trouble with a "street fighting" art like Jeet Kune Do is that there is no accurate way to obtain those types of statistics. Then how do we decide which techniques will be our primary responses (the vital 20%)?
 
@@ -68,7 +58,7 @@ The solution for us has been threefold:
 
 1. **Following JKD principles** – Particularly "economy of motion"
 2. **Individualization** – Accounting for strengths, weaknesses, and temperament
-3. **Testing** – Learn from successes and failures in [sparring](https://jkdwednite.com/high-performance-sparring/) and scenario training, as well as in the ring/cage.
+3. **Testing** – Learn from successes and failures in [sparring](/high-performance-sparring/) and scenario training, as well as in the ring/cage.
 
 > "Spend 80% of your time on what you will use 80% of the time."
 > 
@@ -76,4 +66,4 @@ The solution for us has been threefold:
 
 ## Conclusion
 
-The JKD Filter and the principle of Daily Decrease can be applied to any martial artist's training regimen, regardless of style. Whether your base art is Muay Thai, Judo, or Karate, and you train for [self-defense](https://jkdwednite.com/combatives/), competition, or both; strong fundamentals will force your opponents to respect and prepare for your most basic tools, making all of your secondary responses more effective and maximizing your training time.
+The JKD Filter and the principle of Daily Decrease can be applied to any martial artist's training regimen, regardless of style. Whether your base art is Muay Thai, Judo, or Karate, and you train for [self-defense](/combatives/), competition, or both; strong fundamentals will force your opponents to respect and prepare for your most basic tools, making all of your secondary responses more effective and maximizing your training time.

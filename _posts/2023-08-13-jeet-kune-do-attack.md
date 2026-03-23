@@ -1,22 +1,9 @@
 ---
-id: 3504
 title: 'Jeet Kune Do: Attack'
 date: '2023-08-13T03:30:36+00:00'
-author:
-    - 'Tim Tackett'
+author: "Tim Tackett"
 layout: post
-guid: 'https://jkdwednite.com/?p=3504'
 permalink: /jeet-kune-do-attack/
-ppma_authors_name:
-    - 'Tim Tackett'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"119281859864d83fb974109586198688";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/08/jkd-attack-featured.jpg
 categories:
     - Blog
@@ -25,6 +12,9 @@ tags:
     - Counterattack
     - 'Jeet Kune Do'
 ---
+
+
+
 
 An attack is an offensive action made with the objective of scoring a hit on an opponent. This action may be a single motion (simple attack) or comprised of several motions (compound/combination attack). It may be a direct attack in that it travels straight to the target via the most direct route. Or it may be indirect in which case while the attack begins in one line, it finishes in another.
 

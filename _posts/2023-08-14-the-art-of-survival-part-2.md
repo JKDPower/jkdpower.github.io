@@ -1,22 +1,9 @@
 ---
-id: 3687
 title: 'The Art of Survival: Part 2 (Mental Preparation)'
 date: '2023-08-14T11:19:56+00:00'
-author:
-    - 'Dennis Blue'
+author: "Dennis Blue"
 layout: post
-guid: 'https://jkdwednite.com/?p=3687'
 permalink: /the-art-of-survival-part-2/
-ppma_authors_name:
-    - 'Dennis Blue'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"24094897364da084ef00cb305432178";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/08/survival2-featured.jpg
 categories:
     - Self-Defense
@@ -25,15 +12,18 @@ tags:
     - 'Self Defense'
 ---
 
+
+
+
 **Preparedness is not paranoia.**
 
 Preparing yourself with mental training is just as crucial for combat as it is for a career. One major benefit of mental preparedness training is you cannot make any mistakes; you cannot die. In this mental preparation we are able to see ourselves in a varied amount of scenarios; hopefully each better than the other. This as you know is the practice of visualization.
 
-When I first started martial arts, more specifically my [studies in JKD](https://jkdwednite.com/wednesday-night-group-jkd/), I can still recall reading very early on Bruce Lee’s quote “You fight like you train.” I live by that today. If you train well you will fight well; if you don’t train - well let’s face it, you won’t. So very early on I was introduced to visualization. For a youth it was no real breaking mystery, children do it all the time; and most often get scolded for it, because they were daydreaming. I knew then, and refined it more as I trained in martial arts, prepared for fights, in various army schools/courses, and when I later studied psychology.
+When I first started martial arts, more specifically my [studies in JKD](/wednesday-night-group-jkd/), I can still recall reading very early on Bruce Lee’s quote “You fight like you train.” I live by that today. If you train well you will fight well; if you don’t train - well let’s face it, you won’t. So very early on I was introduced to visualization. For a youth it was no real breaking mystery, children do it all the time; and most often get scolded for it, because they were daydreaming. I knew then, and refined it more as I trained in martial arts, prepared for fights, in various army schools/courses, and when I later studied psychology.
 
-In all not much changed, I still saw myself doing what needed to be done. I would then go back and each time, find a way to better myself, my performance and the outcome. Improvise, adapt, and overcome are basic rules. There is always a means to better improve your outcome. As you educate yourself via [books](https://jkdwednite.com/books/), courses and experience you learn to adjust your mental environment even more. You can take that hostile situation and practice responding efficiently to it, from pre-engagement to the judgmental onslaught of the do-gooders. Mutually practice initial engagements and break contact, pre-disengagement break offs, as well as following through on inevitable contact to situational neutralization.
+In all not much changed, I still saw myself doing what needed to be done. I would then go back and each time, find a way to better myself, my performance and the outcome. Improvise, adapt, and overcome are basic rules. There is always a means to better improve your outcome. As you educate yourself via [books](/books/), courses and experience you learn to adjust your mental environment even more. You can take that hostile situation and practice responding efficiently to it, from pre-engagement to the judgmental onslaught of the do-gooders. Mutually practice initial engagements and break contact, pre-disengagement break offs, as well as following through on inevitable contact to situational neutralization.
 
-Pre-set mentally absolute resolve; “Never-Ever Quit”. Condition your mind to encourage confidently your attitude toward your personal survival. Do all that you can prior to confrontation to learn to avoid confrontation. Your attitude, level of awareness and [the 7 P’s](https://jkdwednite.com/the-art-of-survival-part-1/) are of major importance to the outcome.
+Pre-set mentally absolute resolve; “Never-Ever Quit”. Condition your mind to encourage confidently your attitude toward your personal survival. Do all that you can prior to confrontation to learn to avoid confrontation. Your attitude, level of awareness and [the 7 P’s](/the-art-of-survival-part-1/) are of major importance to the outcome.
 
 In your visualization scenarios you should have varied backgrounds, surroundings, circumstances and the like, and from them you should have derived at various responses. This is your first means of planning for confrontation. In taking what you have learned and going through it and over it, you commence solidification of these responses. Understand that via visualization, you are creating experiences. Your mind cannot differentiate between what you are visualizing and what is real. In this manner you are pre-programming yourself for success.
 

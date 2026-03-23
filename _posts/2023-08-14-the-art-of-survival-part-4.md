@@ -1,22 +1,9 @@
 ---
-id: 3755
 title: 'The Art of Survival: Part 4 (Fear &#038; Action)'
 date: '2023-08-14T15:06:58+00:00'
-author:
-    - 'Dennis Blue'
+author: "Dennis Blue"
 layout: post
-guid: 'https://jkdwednite.com/?p=3755'
 permalink: /the-art-of-survival-part-4/
-ppma_authors_name:
-    - 'Dennis Blue'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"43636871964da385e2a6a2935788384";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/08/survival4-featured.jpg
 categories:
     - Self-Defense
@@ -24,6 +11,9 @@ tags:
     - Combatives
     - 'Self Defense'
 ---
+
+
+
 
 To become fearless is not to be our primary purpose or pursuit; this point is critical. We have but to observe the world around us to see the frantic and neurotic behaviors of others.
 
@@ -75,4 +65,4 @@ Tactics are methods that are applied in skilled planning pertaining to organizin
 **Strategy**: The Why/When  
 Simply put strategy is planning and conducting. It is a devised plan of action or the carrying out of a plan to achieve a goal. This is the means of adaptation crucial to success, or the improvement of viability.
 
-The principles of [personal combatives](https://jkdwednite.com/combatives/) seek to introduce you to the mental aspects of survival as well as engaging you physically, mentally and psychologically via skills and technique. Learning skills and technique in a manner which is progressive will get you on target, and allow you to slow things down, respond promptly and effectively on task. Understanding the platform skills and utilizing appropriate technique are key to effectiveness in personal combative survival.
+The principles of [personal combatives](/combatives/) seek to introduce you to the mental aspects of survival as well as engaging you physically, mentally and psychologically via skills and technique. Learning skills and technique in a manner which is progressive will get you on target, and allow you to slow things down, respond promptly and effectively on task. Understanding the platform skills and utilizing appropriate technique are key to effectiveness in personal combative survival.

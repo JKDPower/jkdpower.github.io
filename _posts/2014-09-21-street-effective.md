@@ -1,22 +1,9 @@
 ---
-id: 132
 title: 'Street Effective Martial Arts'
 date: '2014-09-21T07:39:34+00:00'
-author:
-    - 'Mike Blesch'
+author: "Mike Blesch"
 layout: post
-guid: 'https://jkdwednite.com/newsite/?p=132'
 permalink: /street-effective/
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"52822726564b641783b046490369941";s:19:"_sow_form_timestamp";s:0:"";}'
-ppma_authors_name:
-    - 'Mike Blesch'
-footnotes:
-    - ''
-ppma_disable_author_box:
-    - '0'
 image: /wp-content/uploads/2014/09/streeteffective.jpg
 categories:
     - Articles
@@ -25,7 +12,10 @@ tags:
     - 'Self Defense'
 ---
 
-<figure class="wp-block-image alignleft size-medium is-resized">[![](https://jkdwednite.com/wp-content/uploads/2023/07/Street-cover-232x300.jpg)](https://www.jkdwednite.com/Street-Effective.pdf)<figcaption class="wp-element-caption">[Download PDF](https://www.jkdwednite.com/Street-Effective.pdf)</figcaption></figure>Fortunately, debates over which style of martial art is 'the best' have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of "Reality-based" training, the old Sport vs. Street argument is ever-present.
+
+
+
+<figure class="wp-block-image alignleft size-medium is-resized">[![](/wp-content/uploads/2023/07/Street-cover-232x300.jpg)](https://www.jkdwednite.com/Street-Effective.pdf)<figcaption class="wp-element-caption">[Download PDF](https://www.jkdwednite.com/Street-Effective.pdf)</figcaption></figure>Fortunately, debates over which style of martial art is 'the best' have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of "Reality-based" training, the old Sport vs. Street argument is ever-present.
 
 It would be tough to count the number of times I've heard some variation of the following statement:
 
@@ -42,9 +32,9 @@ Often what's meant by the above statement is either;
 
 It's certainly true that the more violent the encounter, the less skill is usually involved. Therefore the 'skilled responses' that we sometimes train against (a well executed straight punch or crafty defensive maneuver for example) are not "realistic". Add to that the fact that most martial arts training is conducted as if to prepare the student for a duel; shoes removed, wearing 'workout' attire and squared off with a single opponent who is likewise dressed for the gym and unarmed.
 
-Some very good instructors I know stress the difference between getting into a fight and being the victim of an attack. Fights sometimes begin with two people facing off and ample warning; Maybe not the ones we have to worry about as expert martial artists (ha!), but certainly those involving young males and alcohol, women, or some combination of both. Attacks on the other hand usually happen without warning. The attacker is not looking for a fight; He wants to achieve his objective and get away before men with guns and badges show up. Worse yet, there will probably be [weapons](https://jkdwednite.com/impact-edge/) and/or multiple persons involved.
+Some very good instructors I know stress the difference between getting into a fight and being the victim of an attack. Fights sometimes begin with two people facing off and ample warning; Maybe not the ones we have to worry about as expert martial artists (ha!), but certainly those involving young males and alcohol, women, or some combination of both. Attacks on the other hand usually happen without warning. The attacker is not looking for a fight; He wants to achieve his objective and get away before men with guns and badges show up. Worse yet, there will probably be [weapons](/impact-edge/) and/or multiple persons involved.
 
-<figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/Lead3-1024x527.jpg)</figure>As generalizations go, the previous paragraph is a pretty good one. It certainly helps to remind ourselves to think beyond the 'dueling' mindset. There is however, one caveat: *Reality is highly unpredictable*.
+<figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/Lead3-1024x527.jpg)</figure>As generalizations go, the previous paragraph is a pretty good one. It certainly helps to remind ourselves to think beyond the 'dueling' mindset. There is however, one caveat: *Reality is highly unpredictable*.
 
 I taught a gentleman who works at a correctional facility in Southern California. He related to me that most instances of violence against the staff involve skilled attacks. Inmates are sharing the martial arts training they received on the outside with one another. Officers confiscate makeshift training equipment on a regular basis. Wrap a pillow around a phone book, tie it to your arm and you've got an effective Thai-style striking pad.
 
@@ -56,7 +46,7 @@ One of the main lessons lessons I've learned from my teachers in the martial art
 
 ### 1) AWARENESS
 
-Needless to say, it's tough to counter an attack you don't see coming. Awareness puts you in a position to respond, both mentally and physically. A prerequisite to making any [self defense](https://jkdwednite.com/combatives/) method effective is having knowledge about what's happening in the world around you. Without it, nothing else matters.
+Needless to say, it's tough to counter an attack you don't see coming. Awareness puts you in a position to respond, both mentally and physically. A prerequisite to making any [self defense](/combatives/) method effective is having knowledge about what's happening in the world around you. Without it, nothing else matters.
 
 ### 2) ATTITUDE
 
@@ -84,7 +74,7 @@ Let's look at a few drills that I believe will help develop the 'aggression swit
 
 #### F.O. Drill
 
-In the late 1970's, one of Dan Inosanto's students by the name of Bob Ward was working as a strength and conditioning coach for the Dallas Cowboys. Through Mr. Ward, Guro Inosanto and a small group of his students including Larry Hartsell, Jerry Poteet, and [Tim Tackett](https://jkdwednite.com/tim/) brought functional martial arts techniques and training methods to the National Football League. Sifu Tackett shared a drill with us in his training group that he used with the pro football teams. The purpose was to get guys with a calmer temperament in the mindset of hitting hard.
+In the late 1970's, one of Dan Inosanto's students by the name of Bob Ward was working as a strength and conditioning coach for the Dallas Cowboys. Through Mr. Ward, Guro Inosanto and a small group of his students including Larry Hartsell, Jerry Poteet, and [Tim Tackett](/tim/) brought functional martial arts techniques and training methods to the National Football League. Sifu Tackett shared a drill with us in his training group that he used with the pro football teams. The purpose was to get guys with a calmer temperament in the mindset of hitting hard.
 
 1. Form a circle
 2. Coach starts the drill by shoving the person closest to him while yelling "F\*\*k you!". The more aggressive the better.
@@ -92,13 +82,13 @@ In the late 1970's, one of Dan Inosanto's students by the name of Bob Ward was w
 
 #### Mountain Goat Drill
 
-<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/MG1-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/MG2-1024x683.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">*Head to head: Using angles for leverage*</figcaption></figure>No matter how great our technique, physical strength matters. It's crucial that we learn how to take full advantage of what we've got using leverage, and most of all, be able to apply it under pressure against an opponent of equal or greater strength.
+<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/MG1-1024x683.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/MG2-1024x683.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">*Head to head: Using angles for leverage*</figcaption></figure>No matter how great our technique, physical strength matters. It's crucial that we learn how to take full advantage of what we've got using leverage, and most of all, be able to apply it under pressure against an opponent of equal or greater strength.
 
 The mountain goat drill is nothing more than a head-to-head drill, literally. The goal is to drive your partner backward through sheer force and leverage *without* using your hands.
 
 #### Phone Booth
 
-<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/PB1-1024x683.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">*Using kicking shields to create the "booth"*</figcaption></figure>Standing in line at a store, going to a concert, or walking through any generally busy area means other people are going to get close to you. An attacker that knows what he or she is doing will take advantage of those small trespasses into our personal space that we all allow out of common courtesy. Adding to that, probably the most shocking statistic I've found is that more people in the United States are murdered each year during an argument with an acquaintance than in the commission of any crime (FBI Uniform Crime Reports 2012). That means we must learn to defend ourselves from the range in which we typically hold a conversation with people that we know.
+<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/PB1-1024x683.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">*Using kicking shields to create the "booth"*</figcaption></figure>Standing in line at a store, going to a concert, or walking through any generally busy area means other people are going to get close to you. An attacker that knows what he or she is doing will take advantage of those small trespasses into our personal space that we all allow out of common courtesy. Adding to that, probably the most shocking statistic I've found is that more people in the United States are murdered each year during an argument with an acquaintance than in the commission of any crime (FBI Uniform Crime Reports 2012). That means we must learn to defend ourselves from the range in which we typically hold a conversation with people that we know.
 
 For this drill, using whatever equipment or barriers are available, we create a space approximately the size of a phone booth and put two people inside of it. On the trainers command, they fight all out at close range for 5 to 15 seconds or until the trainer calls time. It's important that the students are not allowed time or opportunity to prepare.
 
@@ -126,7 +116,7 @@ After running these sparring exercises the saying "speed kills" really proves it
 
 ### SPEED &amp; REACTION TIME
 
-We aren't all gifted with amazing physical [speed](https://jkdwednite.com/bruce-lee-speed/), but we can all reduce the amount of time it takes us to react. We do that simply by eliminating unnecessary options.
+We aren't all gifted with amazing physical [speed](/bruce-lee-speed/), but we can all reduce the amount of time it takes us to react. We do that simply by eliminating unnecessary options.
 
 There are several contexts in which reaction time can be measured. The "Handbook of Perception and Action: Motor Skills" defines them as:
 
@@ -146,9 +136,9 @@ The idea behind daily decrease is that it's ideal to "own" a few techniques, ref
 
 To be truly street effective we need to have one response that will cover many scenarios and can be drilled over and over until it becomes a simple reflex. Being able to fall back on this single technique increases reaction speed and thereby our chances of surviving the most dangerous part of the fight, the first few seconds. We all freeze when faced with danger, what matters is how quickly you can recover and start doing something.
 
-There are many options for a one-size-fits-all response taught by some great martial arts instructors. I included a few of them in a previous article titled [High Performance Sparring](https://jkdwednite.com/high-performance-sparring/). The one that I've found to have the greatest effectiveness for myself is the simultaneous high/low cover that I learned from [D.m. Blue](https://jkdwednite.com/dennis/), the most senior active member of the JKD Wednesday Night Group.
+There are many options for a one-size-fits-all response taught by some great martial arts instructors. I included a few of them in a previous article titled [High Performance Sparring](/high-performance-sparring/). The one that I've found to have the greatest effectiveness for myself is the simultaneous high/low cover that I learned from [D.m. Blue](/dennis/), the most senior active member of the JKD Wednesday Night Group.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/HL1-683x1024.jpg)</figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/HL2-683x1024.jpg)</figure><figure class="wp-block-image size-large">![](https://jkdwednite.com/wp-content/uploads/2023/07/HL3-683x1024.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">*Simultaneous high/low cover against empty hands or an edged weapon*</figcaption></figure><figure class="wp-block-pullquote alignright has-small-font-size">> **"Most martial arts that are any good focus on a few things done well."**
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/HL1-683x1024.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/HL2-683x1024.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/HL3-683x1024.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">*Simultaneous high/low cover against empty hands or an edged weapon*</figcaption></figure><figure class="wp-block-pullquote alignright has-small-font-size">> **"Most martial arts that are any good focus on a few things done well."**
 > 
 > <cite>**Tim Tackett**</cite>
 

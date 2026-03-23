@@ -1,23 +1,9 @@
 ---
-id: 4420
 title: 'Dennis Blue interview by Jeremy Lynch'
 date: '2008-08-21T11:34:21+00:00'
-author:
-    - 'Jeremy Lynch'
-    - 'Dennis Blue'
+author: "Jeremy Lynch"
 layout: post
-guid: 'https://jkdwednite.com/?p=4420'
 permalink: /dm-blue-interview/
-ppma_authors_name:
-    - 'Jeremy Lynch, Dennis Blue'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:8:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:6:"header";b:1;s:13:"header_margin";b:1;s:10:"page_title";b:1;s:6:"footer";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:30:"8571413065124d955375e420549983";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/09/dennis_blue.jpg
 categories:
     - Blog
@@ -25,7 +11,10 @@ tags:
     - Interview
 ---
 
-<figure class="wp-block-image alignleft size-medium is-style-default">![](https://jkdwednite.com/wp-content/uploads/2023/08/blue-featured-300x300.jpg)</figure>***JL: What is your background in the martial arts? Give us the full history.***
+
+
+
+<figure class="wp-block-image alignleft size-medium is-style-default">![](/wp-content/uploads/2023/08/blue-featured-300x300.jpg)</figure>***JL: What is your background in the martial arts? Give us the full history.***
 
 ***DB:*** I initially got into martial arts because my father was a boxer and he was also at that time involved with, I guess you would call it gangs. And there was a lot of rivalry then, so he wanted to make sure that I was able to fight too, so one of the big things was for him, when he came home from work, to show me a little bit of boxing. That was further perpetuated by my brother, who was quite a few years older than me. He and his friends always had bets that, “my little brother can beat up your little brother”, so every Friday like clockwork, they'd put all the little brothers together and make us fight.
 
@@ -33,7 +22,7 @@ Then the “Asian persuasion” of the martial arts really took course, and my f
 
 I started formal martial arts training again in the military style of Ji Do Kwan, which is a little bit more hardcore form of Tae Kwan Do, it's not the sport form that most people practice now. The instructor was a former… they called him the “Ghost” at the time, or the James Bond of Korea. He was a tough dude. It was fun to be able to work with him because he pushed me, probably harder than he should have, but I kept it to myself.
 
-One of the guys I was training with was reading books and found out that [Tim Tackett](https://jkdwednite.com/tim/) lived here in Redlands. So, he tried to call Tim a few times and I remember Tim hanging up on him, telling him, “I don't know what you're talking about. I don't teach Jeet Kune Do.” So I said let me try. I called and said “Mr. Tackett, my name is Dennis Blue and I'm currently taking Tae Kwon Do and I'm really interested in further educating myself and progressing my martial arts skills, and I'm wondering if you'd grant us the opportunity to come up and train with you.” And he said “Oh sure, we meet on Wednesday's at 7 o'clock, come on up.” I started with Tim in 1977 and I've pretty much stayed with him for a long very long time. I did leave a couple of times for a while, I was in the service, got out, went back a few times, got into law enforcement for a very short period of time, but in the interim, whenever I had the opportunity, I came back to train with Tim. And [Bert Poe](https://jkdwednite.com/bert/) was there, so I got a lot of combative training during that time. Later on down the road I started teaching on my own and started going down to the Inosanto Academy where I was watching some of the classes that Dan Inosanto was teaching. During that time Eric Knaus, Marc Denny and those guys were there. Burt Richardson was there. Brandon Lee was there. I got to work with those guys a couple of times, got to watch them work out. And that's when the Dog Brothers started their deal. So, I was there when they first started out which was really cool. One of my students at that time was working out with them. So, I got a lot of stuff out of that.
+One of the guys I was training with was reading books and found out that [Tim Tackett](/tim/) lived here in Redlands. So, he tried to call Tim a few times and I remember Tim hanging up on him, telling him, “I don't know what you're talking about. I don't teach Jeet Kune Do.” So I said let me try. I called and said “Mr. Tackett, my name is Dennis Blue and I'm currently taking Tae Kwon Do and I'm really interested in further educating myself and progressing my martial arts skills, and I'm wondering if you'd grant us the opportunity to come up and train with you.” And he said “Oh sure, we meet on Wednesday's at 7 o'clock, come on up.” I started with Tim in 1977 and I've pretty much stayed with him for a long very long time. I did leave a couple of times for a while, I was in the service, got out, went back a few times, got into law enforcement for a very short period of time, but in the interim, whenever I had the opportunity, I came back to train with Tim. And [Bert Poe](/bert/) was there, so I got a lot of combative training during that time. Later on down the road I started teaching on my own and started going down to the Inosanto Academy where I was watching some of the classes that Dan Inosanto was teaching. During that time Eric Knaus, Marc Denny and those guys were there. Burt Richardson was there. Brandon Lee was there. I got to work with those guys a couple of times, got to watch them work out. And that's when the Dog Brothers started their deal. So, I was there when they first started out which was really cool. One of my students at that time was working out with them. So, I got a lot of stuff out of that.
 
 Also at that time, I picked up a lot of students because Tim was only teaching classes on Wednesday's. So I got people like Erik Paulson, who I was going out to Palm Springs and Palm Desert to train. Also, Bruce Wilkerson and a couple of other guys I trained with 2 or 3 times a week.
 

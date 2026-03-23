@@ -1,22 +1,9 @@
 ---
-id: 3333
 title: 'The Wall Survival Drill'
 date: '2023-08-10T20:47:21+00:00'
-author:
-    - 'Erik Paulson'
+author: "Erik Paulson"
 layout: post
-guid: 'https://jkdwednite.com/?p=3333'
 permalink: /wall-survival-drill/
-ppma_authors_name:
-    - 'Erik Paulson'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:6:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:13:"header_margin";b:1;s:10:"page_title";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"203256938464d533df83361717431635";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/08/erik-paulson-featured.jpg
 categories:
     - Blog
@@ -25,9 +12,12 @@ tags:
     - 'Training Drills'
 ---
 
-<figure class="wp-block-image alignleft size-full is-resized">![](https://jkdwednite.com/wp-content/uploads/2023/08/erik-paulson-bw.jpg)</figure>In boxing this drill is also referred to as a *corner drill*, used as an essential element of a fighter's ability to take and defend against a punch, and to see where the attack is coming from. It dates back to the Filipino boxing era and was employed by many knife fighters to teach them how to acknowledge the lines of attack and the body movement necessary to set up the combinations following the primary attack. Dan Inosanto originally trained many of his students and fighters with this drill that was passed down through several of his teachers and trainers.
 
-This drill was originally shown to me by [Tim Tackett](https://jkdwednite.com/tim/) and [Bert Poe](https://jkdwednite.com/bert/), who once trained a specific few in their garage and was kind enough to share some great information every Wednesday night in Redlands, California.
+
+
+<figure class="wp-block-image alignleft size-full is-resized">![](/wp-content/uploads/2023/08/erik-paulson-bw.jpg)</figure>In boxing this drill is also referred to as a *corner drill*, used as an essential element of a fighter's ability to take and defend against a punch, and to see where the attack is coming from. It dates back to the Filipino boxing era and was employed by many knife fighters to teach them how to acknowledge the lines of attack and the body movement necessary to set up the combinations following the primary attack. Dan Inosanto originally trained many of his students and fighters with this drill that was passed down through several of his teachers and trainers.
+
+This drill was originally shown to me by [Tim Tackett](/tim/) and [Bert Poe](/bert/), who once trained a specific few in their garage and was kind enough to share some great information every Wednesday night in Redlands, California.
 
 The drill originally consisted of one person standing against the wall with both hands up while the other would punch non-stop to the head and body for one or three minutes. This drill conditions the person getting hit as to how to take a shot and cover. For the feeder, it tests his/her arm endurance to punch from one-three minutes straight, working on angles and attacks.
 

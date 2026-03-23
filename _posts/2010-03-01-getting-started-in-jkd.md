@@ -1,22 +1,9 @@
 ---
-id: 2897
 title: 'Getting Started in JKD'
 date: '2010-03-01T08:35:56+00:00'
-author:
-    - 'Tim Tackett'
+author: "Tim Tackett"
 layout: post
-guid: 'https://jkdwednite.com/?p=2897'
 permalink: /getting-started-in-jkd/
-ppma_authors_name:
-    - 'Tim Tackett'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:6:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:13:"header_margin";b:1;s:10:"page_title";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"93233843964d0ac7b906c4644159925";s:19:"_sow_form_timestamp";s:0:"";}'
-footnotes:
-    - ''
 image: /wp-content/uploads/2010/03/tackett-jkd.jpg
 categories:
     - Blog
@@ -24,17 +11,20 @@ tags:
     - 'Jeet Kune Do'
 ---
 
-<figure class="wp-block-image alignleft size-medium">![](https://jkdwednite.com/wp-content/uploads/2023/08/tackett-clan-300x206.jpg)<figcaption class="wp-element-caption">*The Tackett family of JKD'ers*</figcaption></figure>Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: ***How long will it take me to become a JKD expert and be certified to teach?***
 
-I usually reply with a question of my own: ***How long would it take you to become a great basketball player and then a coach for a college team?*** It’s obviously a rhetorical question designed to convey what many people forget – that JKD or any other martial art is an athletic endeavor and that advancement requires the development of balance, [speed](https://jkdwednite.com/bruce-lee-speed/), fast-twitch muscles and so on. While you can get better every day if you put in the time and effort, not everyone can get good enough to be considered a teacher.
+
+
+<figure class="wp-block-image alignleft size-medium">![](/wp-content/uploads/2023/08/tackett-clan-300x206.jpg)<figcaption class="wp-element-caption">*The Tackett family of JKD'ers*</figcaption></figure>Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: ***How long will it take me to become a JKD expert and be certified to teach?***
+
+I usually reply with a question of my own: ***How long would it take you to become a great basketball player and then a coach for a college team?*** It’s obviously a rhetorical question designed to convey what many people forget – that JKD or any other martial art is an athletic endeavor and that advancement requires the development of balance, [speed](/bruce-lee-speed/), fast-twitch muscles and so on. While you can get better every day if you put in the time and effort, not everyone can get good enough to be considered a teacher.
 
 #### The other common question is: *How do I get started in JKD?*
 
-The first thing you should do is search for a [recognized JKD school](https://jkdwednite.com/affiliated/) or [certified instructor](https://jkdwednite.com/official/). While there’s no official master list of authorized JKD schools, it can be helpful to check the web site of an acknowledged expert such as Richard Bustillo to see whether he or one of his students has a school in your area. If that doesn’t work, you’ll need to figure out how far you’re willing to drive to study with a qualified teacher because travel will probably be required. Point of reference: While attending law school, one of my students would drive 110 miles each way once a week to learn JKD. It’s obviously not as good as training two or three times a week, but progress is possible.
+The first thing you should do is search for a [recognized JKD school](/affiliated/) or [certified instructor](/official/). While there’s no official master list of authorized JKD schools, it can be helpful to check the web site of an acknowledged expert such as Richard Bustillo to see whether he or one of his students has a school in your area. If that doesn’t work, you’ll need to figure out how far you’re willing to drive to study with a qualified teacher because travel will probably be required. Point of reference: While attending law school, one of my students would drive 110 miles each way once a week to learn JKD. It’s obviously not as good as training two or three times a week, but progress is possible.
 
-If you can’t find a school close enough for regular trips, consider attending a [JKD camp](https://jkdwednite.com/seminars/). A week-long training event is a great way to get started. It can help you gain an understanding of basic JKD techniques, which you can then practice at home – perhaps while studying books or videos.
+If you can’t find a school close enough for regular trips, consider attending a [JKD camp](/seminars/). A week-long training event is a great way to get started. It can help you gain an understanding of basic JKD techniques, which you can then practice at home – perhaps while studying books or videos.
 
-And if you’re unable to find a camp or seminar in your area? You can build on the martial art you currently practice by supplementing it with JKD techniques learned from [books](https://jkdwednite.com/books/) and [videos](https://jkdwednite.com/videos/). A more formal alternative might entail finding a school that teaches wing chun or Western boxing, both of which are part of JKD, and then fine-tuning it with those books and videos.
+And if you’re unable to find a camp or seminar in your area? You can build on the martial art you currently practice by supplementing it with JKD techniques learned from [books](/books/) and [videos](/videos/). A more formal alternative might entail finding a school that teaches wing chun or Western boxing, both of which are part of JKD, and then fine-tuning it with those books and videos.
 
 Sometimes a beginner will assemble a group of friends and try to learn JKD from scratch using books and videos. It’s convenient, but you risk picking up bad habits and getting injured. Nothing beats learning from a qualified instructor in a safe environment.
 

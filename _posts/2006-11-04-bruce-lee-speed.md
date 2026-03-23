@@ -1,20 +1,9 @@
 ---
-id: 2753
 title: 'Bruce Lee&#8217;s 6 Types of Speed'
 date: '2006-11-04T13:59:36+00:00'
-author:
-    - 'Tim Tackett'
+author: "Tim Tackett"
 layout: post
-guid: 'https://jkdwednite.com/?p=2753'
 permalink: /bruce-lee-speed/
-ppma_authors_name:
-    - 'Tim Tackett'
-ppma_disable_author_box:
-    - '0'
-siteorigin_page_settings:
-    - 'a:6:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:13:"header_margin";b:1;s:10:"page_title";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"137710506764ccf3f4e6f1f004761150";s:19:"_sow_form_timestamp";s:0:"";}'
 image: /wp-content/uploads/2023/08/bruce-jump-rope.jpg
 categories:
     - Blog
@@ -23,7 +12,10 @@ tags:
     - 'Speed Training'
 ---
 
-<figure class="wp-block-image alignleft size-medium is-resized is-style-default">![Bruce Lee finger jab training](https://jkdwednite.com/wp-content/uploads/2023/08/bruce-lee-finger-jab-193x300.jpg)</figure>The Wednesday Night Group has gotten a lot of questions about Bruce Lee's speed. They usually want to know if he was as fast as he seemed to be in his movies. The truth was that Bruce was even faster and had to slow his movements down so the camera could pick them up. Even though Bruce Lee was very fast, he told [Bob Bremer](https://jkdwednite.com/bob/) that he had met people who were faster than he was. He told Bob that because of this he had to learn to be deceptive.
+
+
+
+<figure class="wp-block-image alignleft size-medium is-resized is-style-default">![Bruce Lee finger jab training](/wp-content/uploads/2023/08/bruce-lee-finger-jab-193x300.jpg)</figure>The Wednesday Night Group has gotten a lot of questions about Bruce Lee's speed. They usually want to know if he was as fast as he seemed to be in his movies. The truth was that Bruce was even faster and had to slow his movements down so the camera could pick them up. Even though Bruce Lee was very fast, he told [Bob Bremer](/bob/) that he had met people who were faster than he was. He told Bob that because of this he had to learn to be deceptive.
 
 When most people talk about speed, they are usually talking about how fast a particular punch or kick is, but speed is much more than that. In fact, Bruce Lee broke down speed into 6 types and wanted his students to drill to proficiency in all of them.
 

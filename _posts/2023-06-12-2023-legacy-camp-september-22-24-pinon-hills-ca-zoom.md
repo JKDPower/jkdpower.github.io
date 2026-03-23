@@ -1,30 +1,18 @@
 ---
-id: 512
 title: '2023 Legacy Camp: September 22-24, Pinon Hills, CA / Zoom'
 date: '2023-06-12T10:53:58+00:00'
-author:
-    - 'Vince V'
+author: "Vince V"
 layout: post
-guid: 'https://jkdwednite.com/newsite/?p=512'
 permalink: /2023-legacy-camp-september-22-24-pinon-hills-ca-zoom/
-siteorigin_page_settings:
-    - 'a:6:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:13:"header_margin";b:1;s:10:"page_title";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:32:"208689281064ba632955714633504984";s:19:"_sow_form_timestamp";s:0:"";}'
-two_optimized_date:
-    - '1690460691'
-ppma_authors_name:
-    - 'Vince V'
-footnotes:
-    - ''
-ppma_disable_author_box:
-    - '0'
 image: /wp-content/uploads/2023/07/2023camp.jpg
 categories:
     - Events
 tags:
     - Seminars
 ---
+
+
+
 
 [REGISTER NOW &gt;&gt;](https://www.phlmar.org/event-calendar/jeet-kune-do-camp-1)  
 Live Camp- $360   
@@ -43,4 +31,4 @@ Overnight accommodations: All camp attendees can camp onsite complimentary. You 
 
 Nearest airport is Ontario International Airport- 41 miles distance and LAX is 91 miles distance. There are local Airbnb’s in Phelan and Wrightwood. Contact <pinonhillsarts@gmail.com> for recommendations for certain size groups. Local hotels such as Holiday Inn Victorville, Courtyard by Marriott in Hesperia.
 
-<figure class="wp-block-image size-large">[![](https://jkdwednite.com/wp-content/uploads/2023/07/2023camp-796x1024.jpg)](https://www.phlmar.org/event-calendar)</figure>
+<figure class="wp-block-image size-large">[![](/wp-content/uploads/2023/07/2023camp-796x1024.jpg)](https://www.phlmar.org/event-calendar)</figure>
