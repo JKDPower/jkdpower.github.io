@@ -1,26 +1,21 @@
 ---
-id: 446
 title: 'Jim Sewell'
 date: '2023-07-20T22:04:48+00:00'
 author: 'JKD WNG'
 layout: page
-guid: 'https://jkdwednite.com/newsite/?page_id=446'
-siteorigin_page_settings:
-    - 'a:6:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:13:"header_margin";b:1;s:10:"page_title";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:30:"1881292964b9af5e73d97252397373";s:19:"_sow_form_timestamp";s:0:"";}'
-ppma_authors_name:
-    - 'JKD WNG'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/07/jim-sewell.jpg
+permalink: /jim/
+header_type: hero
 ---
 
-<figure class="wp-block-image alignleft size-full is-resized">![](https://jkdwednite.com/wp-content/uploads/2023/07/jim_sewell-1.jpg)</figure>I first got interested in Jeet Kune Do through [Bob Bremer](https://jkdwednite.com/bob/). Bob and I go back to the early 1960's. I went with Bob to Ed Parker's place in Pasadena, California, two or three times when Bob was taking kempo-karate. I never got interested in kempo-karate because it looked kind of robotic to me.
+
+![](/wp-content/uploads/2023/07/jim_sewell-1.jpg)
+
+I first got interested in Jeet Kune Do through [Bob Bremer](/bob/). Bob and I go back to the early 1960's. I went with Bob to Ed Parker's place in Pasadena, California, two or three times when Bob was taking kempo-karate. I never got interested in kempo-karate because it looked kind of robotic to me.
 
 One day Bob asked me to go to the Long Beach Sports Arena with him where Ed Parker was promoting a tournament. This was the first time I ever heard of Bruce Lee. Soon after that, Bob left kempo-karate and went to Chinatown (Los Angeles) to take Jeet Kune Do (JKD). I wanted see what JKD was all about. Bob invited me to come along one day. I signed up the first time I was there! I didn't know much about martial arts prior to going to Chinatown, but I could see that this art was different. JKD looked smooth, flowing and free. The only fighting I knew \[prior to learning JKD\] was street-fighting. I used to watch my brother fight in the Golden Gloves boxing tournament. He was also a good street fighter. When I went to Chinatown I never wanted to be an instructor of JKD, I just wanted to learn how to be a better fighter. Some guys are natural teachers. I wasn’t, I just wanted to learn how to fight better.
 
-I was at Chinatown for a little over a year. In January of 1968, I received my first rank certificate. I left sometime after August 1968. I didn't do anything with JKD for about 20 years, then about 10 years ago I started to show up at Tim Tackett's [Wednesday night class](https://jkdwednite.com/classes/) in Redlands, California. I enjoy it a lot. It is probably the only place where you can find seven Chinatown ranking certificates hanging on the wall. Three of them belong to Bob Bremer, one each to Fred Bremer, Tim Tackett, and Bill Bremer. The last one belongs to me, Jim Sewell.
+I was at Chinatown for a little over a year. In January of 1968, I received my first rank certificate. I left sometime after August 1968. I didn't do anything with JKD for about 20 years, then about 10 years ago I started to show up at Tim Tackett's [Wednesday night class](/classes/) in Redlands, California. I enjoy it a lot. It is probably the only place where you can find seven Chinatown ranking certificates hanging on the wall. Three of them belong to Bob Bremer, one each to Fred Bremer, Tim Tackett, and Bill Bremer. The last one belongs to me, Jim Sewell.
 
 We have a lot of good guys that regularly train at the Wednesday night class. Bruce Lee would be proud of these men. They know a lot about J.K.D. and they can do it very well. When I first went to Chinatown and met Bruce Lee, I felt pretty inadequate. Bruce was not a large man but he could generate so much power, speed and balance and he showed so much confidence. Here I'm the same age as Bruce but I'm 6'1" and 220 pounds. He had more power, more everything. I thought I wanted THIS! Seeing Bruce workout was what kept me coming back. I wanted what he had.
 

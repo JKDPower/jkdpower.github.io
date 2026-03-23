@@ -1,22 +1,17 @@
 ---
-id: 374
 title: 'Kwoklyn Wan'
 date: '2023-07-20T17:00:56+00:00'
 author: 'JKD WNG'
 layout: page
-guid: 'https://jkdwednite.com/newsite/?page_id=374'
-siteorigin_page_settings:
-    - 'a:6:{s:6:"layout";s:7:"default";s:7:"overlap";s:8:"disabled";s:13:"header_margin";b:1;s:10:"page_title";b:1;s:13:"footer_margin";b:1;s:14:"footer_widgets";b:1;}'
-siteorigin_premium_meta:
-    - 'a:3:{s:12:"logo_booster";a:3:{s:4:"base";s:0:"";s:6:"sticky";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:31:"72395231764b9681c5dec2745824469";s:19:"_sow_form_timestamp";s:0:"";}'
-ppma_authors_name:
-    - 'JKD WNG'
-footnotes:
-    - ''
 image: /wp-content/uploads/2023/07/kwoklyn-wan.jpg
+permalink: /kwoklyn/
+header_type: hero
 ---
 
-<figure class="wp-block-image alignleft size-medium is-resized">![](https://jkdwednite.com/wp-content/uploads/2023/07/kwoklyn-wan-300x300.jpg)</figure>Kwoklyn Wan grew up in Leicester in a family steeped in Martial Arts tradition. He was inspired by the films of Bruce Lee, like many youngsters from the 1970’s. Kwoklyn started his martial arts journey at the age of 4 in 1977 studying Shotokan Karate and then went on to study Wing Chun and Chinese Boxing with his Uncles in the early 80’s. During the late 80’s and early 90’s Kwoklyn tried many other martial arts and It wasn’t until he discovered Jeet Kune Do in 1998 he began to focus on becoming an Instructor in the martial arts. This resulted in Wan becoming the European representative of the famous JKD Wednesday Night Group headed by Tim Tackett, which has the aim of preserving and promoting Bruce Lee’s original form of the Martial Arts. Kwoklyn opened his own Martial Arts Academy ‘[URBAN MARTIAL ARTS](https://www.urbanmartialarts.com/)’ in 2004. Starting with just a handful of students Urban Martial Arts has grown, and now teaches Jeet Kune Do to students across the world.
+
+![](/wp-content/uploads/2023/07/kwoklyn-wan-300x300.jpg)
+
+Kwoklyn Wan grew up in Leicester in a family steeped in Martial Arts tradition. He was inspired by the films of Bruce Lee, like many youngsters from the 1970’s. Kwoklyn started his martial arts journey at the age of 4 in 1977 studying Shotokan Karate and then went on to study Wing Chun and Chinese Boxing with his Uncles in the early 80’s. During the late 80’s and early 90’s Kwoklyn tried many other martial arts and It wasn’t until he discovered Jeet Kune Do in 1998 he began to focus on becoming an Instructor in the martial arts. This resulted in Wan becoming the European representative of the famous JKD Wednesday Night Group headed by Tim Tackett, which has the aim of preserving and promoting Bruce Lee’s original form of the Martial Arts. Kwoklyn opened his own Martial Arts Academy ‘[URBAN MARTIAL ARTS](https://www.urbanmartialarts.com/)’ in 2004. Starting with just a handful of students Urban Martial Arts has grown, and now teaches Jeet Kune Do to students across the world.
 
 
 Kwoklyn Wan Martial Arts Bio:
