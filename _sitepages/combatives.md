@@ -47,4 +47,4 @@ We believe that in order to prepare yourself for any eventuality you must develo
 
 Reserve a spot at our next live or virtual workshop.
 
-\[wpforms id="4529" title="false"\] 
+To get in touch, [contact us here](/contact/). 

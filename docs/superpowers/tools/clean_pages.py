@@ -90,7 +90,7 @@ def clean_file(path: Path, permalink: str, header_type: str = None) -> None:
 
 
 if __name__ == '__main__':
-    base = Path('C:/Users/Bitpusher/workspace/jkdpower.github.io/_sitepages')
+    base = Path(__file__).resolve().parent.parent.parent / '_sitepages'
 
     pages = {
         'about.md':             ('/about/',              'hero'),

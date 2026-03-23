@@ -10,4 +10,4 @@ permalink: /gallery/
 
 The JKD Wednesday Night Group, our lineage and history in photos.
 
-\[Best\_Wordpress\_Gallery id="1" gal\_title="Main"\] 
+*Photos are available in our [Facebook gallery](https://www.facebook.com/jkdwednite).* 

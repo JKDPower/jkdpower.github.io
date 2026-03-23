@@ -13,4 +13,4 @@ Videos featuring JKD Wednesday Night Group [Instructors](/official/) covering a 
 Full-length instructional videos available for free:   
 [JKD Kickboxing](https://www.youtube.com/watch?v=kRhV5CBUXrE) - [Jeet Kune Do Footwork](https://www.youtube.com/watch?v=RzREoi_wia8) - [Sparring for Beginners](https://www.youtube.com/watch?v=RZ2C4DjWB9w) - [Punching Power](https://www.youtube.com/watch?v=Ql3tbS6wer0)
 
-\[Best\_Wordpress\_Gallery id="4" gal\_title="Videos"\] 
+*Videos are available on our [YouTube channel](https://www.youtube.com/@jkdwednite).* 

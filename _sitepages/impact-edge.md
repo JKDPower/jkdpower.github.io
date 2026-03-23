@@ -56,4 +56,4 @@ Battle/Combat Drills
 
 Reserve a spot at our next live or virtual workshop.
 
-\[wpforms id="4622" title="false"\] 
+To get in touch, [contact us here](/contact/). 
