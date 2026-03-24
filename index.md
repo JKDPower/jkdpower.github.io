@@ -124,19 +124,23 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 <h2>Recent Articles</h2>
 
 {% assign articles = site.posts | where_exp: "post", "post.categories contains 'Articles'" %}
+<ul>
 {% for post in articles limit:5 %}
-- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
+<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %-d, %Y" }}</li>
 {% endfor %}
+</ul>
 
-[View all articles →](/articles/)
+<a href="/articles/">View all articles →</a>
 
 <h2>Recent News &amp; Events</h2>
 
 {% assign events = site.posts | where_exp: "post", "post.categories contains 'Events'" %}
+<ul>
 {% for post in events limit:3 %}
-- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
+<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %-d, %Y" }}</li>
 {% endfor %}
+</ul>
 
-[View all posts →](/blog/)
+<a href="/blog/">View all posts →</a>
 
 </div>
