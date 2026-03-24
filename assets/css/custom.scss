@@ -104,8 +104,12 @@ figure.wp-block-image,
 
 footer {
   color: #fff !important;
-  a { color: #ccc !important; }
-  a:hover { color: #fff !important; }
+  a { color: #fff !important; }
+  a:hover { color: #b91c1c !important; }
+  .fa, .fab, .fas, .far {
+    color: #fff !important;
+    &:hover { color: #b91c1c !important; }
+  }
 }
 
 // ── Homepage hero carousel ──────────────────────────────────────────────────
