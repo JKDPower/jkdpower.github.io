@@ -6,18 +6,7 @@ header_type: none
 include_on_search: false
 ---
 
-<style>
-#maincontent { margin-top: 0 !important; }
-main > .row { padding-top: 0 !important; }
-</style>
-
 <div id="jkd-carousel-wrapper">
-
-<div class="jkd-hero-title">
-<h1>JKD Wednesday Night Group</h1>
-<p>Preserve &middot; Promote &middot; Practice</p>
-</div>
-
 <div id="jkd-carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="4500">
 
 <ol class="carousel-indicators">
