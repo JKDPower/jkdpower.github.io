@@ -120,6 +120,35 @@ footer {
   margin-right: calc(-50vw + 50%);
   overflow: hidden;
   margin-bottom: 2rem;
+  position: relative;
+}
+
+.jkd-hero-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  text-align: center;
+  padding: 1.25rem 1rem;
+  pointer-events: none;
+
+  h1 {
+    color: #fff !important;
+    font-weight: 700;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.85);
+    margin-bottom: 0.2rem;
+    font-size: 2rem;
+  }
+
+  p {
+    color: #fff !important;
+    font-weight: 600;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.85);
+    letter-spacing: 0.15em;
+    margin-bottom: 0;
+    font-size: 1rem;
+  }
 }
 
 .jkd-slide {
