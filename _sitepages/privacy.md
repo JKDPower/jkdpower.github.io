@@ -5,7 +5,6 @@ author: 'JKD WNG'
 layout: default
 image: /wp-content/uploads/2023/08/privacy-featured.jpg
 permalink: /privacy/
-permalink: /privacy/
 ---
 
 

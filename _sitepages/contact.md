@@ -3,8 +3,8 @@ title: Contact
 date: '2023-07-18T05:30:55+00:00'
 author: 'JKD WNG'
 layout: default
+header_type: hero
 image: /wp-content/uploads/2023/08/contact-featured.jpg
-permalink: /contact/
 permalink: /contact/
 ---
 

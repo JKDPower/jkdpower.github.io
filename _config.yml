@@ -62,12 +62,20 @@ navbar:
         url   : /seminars/
       - title : Classes
         url   : /classes/
+  - title   : Schools
+    child   :
+      - title : Official Instructors
+        url   : /official/
+      - title : Affiliated Schools
+        url   : /affiliated/
   - title   : Media
     child   :
       - title : Articles
         url   : /articles/
       - title : Blog
         url   : /blog/
+      - title : Self Defense Blog
+        url   : /self-defense-blog/
       - title : Videos
         url   : /videos/
       - title : Gallery

@@ -3,8 +3,8 @@ title: 'Group News'
 date: '2024-02-20T01:39:38+00:00'
 author: 'JKD WNG'
 layout: default
+header_type: hero
 image: /wp-content/uploads/2024/02/news-updates.jpg
-permalink: /group-news/
 permalink: /group-news/
 ---
 

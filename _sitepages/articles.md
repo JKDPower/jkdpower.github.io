@@ -3,8 +3,8 @@ title: 'Jeet Kune Do Articles'
 date: '2023-07-18T05:27:13+00:00'
 author: 'JKD WNG'
 layout: default
+header_type: hero
 image: /wp-content/uploads/2023/08/articles-featured.jpg
-permalink: /articles/
 permalink: /articles/
 ---
 

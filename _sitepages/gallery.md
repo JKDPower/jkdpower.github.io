@@ -3,8 +3,8 @@ title: 'Photo Gallery'
 date: '2023-07-18T08:07:13+00:00'
 author: 'JKD WNG'
 layout: default
-image: /wp-content/uploads/2023/08/tackett-author.jpg
-permalink: /gallery/
+header_type: hero
+image: /wp-content/uploads/2023/08/gallery.jpg
 permalink: /gallery/
 ---
 

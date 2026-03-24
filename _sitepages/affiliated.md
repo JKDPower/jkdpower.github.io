@@ -3,8 +3,8 @@ title: Affiliates
 date: '2023-07-18T05:23:26+00:00'
 author: 'JKD WNG'
 layout: default
+header_type: hero
 image: /wp-content/uploads/2023/08/affiliated-featured.jpg
-permalink: /affiliated/
 permalink: /affiliated/
 ---
 
