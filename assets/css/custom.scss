@@ -2,6 +2,91 @@
 ---
 @charset "utf-8";
 
+// ── Typography ───────────────────────────────────────────────────────────────
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+// ── Accent colour overrides ──────────────────────────────────────────────────
+
+.btn-primary {
+  background-color: #b91c1c !important;
+  border-color: #b91c1c !important;
+  &:hover, &:focus {
+    background-color: #991b1b !important;
+    border-color: #991b1b !important;
+  }
+}
+
+// ── WordPress image blocks ───────────────────────────────────────────────────
+
+figure.wp-block-image,
+.wp-block-image {
+  margin: 1.5rem 0;
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  figcaption {
+    font-size: 0.875rem;
+    color: #555;
+    text-align: center;
+    margin-top: 0.35rem;
+  }
+  &.alignright {
+    float: right;
+    margin-left: 1.5rem;
+  }
+  &.alignleft {
+    float: left;
+    margin-right: 1.5rem;
+  }
+  &.aligncenter img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  &.is-cropped img {
+    object-fit: cover;
+    height: 220px;
+    width: 100%;
+  }
+}
+
+.wp-block-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+  list-style: none;
+  padding: 0;
+
+  .blocks-gallery-item,
+  li {
+    flex: 1 1 220px;
+    max-width: 100%;
+    margin: 0;
+    figure { margin: 0; }
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    figcaption {
+      font-size: 0.8rem;
+      color: #555;
+      text-align: center;
+      padding: 0.2rem 0;
+    }
+  }
+
+  &.columns-2 li  { flex-basis: calc(50%  - 0.75rem); }
+  &.columns-3 li  { flex-basis: calc(33%  - 0.75rem); }
+  &.columns-4 li  { flex-basis: calc(25%  - 0.75rem); }
+}
+
 // ── Navbar & footer: dark grey with bold white text ────────────────────────
 
 .navbar {

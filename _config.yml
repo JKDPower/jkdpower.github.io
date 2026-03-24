@@ -46,7 +46,7 @@ navbar:
   style     :
   expand    :
   brand:
-    title   : Home
+    title   : "Wednesday Night Group"
     url     : /
     img     :
   nav:
@@ -105,6 +105,7 @@ footer:
 
 # C. Theme Settings
 googlefonts:
+  - "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap"
 
 chulapa-skin:
   highlight     :
@@ -112,6 +113,7 @@ chulapa-skin:
   autothemer    : false
   vars          :
     primary     : "#2d3035"
+    link-color  : "#b91c1c"
 
 # D. Jekyll Defaults and Collections
 paginate      : 4
@@ -150,7 +152,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      header_type         : "post"
+      header_type         : "hero"
       include_on_search   : true
       include_on_feed     : true
       show_date           : true
