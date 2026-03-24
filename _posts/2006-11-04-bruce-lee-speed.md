@@ -15,7 +15,7 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-medium is-resized is-style-default">![Bruce Lee finger jab training](/wp-content/uploads/2023/08/bruce-lee-finger-jab-193x300.jpg)</figure>The Wednesday Night Group has gotten a lot of questions about Bruce Lee's speed. They usually want to know if he was as fast as he seemed to be in his movies. The truth was that Bruce was even faster and had to slow his movements down so the camera could pick them up. Even though Bruce Lee was very fast, he told [Bob Bremer](/bob/) that he had met people who were faster than he was. He told Bob that because of this he had to learn to be deceptive.
+<figure class="wp-block-image alignleft size-medium is-resized is-style-default"><img src="/wp-content/uploads/2023/08/bruce-lee-finger-jab-193x300.jpg" alt="Bruce Lee finger jab training"></figure>The Wednesday Night Group has gotten a lot of questions about Bruce Lee's speed. They usually want to know if he was as fast as he seemed to be in his movies. The truth was that Bruce was even faster and had to slow his movements down so the camera could pick them up. Even though Bruce Lee was very fast, he told [Bob Bremer](/bob/) that he had met people who were faster than he was. He told Bob that because of this he had to learn to be deceptive.
 
 When most people talk about speed, they are usually talking about how fast a particular punch or kick is, but speed is much more than that. In fact, Bruce Lee broke down speed into 6 types and wanted his students to drill to proficiency in all of them.
 

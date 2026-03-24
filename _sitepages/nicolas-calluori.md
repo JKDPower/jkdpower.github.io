@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![](/wp-content/uploads/2023/09/Nicolas-Calluori-214x300.jpg)
+<img src="/wp-content/uploads/2023/09/Nicolas-Calluori-214x300.jpg" alt="">
 
 Growing up in the 1970s and '80s, Nicolas fell in love with martial arts and boxing at a young age. He idolized Bruce Lee and Muhammad Ali and took up boxing at age 8. At age 12, he practiced Shotokan Karate for several years, winning a Silver medal at the National Championship.
 
@@ -19,12 +19,12 @@ Nicolas has been training with Sifu Raimondi since 2013 and has participated in 
 
 Email Nicolas: <nicolasvalac@hotmail.it>
 
-![](/wp-content/uploads/2023/09/nc1-300x169.jpg)
+<img src="/wp-content/uploads/2023/09/nc1-300x169.jpg" alt="">
 
-![](/wp-content/uploads/2023/09/nc2-300x200.jpg)
+<img src="/wp-content/uploads/2023/09/nc2-300x200.jpg" alt="">
 
-![](/wp-content/uploads/2023/09/nc3-1-300x200.jpg)
+<img src="/wp-content/uploads/2023/09/nc3-1-300x200.jpg" alt="">
 
-![](/wp-content/uploads/2023/09/nc4-300x276.jpg)
+<img src="/wp-content/uploads/2023/09/nc4-300x276.jpg" alt="">
 
-![](/wp-content/uploads/2023/09/nc5.jpg)
+<img src="/wp-content/uploads/2023/09/nc5.jpg" alt="">

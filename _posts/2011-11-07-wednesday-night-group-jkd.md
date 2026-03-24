@@ -14,7 +14,7 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-full is-resized is-style-default">![](/wp-content/uploads/2011/11/wng-oldschool-logo-800.png)</figure>This group was organized to promote the martial art of Jeet Kune Do as conceived and taught by Bruce Lee. We recognize that [Jeet Kune Do](/jeet-kune-do/) consists of two components; one a technical, scientific, concrete component (Foundational Structure) and two; A General philosophic component. The first component is;
+<figure class="wp-block-image alignleft size-full is-resized is-style-default"><img src="/wp-content/uploads/2011/11/wng-oldschool-logo-800.png" alt=""></figure>This group was organized to promote the martial art of Jeet Kune Do as conceived and taught by Bruce Lee. We recognize that [Jeet Kune Do](/jeet-kune-do/) consists of two components; one a technical, scientific, concrete component (Foundational Structure) and two; A General philosophic component. The first component is;
 
 ### 1) A Foundational Structure:
 

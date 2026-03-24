@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![](/wp-content/uploads/2023/07/jim_sewell-1.jpg)
+<img src="/wp-content/uploads/2023/07/jim_sewell-1.jpg" alt="">
 
 I first got interested in Jeet Kune Do through [Bob Bremer](/bob/). Bob and I go back to the early 1960's. I went with Bob to Ed Parker's place in Pasadena, California, two or three times when Bob was taking kempo-karate. I never got interested in kempo-karate because it looked kind of robotic to me.
 

@@ -18,7 +18,7 @@ tags:
 
 
 
-<figure class="wp-block-image size-large">![](/wp-content/uploads/2023/10/jkd-straight-lead-punch-1024x525.jpg)</figure>No mastery of Jeet Kune Do would be complete without a thorough working knowledge of the straight lead. Used both offensively and defensively, the straight lead is the main weapon used for the stop-hit in defense. It is also one of the main weapons used to [attack](/jeet-kune-do-attack/) your opponent.
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/10/jkd-straight-lead-punch-1024x525.jpg" alt=""></figure>No mastery of Jeet Kune Do would be complete without a thorough working knowledge of the straight lead. Used both offensively and defensively, the straight lead is the main weapon used for the stop-hit in defense. It is also one of the main weapons used to [attack](/jeet-kune-do-attack/) your opponent.
 
 For all its importance, the small details that make the straight lead such a key component in combat are sometimes overlooked in many JKD or Jun Fan schools. JKD students often just hit the focus glove with no idea of the distance needed to make the punch effective. And many don’t know the penetration needed to get the most power from the straight lead. The reasons are both simple and complex:
 

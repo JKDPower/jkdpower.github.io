@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![Mike Blesch](/wp-content/uploads/2023/08/mike-150x150.jpg)
+<img src="/wp-content/uploads/2023/08/mike-150x150.jpg" alt="Mike Blesch">
 
 Mike began his training in the art of Jeet Kune Do in private sessions with Sifu Jeremy Lynch in 2003. In 2005, Sifu Lynch brought him to Tim Tackett's famous "JKD Wednesday Night Group", where he met Bruce Lee students Bob Bremer &amp; Jim Sewell. He was lucky enough to have the opportunity to pick their brains for the next few years until Sifu Bremer's physical condition prevented him from attending the Wednesday Night Group on a regular basis.
 

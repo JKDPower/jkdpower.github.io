@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![Steven Resell](/wp-content/uploads/2023/07/steven-resell-150x150.jpg)
+<img src="/wp-content/uploads/2023/07/steven-resell-150x150.jpg" alt="Steven Resell">
 
 Steven is a direct student of Sifu Tim Tackett and Sifu Jeremy Lynch, and has received instructor rank under Sifu Bremer, Sifu Tackett, Sifu Sewell and the JKD Wednesday Night Group; as well as the Chinatown JKD Association.
 

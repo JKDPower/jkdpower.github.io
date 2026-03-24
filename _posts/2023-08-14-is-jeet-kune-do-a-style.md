@@ -24,4 +24,4 @@ Without roots, people get confused and end up without a structure to grow from. 
 
 Ultimately, one needs the core understanding of how the JKD philosophy works and how it affects the physical art. I really believe that JKD provides a way for everybody to create their own path - and not to just follow another's.
 
-<figure class="wp-block-image size-full is-style-default">[![Jeet Kune Do Principles book](/wp-content/uploads/2023/07/JKD-Principles.jpg)](https://martialartsdigital.com/jeet-kune-do-principles/)</figure>
+<figure class="wp-block-image size-full is-style-default">[<img src="/wp-content/uploads/2023/07/JKD-Principles.jpg" alt="Jeet Kune Do Principles book">](https://martialartsdigital.com/jeet-kune-do-principles/)</figure>

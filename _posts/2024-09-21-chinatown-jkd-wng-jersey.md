@@ -16,4 +16,4 @@ tags:
 
 The first official JKD Wednesday Night Group jersey features "Los Angeles Chinatown JKD" on the front and an illustration of Tim Tackett and Bob Bremer on the back.
 
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2024/09/bt-jersey-front-1024x1024.jpg)<figcaption class="wp-element-caption">Polyester Jersey front</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2024/09/bt-jersey-back-1024x1024.jpg)<figcaption class="wp-element-caption">Polyester Jersey back</figcaption></figure></figure>
+<figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/bt-jersey-front-1024x1024.jpg" alt=""><figcaption>Polyester Jersey front</figcaption></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/bt-jersey-back-1024x1024.jpg" alt=""><figcaption>Polyester Jersey back</figcaption></figure></figure>

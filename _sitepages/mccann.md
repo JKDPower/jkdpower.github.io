@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![Jim McCann](/wp-content/uploads/2023/07/jmccann-200x300.jpg)
+<img src="/wp-content/uploads/2023/07/jmccann-200x300.jpg" alt="Jim McCann">
 
 I originally started martial arts in the 70's. I started training in Judo at the local YMCA. The mysticism of learning such an art thrilled me. I remember going that first day sitting on the floor all lined up to meet this martial arts master. Then he walked in through the door strutting around like Danny from Saturday Night Fever with his giant Whiteman fro, bell bottom pants, gold chains and a shirt that was 2 sizes to small. He then walked up and down the line of kids much like a drill sergeant. "So you want to learn Judo? You think you have what it takes to learn Judo?" There I sat thinking he might throw us all out when then he said, "If you want to learn Judo you have to get a Gig. No one trains Judo without a Gi." I thought no problem I will get a Gi when he said, "I need $20 from all of you to get them. I have to put in a special order to Japan and I need the money in advance." Just then I looked over at my mother sitting there and watched her breathe out deeply as if to say I don't know if we can pay for this. Remember this was the seventies and $20 was a lot of money to my parents but through much nagging I was able to convince them to part with the $20 bucks for a uniform. The next class we learned how to roll around and started to learn how to fall, the parents all gave the instructor the money for the Gi's.
 

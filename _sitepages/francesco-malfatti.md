@@ -13,10 +13,10 @@ Hello, my name is Francesco Malfatti, allievo di [Sifu Raimondi](/vince/) pratic
 
 Contact: [francesco\_malfatti@libero.it](mailto:francesco_malfatti@libero.it)
 
-![](/wp-content/uploads/2023/10/francesco-vincent-1024x768.jpg)
+<img src="/wp-content/uploads/2023/10/francesco-vincent-1024x768.jpg" alt="">
 
-![](/wp-content/uploads/2023/10/francesco-683x1024.jpg)
+<img src="/wp-content/uploads/2023/10/francesco-683x1024.jpg" alt="">
 
-![](/wp-content/uploads/2023/10/francesco-jkd-1024x768.jpg)
+<img src="/wp-content/uploads/2023/10/francesco-jkd-1024x768.jpg" alt="">
 
-![](/wp-content/uploads/2023/10/francesco-header-1024x536.jpg)
+<img src="/wp-content/uploads/2023/10/francesco-header-1024x536.jpg" alt="">

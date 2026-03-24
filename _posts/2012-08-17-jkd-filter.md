@@ -15,7 +15,7 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-medium is-resized">[![](/wp-content/uploads/2023/07/filter-cover-225x300.jpg)](https://www.jkdwednite.com/JKD-Filter.pdf)<figcaption class="wp-element-caption">[Download PDF](https://www.jkdwednite.com/JKD-Filter.pdf)</figcaption></figure>By labeling Jeet Kune Do as "just a philosophy" with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by its founder, Bruce Lee. On the other hand, by crystallizing the art as "only what Bruce Lee taught," we deprive ourselves of the free expression and naturalness (or natural-unnaturalness!) advocated so strongly by Sijo Lee.
+<figure class="wp-block-image alignleft size-medium is-resized">[<img src="/wp-content/uploads/2023/07/filter-cover-225x300.jpg" alt="">](https://www.jkdwednite.com/JKD-Filter.pdf)<figcaption>[Download PDF](https://www.jkdwednite.com/JKD-Filter.pdf)</figcaption></figure>By labeling Jeet Kune Do as "just a philosophy" with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by its founder, Bruce Lee. On the other hand, by crystallizing the art as "only what Bruce Lee taught," we deprive ourselves of the free expression and naturalness (or natural-unnaturalness!) advocated so strongly by Sijo Lee.
 
 Our group does not believe that either approach is wholly correct. The Original JKD material (so-called) combined with the philosophical elements contained within Bruce Lee's notes and writings provide a foundation upon which we build our own personal martial art. In our case, this is the origin of "[Old School JKD](/jeet-kune-do/)".
 

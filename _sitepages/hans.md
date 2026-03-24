@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![](/wp-content/uploads/2023/08/hans_de_burchgraeve.jpg)
+<img src="/wp-content/uploads/2023/08/hans_de_burchgraeve.jpg" alt="">
 
 I started martial arts in 1973 when I was 12 years old, I started with Jiu-Jitsu at the local gym under a fourth degree black belt who was extremely good in it. At that time the world of martial arts was revolutionized by the famous of Bruce Lee and there was an influx of students into the local martial arts clubs all around the globe. Everyone was amazed by the moves of the great master and was wondering what exactly that he was doing. In those days Jeet Kune Do was only a far from home concept, but every month you could find some articles of Bruce’s JKD in several Martial Arts magazines and also the upcoming of American kickboxing didn’t go unnoticed. My training interrupted when I went to the army and became a paratrooper in the Belgian army in 1979. A few years later I restarted and trained in Jiu-Jitsu for my first degree black belt.
 

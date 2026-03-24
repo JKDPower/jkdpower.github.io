@@ -15,7 +15,7 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-full is-resized">![](/wp-content/uploads/2023/08/erik-paulson-bw.jpg)</figure>In boxing this drill is also referred to as a *corner drill*, used as an essential element of a fighter's ability to take and defend against a punch, and to see where the attack is coming from. It dates back to the Filipino boxing era and was employed by many knife fighters to teach them how to acknowledge the lines of attack and the body movement necessary to set up the combinations following the primary attack. Dan Inosanto originally trained many of his students and fighters with this drill that was passed down through several of his teachers and trainers.
+<figure class="wp-block-image alignleft size-full is-resized"><img src="/wp-content/uploads/2023/08/erik-paulson-bw.jpg" alt=""></figure>In boxing this drill is also referred to as a *corner drill*, used as an essential element of a fighter's ability to take and defend against a punch, and to see where the attack is coming from. It dates back to the Filipino boxing era and was employed by many knife fighters to teach them how to acknowledge the lines of attack and the body movement necessary to set up the combinations following the primary attack. Dan Inosanto originally trained many of his students and fighters with this drill that was passed down through several of his teachers and trainers.
 
 This drill was originally shown to me by [Tim Tackett](/tim/) and [Bert Poe](/bert/), who once trained a specific few in their garage and was kind enough to share some great information every Wednesday night in Redlands, California.
 

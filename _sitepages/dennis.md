@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![](/wp-content/uploads/2023/07/dennis_blue-1.jpg)
+<img src="/wp-content/uploads/2023/07/dennis_blue-1.jpg" alt="">
 
 D.M. Blue is a long time proponent / practitioner of several martial arts disciplines. He brings his 40+ years of formal training to the Wednesday Night Group.
 

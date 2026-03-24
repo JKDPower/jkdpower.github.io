@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![](/wp-content/uploads/2023/09/alexander-terra-150x150.jpg)
+<img src="/wp-content/uploads/2023/09/alexander-terra-150x150.jpg" alt="">
 
 Alexander Terra, a Jeet Kune Do Full Instructor, is one of the pioneers in promoting Jeet Kune Do in his country. He is officially the 3rd generation of legitimate lineage from Bruce Lee, having been a direct student of [Vincent Raimondi](/vince/) (Ted Wong/Bruce Lee) through the Wednesday Night Group.
 
@@ -24,18 +24,18 @@ Over his 53 years, Sifu Alexander Terra has authored and published several instr
 
 His most recent work, in May 2016, was as a technical reviewer for Bruce Lee's most renowned work, "The Tao of Jeet Kune Do," in collaboration with Chave Publishers.
 
-![Tim Tackett](/wp-content/uploads/2023/09/terra-tackett-300x225.jpg)
+<img src="/wp-content/uploads/2023/09/terra-tackett-300x225.jpg" alt="Tim Tackett">
 
-![Vincent Raimondi](/wp-content/uploads/2023/09/raimondi-terra-300x225.jpg)
+<img src="/wp-content/uploads/2023/09/raimondi-terra-300x225.jpg" alt="Vincent Raimondi">
 
-![Richard Bustillo](/wp-content/uploads/2023/09/bustillo-terra-300x300.jpg)
+<img src="/wp-content/uploads/2023/09/bustillo-terra-300x300.jpg" alt="Richard Bustillo">
 
-![WNG Garage Class](/wp-content/uploads/2023/09/alex-wng-300x225.jpg)
+<img src="/wp-content/uploads/2023/09/alex-wng-300x225.jpg" alt="WNG Garage Class">
 
-![Alex training](/wp-content/uploads/2023/09/alex-training-300x200.jpg)
+<img src="/wp-content/uploads/2023/09/alex-training-300x200.jpg" alt="Alex training">
 
-![Dan Inosanto](/wp-content/uploads/2023/09/inosanto-terra-300x300.jpg)
+<img src="/wp-content/uploads/2023/09/inosanto-terra-300x300.jpg" alt="Dan Inosanto">
 
-![Jim Sewell](/wp-content/uploads/2023/09/sewell-terra-300x300.jpg)
+<img src="/wp-content/uploads/2023/09/sewell-terra-300x300.jpg" alt="Jim Sewell">
 
-![Jeremy Lynch](/wp-content/uploads/2023/09/terra-lynch-222x300.jpg)
+<img src="/wp-content/uploads/2023/09/terra-lynch-222x300.jpg" alt="Jeremy Lynch">

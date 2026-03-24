@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![Tim Tackett](/wp-content/uploads/2023/07/tackett-profile-241x300.jpg)
+<img src="/wp-content/uploads/2023/07/tackett-profile-241x300.jpg" alt="Tim Tackett">
 
 While in the U.S.A.F., my family and I were stationed in Taiwan for almost three years. While I was there I studied Kuo Shu \[Kung-Fu\]. My wife was working as a teacher in the Taipei American School during the day and I was working in the evening at the Shu Lin Kuo Air Force Station. Since I had my days free I was looking for something to occupy my time. One of my friends recommended that I take up martial arts. I ended up learning six hours a day for six days a week. While in Taiwan I learned two types of Hsing-i, Tai Chi, Northern and Southern Shaolin, White Crane, and Monkey boxing. After my discharge from the air force, I continued work on my college degree. Since I had a wife and two children to support, I opened up a full time Kung Fu school in Redlands, California while starting as a junior at the University of California, Riverside campus in 1966.
 

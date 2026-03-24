@@ -31,4 +31,4 @@ Overnight accommodations: All camp attendees can camp onsite complimentary. You 
 
 Nearest airport is Ontario International Airport- 41 miles distance and LAX is 91 miles distance. There are local Airbnb’s in Phelan and Wrightwood. Contact <pinonhillsarts@gmail.com> for recommendations for certain size groups. Local hotels such as Holiday Inn Victorville, Courtyard by Marriott in Hesperia.
 
-<figure class="wp-block-image size-large">[![](/wp-content/uploads/2023/07/2023camp-796x1024.jpg)](https://www.phlmar.org/event-calendar)</figure>
+<figure class="wp-block-image size-large">[<img src="/wp-content/uploads/2023/07/2023camp-796x1024.jpg" alt="">](https://www.phlmar.org/event-calendar)</figure>

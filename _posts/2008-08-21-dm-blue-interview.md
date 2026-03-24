@@ -14,7 +14,7 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-medium is-style-default">![](/wp-content/uploads/2023/08/blue-featured-300x300.jpg)</figure>***JL: What is your background in the martial arts? Give us the full history.***
+<figure class="wp-block-image alignleft size-medium is-style-default"><img src="/wp-content/uploads/2023/08/blue-featured-300x300.jpg" alt=""></figure>***JL: What is your background in the martial arts? Give us the full history.***
 
 ***DB:*** I initially got into martial arts because my father was a boxer and he was also at that time involved with, I guess you would call it gangs. And there was a lot of rivalry then, so he wanted to make sure that I was able to fight too, so one of the big things was for him, when he came home from work, to show me a little bit of boxing. That was further perpetuated by my brother, who was quite a few years older than me. He and his friends always had bets that, “my little brother can beat up your little brother”, so every Friday like clockwork, they'd put all the little brothers together and make us fight.
 

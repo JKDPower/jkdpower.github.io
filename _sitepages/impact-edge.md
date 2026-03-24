@@ -50,9 +50,9 @@ Energy / Sensitivity Training
 
 Battle/Combat Drills
 
-![](/wp-content/uploads/2023/09/impact-edge-featured-1024x1024.jpg)
+<img src="/wp-content/uploads/2023/09/impact-edge-featured-1024x1024.jpg" alt="">
 
-![](/wp-content/uploads/2023/10/dmblue-knife-1024x1024.jpg)
+<img src="/wp-content/uploads/2023/10/dmblue-knife-1024x1024.jpg" alt="">
 
 ### Impact-Edge Seminar Pre-Registration
 

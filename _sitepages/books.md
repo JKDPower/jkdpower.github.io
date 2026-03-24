@@ -12,7 +12,7 @@ permalink: /books/
 
 Books on Bruce Lee's Jeet Kune Do by [members](/members/) of the JKD Wednesday Night Group plus other recommended reading on JKD, Self-Defense, Combatives and Mindset.
 
-[![Jeet Kune Do Principles book cover](/wp-content/uploads/2023/07/JKD-Principles-715x1024.jpg)](https://martialartsdigital.com/jeet-kune-do-principles/)
+[<img src="/wp-content/uploads/2023/07/JKD-Principles-715x1024.jpg" alt="Jeet Kune Do Principles book cover">](https://martialartsdigital.com/jeet-kune-do-principles/)
 
 **[JEET KUNE DO PRINCIPLES](https://martialartsdigital.com/jeet-kune-do-principles/)**
 
@@ -22,7 +22,7 @@ The title of this book is “Jeet Kune Do Principles”. Principles and concepts
 
 ---
 
-[![Essential Jeet Kune Do book cover](/wp-content/uploads/2023/07/essential-jkd-713x1024.jpg)](https://martialartsdigital.com/essential-jeet-kune-do/)
+[<img src="/wp-content/uploads/2023/07/essential-jkd-713x1024.jpg" alt="Essential Jeet Kune Do book cover">](https://martialartsdigital.com/essential-jeet-kune-do/)
 
 **[ESSENTIAL JEET KUNE DO](https://martialartsdigital.com/essential-jeet-kune-do/)**
 
@@ -32,7 +32,7 @@ JEET KUNE DO (“The Way of the Intercepting Fist”), the hybrid philosophy of 
 
 ---
 
-[![Chinatown JKD Vol. 2 book cover](/wp-content/uploads/2023/07/chinatown-jkd-vol2-book.jpg)](https://www.amazon.com/Chinatown-Jeet-Kune-Do-Training/dp/0897501896)
+[<img src="/wp-content/uploads/2023/07/chinatown-jkd-vol2-book.jpg" alt="Chinatown JKD Vol. 2 book cover">](https://www.amazon.com/Chinatown-Jeet-Kune-Do-Training/dp/0897501896)
 
 **[CHINATOWN JKD, VOL.2](https://www.amazon.com/Chinatown-Jeet-Kune-Do-Training/dp/0897501896)**
 
@@ -42,7 +42,7 @@ Revealing the secrets behind Bruce Lee’s legendary martial arts system, this r
 
 ---
 
-[![Chinatown JKD Vol. 1 book cover](/wp-content/uploads/2023/07/chinatown-jkd-vol1-book.jpg)](https://www.amazon.com/Chinatown-Jeet-Kune-Do-Essential/dp/0897501632)
+[<img src="/wp-content/uploads/2023/07/chinatown-jkd-vol1-book.jpg" alt="Chinatown JKD Vol. 1 book cover">](https://www.amazon.com/Chinatown-Jeet-Kune-Do-Essential/dp/0897501632)
 
 **[CHINATOWN JKD, VOL.1](https://www.amazon.com/Chinatown-Jeet-Kune-Do-Essential/dp/0897501632)**
 
@@ -52,7 +52,7 @@ The basic structures and principles of Jeet Kune Do (JKD), the martial arts syst
 
 ---
 
-[![JKD Kickboxing book cover](/wp-content/uploads/2023/07/jkd-kickboxing-book.jpg)](https://www.amazon.com/JKD-Kickboxing-Chris-Kent-Tackett/dp/0865682836)
+[<img src="/wp-content/uploads/2023/07/jkd-kickboxing-book.jpg" alt="JKD Kickboxing book cover">](https://www.amazon.com/JKD-Kickboxing-Chris-Kent-Tackett/dp/0865682836)
 
 **[JKD KICKBOXING](https://www.amazon.com/JKD-Kickboxing-Chris-Kent-Tackett/dp/0865682836)**
 

@@ -2,6 +2,27 @@
 ---
 @charset "utf-8";
 
+// ── Navbar & footer: dark grey with bold white text ────────────────────────
+
+.navbar {
+  .navbar-brand,
+  .nav-link,
+  .dropdown-item {
+    color: #fff !important;
+    font-weight: 600;
+  }
+  .nav-link:hover,
+  .dropdown-item:hover {
+    color: #ddd !important;
+  }
+}
+
+footer {
+  color: #fff !important;
+  a { color: #ccc !important; }
+  a:hover { color: #fff !important; }
+}
+
 // ── Homepage hero carousel ──────────────────────────────────────────────────
 
 #jkd-carousel-wrapper {

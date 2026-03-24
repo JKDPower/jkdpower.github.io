@@ -10,7 +10,7 @@ permalink: /classes/
 
 
 
-![](/wp-content/uploads/2023/07/class1.jpg)
+<img src="/wp-content/uploads/2023/07/class1.jpg" alt="">
 
 Wednesday Night JKD in Southern California has been going strong for 50 years. Tim Tackett's garage served as a weekly meeting place for some outstanding martial arts teachers and students during that time. In 2023, Sifu Tackett moved to North Carolina to be closer to family. Senior Full Instructor [Jeremy Lynch](/jeremy/) has taken over the Wednesday night training and continues to teach the same material practiced at Bruce Lee's L.A. Chinatown school. A typical class lasts for 2 hours and has between 5 and 15 students. It is encouraged that students bring their own training gear consisting of a mouth guard, boxing gloves, and shin guards.
 

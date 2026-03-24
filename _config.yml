@@ -109,9 +109,9 @@ googlefonts:
 chulapa-skin:
   highlight     :
   skin          :
-  autothemer    : true
+  autothemer    : false
   vars          :
-    primary     : "lightskyblue"
+    primary     : "#2d3035"
 
 # D. Jekyll Defaults and Collections
 paginate      : 4

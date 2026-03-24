@@ -14,7 +14,7 @@ tags:
 
 
 
-<figure class="wp-block-image size-large is-style-default">![](/wp-content/uploads/2023/09/5-reasons-1024x576.jpg)</figure>### 1. Build a [JKD filter](/jkd-filter/) 
+<figure class="wp-block-image size-large is-style-default"><img src="/wp-content/uploads/2023/09/5-reasons-1024x576.jpg" alt=""></figure>### 1. Build a [JKD filter](/jkd-filter/) 
 
 There are many techniques in the martial art world that are taught. Some are very efficient and some are not. Some only work on certain types of opponents. Once you have learned the essential elements and have worked on trying to understand the strengths and weaknesses of any particular technique or style you can then decide what works or not in any particular situation. You can create what we call a "built in BS detector". The other main reasons are a part of this filter.
 

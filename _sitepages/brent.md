@@ -9,7 +9,7 @@ header_type: hero
 ---
 
 
-![](/wp-content/uploads/2023/07/lance-214x300.jpg)
+<img src="/wp-content/uploads/2023/07/lance-214x300.jpg" alt="">
 
 In 1984, when I was 9, I took my first lessons in Tae Kwon Do. I later met a guy named Charles Loudermilk who became my first teacher as far as I am concerned as he began to introduce me to Jeet Kune Do. Charles introduced me to his Instructor Vic Payne. I began taking lessons with Vic at his home in Brasstown, NC (right down the road from me).
 

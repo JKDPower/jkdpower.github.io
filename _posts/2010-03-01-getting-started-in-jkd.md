@@ -14,7 +14,7 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-medium">![](/wp-content/uploads/2023/08/tackett-clan-300x206.jpg)<figcaption class="wp-element-caption">*The Tackett family of JKD'ers*</figcaption></figure>Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: ***How long will it take me to become a JKD expert and be certified to teach?***
+<figure class="wp-block-image alignleft size-medium"><img src="/wp-content/uploads/2023/08/tackett-clan-300x206.jpg" alt=""><figcaption>The Tackett family of JKD'ers</figcaption></figure>Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: ***How long will it take me to become a JKD expert and be certified to teach?***
 
 I usually reply with a question of my own: ***How long would it take you to become a great basketball player and then a coach for a college team?*** It’s obviously a rhetorical question designed to convey what many people forget – that JKD or any other martial art is an athletic endeavor and that advancement requires the development of balance, [speed](/bruce-lee-speed/), fast-twitch muscles and so on. While you can get better every day if you put in the time and effort, not everyone can get good enough to be considered a teacher.
 
