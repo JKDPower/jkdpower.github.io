@@ -24,14 +24,14 @@ h1, h2, h3, h4, h5, h6,
 
 // Fluid display scale — larger headings scale with viewport
 h1, .h1 {
-  font-size: clamp(1.875rem, 3vw + 1rem, 2.875rem);
+  font-size: #{clamp(1.875rem, 3vw + 1rem, 2.875rem)};
   letter-spacing: -0.01em;
 }
 h2, .h2 {
-  font-size: clamp(1.375rem, 2vw + 0.75rem, 2rem);
+  font-size: #{clamp(1.375rem, 2vw + 0.75rem, 2rem)};
 }
 h3, .h3 {
-  font-size: clamp(1.125rem, 1.5vw + 0.5rem, 1.5rem);
+  font-size: #{clamp(1.125rem, 1.5vw + 0.5rem, 1.5rem)};
 }
 h4, .h4 { font-size: 1.25rem; }
 h5, .h5 { font-size: 1rem;    }
@@ -226,7 +226,7 @@ footer {
 
   p {
     font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
-    font-size: clamp(0.9375rem, 1vw + 0.5rem, 1.0625rem);
+    font-size: #{clamp(0.9375rem, 1vw + 0.5rem, 1.0625rem)};
     font-weight: 400;
     color: #e0e0e0;
     letter-spacing: 0.025em;
@@ -238,7 +238,7 @@ footer {
 // ── Homepage section headings ─────────────────────────────────────────────────
 
 .jkd-home-section {
-  margin-top: clamp(2.5rem, 5vw, 4rem);
+  margin-top: #{clamp(2.5rem, 5vw, 4rem)};
   padding-bottom: 0.5rem;
   border-bottom: 2px solid #b91c1c;
 }
