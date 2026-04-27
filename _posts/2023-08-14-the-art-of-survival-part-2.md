@@ -29,7 +29,7 @@ In your visualization scenarios you should have varied backgrounds, surroundings
 
 The more creative but realistic you can be in your visualization training, the greater your survivability in the moment of truth. Take the time to continue practicing your scenarios mentally and physically. At the time while you do visualization, physically place yourself into varied positions (lying down, sitting at the kitchen table, standing at a bar, hunched over your car, in the shower etc). Experience your body moving along with your visual exercise. You can practice the visuals alone while on a break at work, or waiting for something; but when the opportunity avails itself, go through the physical motions of the techniques learned also.
 
-### Ethical Responsibility
+## Ethical Responsibility
 
 You must understand that any undertaking of personal protection is for the moment a right to be cherished and protected. We must assure that we exercise extreme caution in the application of personal combatives. This flows over into the transitional areas of firearms, electrical devices, chemical agents, impact and/or edged defensive tools. Anyone who is trained in a system or has initiated any such training must understand the role they are playing for others who are also involved. Many rights are being subdued in the name of the Privacy Act, as well as by those who want you controlled.
 

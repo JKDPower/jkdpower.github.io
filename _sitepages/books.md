@@ -62,7 +62,7 @@ In this new and updated edition of Jeet Kune Do Kickboxing, long considered one 
 
 ---
 
-### More Recommended Reading
+## More Recommended Reading
 
 [Bruce Lee Jeet Kune Do: A Comprehensive Guide to Bruce Lee's Martial Way](https://www.amazon.com/dp/0804851239/)
 

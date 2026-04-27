@@ -32,11 +32,11 @@ For example:
 
 Our first task then is to remain aware and alert and at the recognition of an assault maintain distance. Ideally the distance to keep the opponent at bay is 10’ ft. It is here where one needs to identify their position in space and time during the interim of interaction. Continually maintain zoning, while disrupting and disturbing your opponents’ game plan. Here too, we rely upon visual contact of intent, and verbal communication; being ever vigil of gambits. As we have discussed, leave nothing to chance. Predators do travel in packs, especially the cowardly, weak and insecure.
 
-### Learn It Right Before You Do It Fast 
+## Learn It Right Before You Do It Fast 
 
 In learning and educating yourself in combatives you can, as you train, decrease response time by minimizing responses. You will actually learn and comprehend more quickly if you actually slow things down.
 
-### Meet it - Greet it - Beat it 
+## Meet it - Greet it - Beat it 
 
 It cannot be stressed enough the importance of meeting, greeting and beating the situation before you. You must accept the reality of what it will take to survive before you can train for it.
 

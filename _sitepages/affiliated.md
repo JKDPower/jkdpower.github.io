@@ -20,6 +20,6 @@ Affiliates may teach elements of [WNG JKD](/wednesday-night-group-jkd/) combined
 
 ---
 
-### Join the Affiliate Program Waiting List
+## Join the Affiliate Program Waiting List
 
 Affiliates have exclusive territory. Enter your information to get on the waiting list for your area.

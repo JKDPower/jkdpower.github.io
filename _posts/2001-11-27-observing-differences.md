@@ -15,7 +15,7 @@ tags:
 
 
 
-### *Stages In The Evolution Of Bruce Lee's Martial Art*
+## *Stages In The Evolution Of Bruce Lee's Martial Art*
 
 <figure class="wp-block-image alignleft size-medium">[<img src="/wp-content/uploads/2023/07/observing-differences-300x300.jpg" alt="">](/observing-differences/observing-differences-2/)</figure>One of the major reasons for forming what is now called The Bruce Lee Educational Foundation was to promote unity and comradeship between the four phases of the evolution of Bruce Lee’s martial art. Unfortunately this may not always be the case. The reason may be a misunderstanding of what Bruce Lee was attempting to do with his personal evolution. Bruce was interested in constant experimentation, but it was not just experimentation for its own sake. Bruce’s intense study of other martial arts, and the passionate analysis of various modern training methods were for one purpose and one purpose only, and that was to make himself a better martial artist. With this end in mind Bruce Lee used his schools as a sort of living laboratory. For example, a technique could be tested in the crucible of full contact [sparring](/high-performance-sparring/). Then an analysis could be made as to its efficiency.
 

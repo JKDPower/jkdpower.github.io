@@ -3,9 +3,59 @@
 @charset "utf-8";
 
 // ── Typography ───────────────────────────────────────────────────────────────
+// Body: Source Serif 4 — humanist optical-size serif for long-form reading
+// Display: Barlow Semi Condensed — efficient, institutional, non-aggressive
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  font-optical-sizing: auto;
+}
+
+// Headings and all UI chrome use the condensed grotesque
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+// Fluid display scale — larger headings scale with viewport
+h1, .h1 {
+  font-size: clamp(1.875rem, 3vw + 1rem, 2.875rem);
+  letter-spacing: -0.01em;
+}
+h2, .h2 {
+  font-size: clamp(1.375rem, 2vw + 0.75rem, 2rem);
+}
+h3, .h3 {
+  font-size: clamp(1.125rem, 1.5vw + 0.5rem, 1.5rem);
+}
+h4, .h4 { font-size: 1.25rem; }
+h5, .h5 { font-size: 1rem;    }
+
+// Navbar and footer links use the condensed grotesque
+.navbar-brand,
+.nav-link,
+.dropdown-item,
+.btn {
+  font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+}
+
+// Long-form prose: cap line length and tighten widows
+.post-content p,
+article p,
+.page-content p {
+  max-width: 68ch;
+  text-wrap: pretty;
+}
+
+// Figcaptions stay sans for contrast with body text
+figcaption {
+  font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
 }
 
 // ── Accent colour overrides ──────────────────────────────────────────────────
@@ -115,6 +165,16 @@ footer {
   }
 }
 
+// ── Reduced motion ───────────────────────────────────────────────────────────
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel.slide .carousel-item,
+  .carousel-fade .carousel-item {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
 // ── Homepage hero carousel ──────────────────────────────────────────────────
 
 #jkd-carousel-wrapper {
@@ -153,10 +213,98 @@ footer {
   padding: 0;
 }
 
+// ── Homepage mission strip ────────────────────────────────────────────────────
+
+.jkd-mission-strip {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  overflow: hidden;
+  background: #2d3035;
+  border-bottom: 3px solid #b91c1c;
+  padding: 0.75rem 2rem;
+  text-align: center;
+
+  p {
+    font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+    font-size: clamp(0.9375rem, 1vw + 0.5rem, 1.0625rem);
+    font-weight: 400;
+    color: #e0e0e0;
+    letter-spacing: 0.025em;
+    margin: 0;
+    max-width: none;
+  }
+}
+
+// ── Homepage section headings ─────────────────────────────────────────────────
+
+.jkd-home-section {
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #b91c1c;
+}
+
+// ── Homepage post lists ───────────────────────────────────────────────────────
+
+.jkd-post-list {
+  padding-left: 1.25rem;
+  margin-top: 0.75rem;
+
+  li {
+    margin-bottom: 0.4rem;
+    line-height: 1.4;
+  }
+}
+
+.jkd-post-date {
+  font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.8rem;
+  color: #74787f;
+  margin-left: 0.4em;
+}
+
+.jkd-view-all {
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+
+  a {
+    font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+}
+
+.jkd-carousel-pause-btn {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 3px;
+  color: #e8e8e8;
+  padding: 0.3rem 0.55rem;
+  font-size: 0.8rem;
+  line-height: 1;
+  cursor: pointer;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.7);
+    border-color: rgba(255, 255, 255, 0.65);
+    color: #fff;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #b91c1c;
+    outline-offset: 2px;
+  }
+}
+
 #jkd-carousel .carousel-caption .btn {
-  font-size: 1.25rem;
+  font-size: 1.375rem;
   font-weight: 700;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.07em;
   padding: 0.75rem 2.5rem;
   border-width: 2px;
   text-shadow: 0 1px 4px rgba(0,0,0,0.7);

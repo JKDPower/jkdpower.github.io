@@ -6,8 +6,12 @@ header_type: none
 include_on_search: false
 ---
 
+<div class="jkd-mission-strip">
+  <p>Bruce Lee's original Jeet Kune Do: the Los Angeles Chinatown lineage, practicing every Wednesday in Redlands, California since 1973.</p>
+</div>
+
 <div id="jkd-carousel-wrapper">
-<div id="jkd-carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="4500">
+<div id="jkd-carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="4500" aria-label="Site photo gallery">
 
 <ol class="carousel-indicators">
   <li data-target="#jkd-carousel" data-slide-to="0" class="active"></li>
@@ -75,6 +79,10 @@ include_on_search: false
 </a>
 
 </div>
+
+<button id="jkd-carousel-pause" class="jkd-carousel-pause-btn" aria-label="Pause slideshow" aria-pressed="false">
+  <span aria-hidden="true">⏸</span>
+</button>
 </div>
 
 <div class="container py-4">
@@ -89,14 +97,14 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 </div>
 </div>
 
-<h2>Training</h2>
+<h2 class="jkd-home-section">Training</h2>
 
 <div class="row mb-5">
 <div class="col-md-4 mb-3">
 <div class="card h-100">
 <div class="card-body">
-<h4 class="card-title">Old School JKD</h4>
-<p class="card-text">Bruce Lee's Jeet Kune Do as taught through the L.A. Chinatown lineage — direct, efficient, and effective.</p>
+<h3 class="card-title">Old School JKD</h3>
+<p class="card-text">Bruce Lee's Jeet Kune Do as taught through the L.A. Chinatown lineage: direct, efficient, and effective.</p>
 <a href="/jeet-kune-do/" class="btn btn-outline-primary btn-sm">Learn More</a>
 </div>
 </div>
@@ -104,7 +112,7 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 <div class="col-md-4 mb-3">
 <div class="card h-100">
 <div class="card-body">
-<h4 class="card-title">Combatives</h4>
+<h3 class="card-title">Combatives</h3>
 <p class="card-text">Practical self-defence skills drawn from JKD principles, adapted for real-world application.</p>
 <a href="/combatives/" class="btn btn-outline-primary btn-sm">Learn More</a>
 </div>
@@ -113,7 +121,7 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 <div class="col-md-4 mb-3">
 <div class="card h-100">
 <div class="card-body">
-<h4 class="card-title">Impact &amp; Edged Weapons</h4>
+<h3 class="card-title">Impact &amp; Edged Weapons</h3>
 <p class="card-text">Training with impact tools and edged weapons as an extension of the JKD curriculum.</p>
 <a href="/impact-edge/" class="btn btn-outline-primary btn-sm">Learn More</a>
 </div>
@@ -121,26 +129,29 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 </div>
 </div>
 
-<h2>Recent Articles</h2>
+<h2 class="jkd-home-section">Recent Articles</h2>
 
 {% assign articles = site.posts | where_exp: "post", "post.categories contains 'Articles'" %}
-<ul>
+<ul class="jkd-post-list">
 {% for post in articles limit:5 %}
-<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %-d, %Y" }}</li>
+<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <span class="jkd-post-date">{{ post.date | date: "%B %-d, %Y" }}</span></li>
 {% endfor %}
 </ul>
 
-<a href="/articles/">View all articles →</a>
+<p class="jkd-view-all"><a href="/articles/">View all articles →</a></p>
 
-<h2>Recent News &amp; Events</h2>
+<h2 class="jkd-home-section">Recent News &amp; Events</h2>
 
 {% assign events = site.posts | where_exp: "post", "post.categories contains 'Events'" %}
-<ul>
+{% if events.size > 0 %}
+<ul class="jkd-post-list">
 {% for post in events limit:3 %}
-<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %-d, %Y" }}</li>
+<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <span class="jkd-post-date">{{ post.date | date: "%B %-d, %Y" }}</span></li>
 {% endfor %}
 </ul>
-
-<a href="/blog/">View all posts →</a>
+<p class="jkd-view-all"><a href="/blog/">View all posts →</a></p>
+{% else %}
+<p class="text-muted mt-2">No events posted yet. <a href="/contact/">Contact us</a> for upcoming seminar dates.</p>
+{% endif %}
 
 </div>

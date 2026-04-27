@@ -9,8 +9,8 @@
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="{{- post.url | absolute_url -}}"><h5 class="card-title">{{- post.title  | default: "---" | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines | strip -}}</h5></a>
-				{% if post.subtitle -%}<h6 class="card-subtitle mb-2 text-muted">{{- post.subtitle | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines | strip -}}</h6>{%- endif %}
+				<a href="{{- post.url | absolute_url -}}"><h2 class="card-title h5">{{- post.title  | default: "---" | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines | strip -}}</h2></a>
+				{% if post.subtitle -%}<p class="card-subtitle mb-2 text-muted">{{- post.subtitle | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines | strip -}}</p>{%- endif %}
 
 {%- assign fallbackdesc = post.content |
               markdownify |  newline_to_br |

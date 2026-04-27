@@ -19,7 +19,7 @@ tags:
 
 It would be tough to count the number of times I've heard some variation of the following statement:
 
-#### "That won't work on the street! People don't fight like that."
+## "That won't work on the street! People don't fight like that."
 
 Is this simply one of those cliches leveled by martial artists at other systems or schools to prove why their way is superior? Or is it a valid criticism in at least some cases?
 

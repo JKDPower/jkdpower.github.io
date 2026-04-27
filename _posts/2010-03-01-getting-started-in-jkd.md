@@ -18,7 +18,7 @@ tags:
 
 I usually reply with a question of my own: ***How long would it take you to become a great basketball player and then a coach for a college team?*** It’s obviously a rhetorical question designed to convey what many people forget – that JKD or any other martial art is an athletic endeavor and that advancement requires the development of balance, [speed](/bruce-lee-speed/), fast-twitch muscles and so on. While you can get better every day if you put in the time and effort, not everyone can get good enough to be considered a teacher.
 
-#### The other common question is: *How do I get started in JKD?*
+## The other common question is: *How do I get started in JKD?*
 
 The first thing you should do is search for a [recognized JKD school](/affiliated/) or [certified instructor](/official/). While there’s no official master list of authorized JKD schools, it can be helpful to check the web site of an acknowledged expert such as Richard Bustillo to see whether he or one of his students has a school in your area. If that doesn’t work, you’ll need to figure out how far you’re willing to drive to study with a qualified teacher because travel will probably be required. Point of reference: While attending law school, one of my students would drive 110 miles each way once a week to learn JKD. It’s obviously not as good as training two or three times a week, but progress is possible.
 

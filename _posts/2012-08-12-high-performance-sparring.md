@@ -182,7 +182,7 @@ A parry is a simple hand maneuver used to deflect an incoming strike. Parries ar
 
 You must be able to control the damage done by your strikes without having to alter the mechanics. This is done by controlling the penetration or follow through of the strike.
 
-#### 1-to-5 Drill
+### 1-to-5 Drill
 
 This drill comes from a gentleman named Dan Lee. He was a student of Bruce Lee in the 1960s. What makes this drill so great is that it teaches you to punch with full [speed](/bruce-lee-speed/) and [power](/punching-power/) without harming your partner. There are 5 levels of follow through.
 

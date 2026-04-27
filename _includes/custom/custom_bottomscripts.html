@@ -1,5 +1,41 @@
 <!-- start custom scripts to be placed at the bottom of the page -->
 
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
 
+    var paused = false;
+
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 
 <!-- end custom bottom scripts -->

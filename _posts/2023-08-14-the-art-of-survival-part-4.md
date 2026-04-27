@@ -27,7 +27,7 @@ Natural fear is integral in being human, and given the individual’s understand
 > 
 > <cite>Samuel Longhorne Clemens</cite>
 
-### Action
+## Action
 
 Your ability and willingness to adapt, improvise and overcome in a plan of S.E.R.E. (survival–escape-resistance-evasion) must be planned for prior to an encounter. Apart from any chosen action(s), planning remains the key to your survival. Duly note as it has been prescribed before, action is much faster than reaction.
 
@@ -39,7 +39,7 @@ Don’t fool yourself either, no plan is perfect, you must consider the other dy
 
 By reducing the amount of extraneous material taught, you can eliminate the chances for mistakes or fumbling. If we can take a few core skills and apply them (with variables), we can enhance the spectrum of applicable knowledge and survivability.
 
-### Skills, Techniques, Tactics and Strategy
+## Skills, Techniques, Tactics and Strategy
 
 First consider that placing yourself at a 45 degree angle to your opponent, places you almost completely neutral to the area of effectiveness for his tools. In so doing you force your opponent to alter his position and maneuver to catch up to you. Do you remember action versus reaction? Well this is it in application, disruption. Any impact used to regulate his physiology and psychology is of course a disturbance. In a simple step you are able to achieve three key maneuvers:
 
@@ -48,7 +48,7 @@ First consider that placing yourself at a 45 degree angle to your opponent, plac
     achieved *disrupting*.
 3. By *disturbance* through the application of various impact tools you are able to affect him physically and psychologically.
 
-### Flow Chart of Combat Development
+## Flow Chart of Combat Development
 
 **Skills** are ones ability to do something well, either via training or through experience. All skills are motor skills, and each plays a functional role:
 

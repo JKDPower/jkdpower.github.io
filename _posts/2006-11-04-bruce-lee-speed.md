@@ -19,27 +19,27 @@ tags:
 
 When most people talk about speed, they are usually talking about how fast a particular punch or kick is, but speed is much more than that. In fact, Bruce Lee broke down speed into 6 types and wanted his students to drill to proficiency in all of them.
 
-#### Perceptual Speed
+## Perceptual Speed
 
 The first type of speed that Bruce taught was perceptual speed. This is defined as “quickness of the eye”. Having good perceptual speed in defense means that you can see an attack coming toward you. You can judge the distance and its trajectory, so you can devise the proper counterattack. It also means that you can see any opening in your opponent’s defense as it occurs.
 
-#### Mental Speed
+## Mental Speed
 
 The next type of speed that we work on is mental speed. Mental speed is the ability to take advantage of what the mind sees. In other words, the eye sees the opening, and then the mind reacts to it and decides on what course of action to take.
 
-#### Initiation Speed
+## Initiation Speed
 
 The next course of action is based on initiation speed. To be able to effectively take advantage of mental speed, you need to be able to have what Bruce Lee called economical starting. This simply means that you’re able to fire a punch or kick as quickly as possible. To do this you need to be in a good ready stance and be able to fire whatever tool you need with the greatest possible efficiency.
 
-#### Performance Speed
+## Performance Speed
 
 The next aspect of speed is the one that most people think of when they think of speed. We call it performance speed. This is simply how fast a particular technique travels from point A to point B. We’ve found by testing that a lot of people have very similar speed in their punches and kicks. We’ve found that what makes one person faster than any other martial artist is that they are able to use all of the above aspects of speed.
 
-#### Alteration Speed
+## Alteration Speed
 
 Bruce Lee also found two other types of speed that are important to martial artists. The first one is alteration speed. This is the ability to start one technique, but be able to switch to another one if you see a different line opening up. To be able to do this efficiently you need to have the first four types of speed. For example, if you start one movement and you see that your opponent is starting to leave another line open, you will be able to switch your attack to this new opening.
 
-#### Sensitivity Speed
+## Sensitivity Speed
 
 The last aspect of speed is sensitivity speed. This is the ability to be able, when you have any contact with your opponent, to feel any opening as it occurs and then be able to react to it. We have many energy drills to work on this. The best known one is probably chi sao, or sticky hands.
 
