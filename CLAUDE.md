@@ -56,6 +56,18 @@ Images are stored under `wp-content/uploads/YYYY/MM/` (migrated from WordPress).
 
 `sitepages` is the only custom collection. Its pages use `permalink: /:name/` which means the filename (without extension) becomes the URL slug.
 
+### Sass / CSS Notes
+
+GitHub Pages uses `jekyll-sass-converter 1.5.2` (LibSass), not Dart Sass. LibSass evaluates `clamp()` arguments as Sass arithmetic, which fails on mixed units like `vw + rem`. Wrap any `clamp()` containing arithmetic in `#{}` interpolation:
+
+```scss
+// Wrong — LibSass chokes on mixed units in arithmetic:
+font-size: clamp(1rem, 2vw + 0.5rem, 2rem);
+
+// Correct — interpolation passes it through as raw CSS:
+font-size: #{clamp(1rem, 2vw + 0.5rem, 2rem)};
+```
+
 ### Search
 
 Uses Fuse.js (client-side). Pages opt in with `include_on_search: true` in front matter. Posts have this enabled by default via `_config.yml` defaults.
