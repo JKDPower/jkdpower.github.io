@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -323,7 +323,7 @@ Beginner: 6-9 | Intermediate: 10-14 | Advanced: 15-20 | Expert: 21+</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/parry2.jpg" alt="" /></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/parry2b.jpg" alt="" /></figure><figcaption>High Inside Parry</figcaption></figure>
 <h2 id="preserve-your-partner"><span style="text-decoration: underline;">Preserve Your Partner!</span></h2>
 <p>You must be able to control the damage done by your strikes without having to alter the mechanics. This is done by controlling the penetration or follow through of the strike.</p>
-<h4 id="1-to-5-drill">1-to-5 Drill</h4>
+<h3 id="1-to-5-drill">1-to-5 Drill</h3>
 <p>This drill comes from a gentleman named Dan Lee. He was a student of Bruce Lee in the 1960s. What makes this drill so great is that it teaches you to punch with full <a href="/bruce-lee-speed/">speed</a> and <a href="/punching-power/">power</a> without harming your partner. There are 5 levels of follow through.</p>
 <ol>
  <li>Surface punching. Little to no follow through. This is referred to as “cracking the egg”.</li>
@@ -554,6 +554,39 @@ Beginner: 6-9 | Intermediate: 10-14 | Advanced: 15-20 | Expert: 21+</p>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -199,7 +199,7 @@ Because of the books and articles I’ve written about Jeet Kune Do, I receive a
 			<figure class="wp-block-image alignleft size-medium"><img src="/wp-content/uploads/2023/08/tackett-clan-300x206.jpg" alt="" /><figcaption>The Tackett family of JKD'ers</figcaption></figure>
 <p>Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: <strong><em>How long will it take me to become a JKD expert and be certified to teach?</em></strong></p>
 <p>I usually reply with a question of my own: <strong><em>How long would it take you to become a great basketball player and then a coach for a college team?</em></strong> It’s obviously a rhetorical question designed to convey what many people forget – that JKD or any other martial art is an athletic endeavor and that advancement requires the development of balance, <a href="/bruce-lee-speed/">speed</a>, fast-twitch muscles and so on. While you can get better every day if you put in the time and effort, not everyone can get good enough to be considered a teacher.</p>
-<h4 id="the-other-common-question-is-how-do-i-get-started-in-jkd">The other common question is: <em>How do I get started in JKD?</em></h4>
+<h2 id="the-other-common-question-is-how-do-i-get-started-in-jkd">The other common question is: <em>How do I get started in JKD?</em></h2>
 <p>The first thing you should do is search for a <a href="/affiliated/">recognized JKD school</a> or <a href="/official/">certified instructor</a>. While there’s no official master list of authorized JKD schools, it can be helpful to check the web site of an acknowledged expert such as Richard Bustillo to see whether he or one of his students has a school in your area. If that doesn’t work, you’ll need to figure out how far you’re willing to drive to study with a qualified teacher because travel will probably be required. Point of reference: While attending law school, one of my students would drive 110 miles each way once a week to learn JKD. It’s obviously not as good as training two or three times a week, but progress is possible.</p>
 <p>If you can’t find a school close enough for regular trips, consider attending a <a href="/seminars/">JKD camp</a>. A week-long training event is a great way to get started. It can help you gain an understanding of basic JKD techniques, which you can then practice at home – perhaps while studying books or videos.</p>
 <p>And if you’re unable to find a camp or seminar in your area? You can build on the martial art you currently practice by supplementing it with JKD techniques learned from <a href="/books/">books</a> and <a href="/videos/">videos</a>. A more formal alternative might entail finding a school that teaches wing chun or Western boxing, both of which are part of JKD, and then fine-tuning it with those books and videos.</p>
@@ -290,6 +290,39 @@ Because of the books and articles I’ve written about Jeet Kune Do, I receive a
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

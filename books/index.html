@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -186,7 +186,7 @@
 <p>by <a href="/tim/">Tim Tackett</a> &amp; <a href="https://www.ckjkd.com/">Chris Kent</a></p>
 <p>In this new and updated edition of Jeet Kune Do Kickboxing, long considered one of the revolutionary martial arts treatises of our generation, you’ll discover that only by having a comprehensive understanding of the basic JKD tools available can you then concentrate on the more technical aspects such as timing and distance. Jeet Kune Do Kickboxing includes chapters on: Basic Hand Tool Development, Basic Foot Tool Development, Basic Use of Training with Equipment, Each of the Five Ways of Attack, and… [<a href="https://www.amazon.com/JKD-Kickboxing-Chris-Kent-Tackett/dp/0865682836">continued</a>]</p>
 <hr />
-<h3 id="more-recommended-reading">More Recommended Reading</h3>
+<h2 id="more-recommended-reading">More Recommended Reading</h2>
 <p><a href="https://www.amazon.com/dp/0804851239/">Bruce Lee Jeet Kune Do: A Comprehensive Guide to Bruce Lee’s Martial Way</a></p>
 <p><a href="https://www.amazon.com/Jeet-Kune-Do-Philosophy-Bruce/dp/0938676008/">Jeet Kune Do: The Art &amp; Philosophy of Bruce Lee</a></p>
 <p><a href="https://www.amazon.com/Be-Water-My-Friend-Teachings/dp/1250206707/">Be Water, My Friend: The Teachings of Bruce Lee</a></p>
@@ -234,6 +234,39 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

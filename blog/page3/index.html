@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -18,8 +18,8 @@
       },
       "headline": "Blog",
       "image": "https://jkdpower.github.io/assets/img/site/banner-blog.png",
-      "datePublished": "2026-03-23T20:55:02-07:00",
-      "dateModified": "2026-03-23T20:55:02-07:00",
+      "datePublished": "2026-04-26T20:35:09-07:00",
+      "dateModified": "2026-04-26T20:35:09-07:00",
       "author": {
         "@type": "Person",
         "name": "JKD Wednesday Night Group"
@@ -163,7 +163,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/bruce-lee-book-review-simple-and-direct-podcast/"><h5 class="card-title">Bruce Lee book review – Simple And Direct Podcast</h5></a>
+				<a href="https://jkdpower.github.io/bruce-lee-book-review-simple-and-direct-podcast/"><h2 class="card-title h5">Bruce Lee book review – Simple And Direct Podcast</h2></a>
 				<div class="card-text">https://open.spotify.com/episode/12MtnvlkH1bzvuUMGjGPHo?si=e9c76952c0d44e57 
 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.
 </div>
@@ -183,7 +183,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/footwork-in-fighting-simple-and-direct-podcast/"><h5 class="card-title">Footwork in fighting – Simple And Direct Podcast</h5></a>
+				<a href="https://jkdpower.github.io/footwork-in-fighting-simple-and-direct-podcast/"><h2 class="card-title h5">Footwork in fighting – Simple And Direct Podcast</h2></a>
 				<div class="card-text">https://open.spotify.com/episode/3O2zbZD7M8EMcqvX46g3gV?si=0d2f9de688184297 
 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.
 </div>
@@ -203,7 +203,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/jkd-wng-black-red-jogging-set/"><h5 class="card-title">JKD WNG Black / Red Jogging Set</h5></a>
+				<a href="https://jkdpower.github.io/jkd-wng-black-red-jogging-set/"><h2 class="card-title h5">JKD WNG Black / Red Jogging Set</h2></a>
 				<div class="card-text">Matching Bremer/Tackett Hoodie and Athletic Joggers. These are special order items which can take several weeks to produce and shipping costs will be significantly higher than normal. For shipping to the USA, Canada, Europe, Australia or New Zealand, shipping costs will be approximately $16 USD per item. Shipping to other parts of the world may cost up to $35 USD. Contact us for information on how to order.
 </div>
 			</article>
@@ -222,7 +222,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/jkd-wng-black-white-jogging-set/"><h5 class="card-title">JKD WNG Black / White Jogging Set</h5></a>
+				<a href="https://jkdpower.github.io/jkd-wng-black-white-jogging-set/"><h2 class="card-title h5">JKD WNG Black / White Jogging Set</h2></a>
 				<div class="card-text">Matching WNG Dragon Hoodie and Athletic Joggers featuring the Chinese characters for Jeet Kune Do and the JKD Wednesday Night Group logo. These are special order items which can take several weeks to produce and shipping costs will be significantly higher than normal. For shipping to the USA, Canada, Europe, Australia or New Zealand, shipping costs will be approximately $16 USD per item. Shipping to other parts of the world may cost up to $35 USD. Contact us for information on how to order.
 </div>
 			</article>
@@ -300,6 +300,39 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

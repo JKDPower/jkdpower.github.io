@@ -609,7 +609,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/archive",
         "img": null
@@ -659,7 +659,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/categories",
         "img": null
@@ -729,7 +729,7 @@ var store = [{
         "excerpt": "<p>The Wednesday Night Group has attracted many interesting individuals over the years. The men recognized here as Founding Members have shaped our approach to JKD and are responsible for the group being what it is today.</p>",
         "content": "The Wednesday Night Group has attracted many interesting individuals over the years. The men recognized here as Founding Members have shaped our approach to JKD and are responsible for the...",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/members/",
         "img": null
@@ -749,7 +749,7 @@ var store = [{
         "excerpt": "<p>Official Instructors teach the Wednesday Night Group’s brand of Jeet Kune Do. We also have Affiliates that may teach some WNG JKD combined with material from other sources.</p>",
         "content": "Official Instructors teach the Wednesday Night Group’s brand of Jeet Kune Do. We also have Affiliates that may teach some WNG JKD combined with material from other sources. United States...",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/official/",
         "img": null
@@ -759,7 +759,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/search.html",
         "img": null
@@ -799,7 +799,7 @@ var store = [{
         "excerpt": "<p>Dennis Blue, Jeremy Lynch, Vince Raimondi and most of the JKD Wednesday Night Group Instructors are available to conduct seminars at your school.</p>",
         "content": "Dennis Blue, Jeremy Lynch, Vince Raimondi and most of the JKD Wednesday Night Group Instructors are available to conduct seminars at your school. For seminar inquiries, contact us at contact@jkdwednite.com....",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/seminars/",
         "img": null
@@ -819,7 +819,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-03-23",
+        "date": "2026-04-26",
         "tags": [],
         "url": "https://jkdpower.github.io/tags",
         "img": null

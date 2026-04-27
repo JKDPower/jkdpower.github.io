@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -202,13 +202,13 @@
  <p>”I have had a great many troubles, but most have never happened.”</p>
  <p><cite>Samuel Longhorne Clemens</cite></p>
 </blockquote>
-<h3 id="action">Action</h3>
+<h2 id="action">Action</h2>
 <p>Your ability and willingness to adapt, improvise and overcome in a plan of S.E.R.E. (survival–escape-resistance-evasion) must be planned for prior to an encounter. Apart from any chosen action(s), planning remains the key to your survival. Duly note as it has been prescribed before, action is much faster than reaction.</p>
 <p><strong>Decrease response time by minimizing responses. Human reaction time from threat awareness to threat reaction is 0.75 seconds.</strong></p>
 <p>Don’t fool yourself either, no plan is perfect, you must consider the other dynamics involved. Through your mental preparation and force-on-force (FoF) training/drills, you should have worked through many contingency plans. Never, never surrender; keep an ever constant vigilance for the chance to overcome or exploit any lull or weakness of the opposition.</p>
 <p><strong>Indecision &amp; Reaction cost time, and every 0.5 seconds is that much time off your life. Take the time to train to minimize responses, so that you can act decisively at the moment of truth.</strong></p>
 <p>By reducing the amount of extraneous material taught, you can eliminate the chances for mistakes or fumbling. If we can take a few core skills and apply them (with variables), we can enhance the spectrum of applicable knowledge and survivability.</p>
-<h3 id="skills-techniques-tactics-and-strategy">Skills, Techniques, Tactics and Strategy</h3>
+<h2 id="skills-techniques-tactics-and-strategy">Skills, Techniques, Tactics and Strategy</h2>
 <p>First consider that placing yourself at a 45 degree angle to your opponent, places you almost completely neutral to the area of effectiveness for his tools. In so doing you force your opponent to alter his position and maneuver to catch up to you. Do you remember action versus reaction? Well this is it in application, disruption. Any impact used to regulate his physiology and psychology is of course a disturbance. In a simple step you are able to achieve three key maneuvers:</p>
 <ol>
  <li>You have <em>zoned</em> away from the attack or primary line of engagement.</li>
@@ -216,7 +216,7 @@
  achieved <em>disrupting</em>.</li>
  <li>By <em>disturbance</em> through the application of various impact tools you are able to affect him physically and psychologically.</li>
 </ol>
-<h3 id="flow-chart-of-combat-development">Flow Chart of Combat Development</h3>
+<h2 id="flow-chart-of-combat-development">Flow Chart of Combat Development</h2>
 <p><strong>Skills</strong> are ones ability to do something well, either via training or through experience. All skills are motor skills, and each plays a functional role:</p>
 <ul>
  <li><strong>Fine motor skills</strong> are defined as coordination of small refined muscle movements which occur usually in coordination with the eyes. The term manual dexterity is a universal reference for these skills, or the reference of eye &amp; hand coordination. The abilities range from primitive gestures like grasping or grabbing objects increasing to athletic abilities, precision maneuvering, writing, drawing, manipulations, etc.</li>
@@ -370,6 +370,39 @@ Simply put strategy is planning and conducting. It is a devised plan of action o
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

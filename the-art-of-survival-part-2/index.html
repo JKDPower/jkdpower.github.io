@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -201,7 +201,7 @@
 <p>Pre-set mentally absolute resolve; “Never-Ever Quit”. Condition your mind to encourage confidently your attitude toward your personal survival. Do all that you can prior to confrontation to learn to avoid confrontation. Your attitude, level of awareness and <a href="/the-art-of-survival-part-1/">the 7 P’s</a> are of major importance to the outcome.</p>
 <p>In your visualization scenarios you should have varied backgrounds, surroundings, circumstances and the like, and from them you should have derived at various responses. This is your first means of planning for confrontation. In taking what you have learned and going through it and over it, you commence solidification of these responses. Understand that via visualization, you are creating experiences. Your mind cannot differentiate between what you are visualizing and what is real. In this manner you are pre-programming yourself for success.</p>
 <p>The more creative but realistic you can be in your visualization training, the greater your survivability in the moment of truth. Take the time to continue practicing your scenarios mentally and physically. At the time while you do visualization, physically place yourself into varied positions (lying down, sitting at the kitchen table, standing at a bar, hunched over your car, in the shower etc). Experience your body moving along with your visual exercise. You can practice the visuals alone while on a break at work, or waiting for something; but when the opportunity avails itself, go through the physical motions of the techniques learned also.</p>
-<h3 id="ethical-responsibility">Ethical Responsibility</h3>
+<h2 id="ethical-responsibility">Ethical Responsibility</h2>
 <p>You must understand that any undertaking of personal protection is for the moment a right to be cherished and protected. We must assure that we exercise extreme caution in the application of personal combatives. This flows over into the transitional areas of firearms, electrical devices, chemical agents, impact and/or edged defensive tools. Anyone who is trained in a system or has initiated any such training must understand the role they are playing for others who are also involved. Many rights are being subdued in the name of the Privacy Act, as well as by those who want you controlled.</p>
 <p>Furthermore as an individual in the process of defending self and family, having gone to the extreme to avoid any altercation or confrontation, duly note that deadly force is an absolute final measure. If you can avoid it, do so! You owe nothing to your ego, or anyone else who might think you less a man or person because you managed to actually quell or avoid a confrontation.</p>
 </article>
@@ -344,6 +344,39 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

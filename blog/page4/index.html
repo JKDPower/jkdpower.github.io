@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -18,8 +18,8 @@
       },
       "headline": "Blog",
       "image": "https://jkdpower.github.io/assets/img/site/banner-blog.png",
-      "datePublished": "2026-03-23T20:55:02-07:00",
-      "dateModified": "2026-03-23T20:55:02-07:00",
+      "datePublished": "2026-04-26T20:35:09-07:00",
+      "dateModified": "2026-04-26T20:35:09-07:00",
       "author": {
         "@type": "Person",
         "name": "JKD Wednesday Night Group"
@@ -163,7 +163,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/groin-strikes-jkd-self-defense-podcast/"><h5 class="card-title">Groin strikes – Simple And Direct Podcast</h5></a>
+				<a href="https://jkdpower.github.io/groin-strikes-jkd-self-defense-podcast/"><h2 class="card-title h5">Groin strikes – Simple And Direct Podcast</h2></a>
 				<div class="card-text">https://open.spotify.com/episode/4RWSvRt33Pw2tx7vTHYewE?si=dc52d557a7324b54 
 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.
 </div>
@@ -183,7 +183,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/jkd-wng-hoodies/"><h5 class="card-title">JKD WNG Hoodies</h5></a>
+				<a href="https://jkdpower.github.io/jkd-wng-hoodies/"><h2 class="card-title h5">JKD WNG Hoodies</h2></a>
 				<div class="card-text">We’re offering several different JKD Wednesday Night Group hoodies in multiple colors. Current products include Tim Tackett commemorative Hoodies and our “Legacy” Hoodies featuring the classic WNG logo. More designs are being added all the time, so be sure to check back regularly to see what’s new.
 </div>
 			</article>
@@ -202,7 +202,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/jkd-wng-legacy-basic-tshirt/"><h5 class="card-title">JKD WNG “Legacy” Basic T-Shirt</h5></a>
+				<a href="https://jkdpower.github.io/jkd-wng-legacy-basic-tshirt/"><h2 class="card-title h5">JKD WNG “Legacy” Basic T-Shirt</h2></a>
 				<div class="card-text">The old-school JKD Wednesday Night Group T-shirt is back. Simple and efficient, this shirt features the “Legacy” WNG logo on the front and the Chinese characters for Jeet Kune Do on the back. Available in black or white.
 </div>
 			</article>
@@ -221,7 +221,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/tim-tackett-commemorative-sweatshirts/"><h5 class="card-title">Tim Tackett Commemorative Sweatshirts</h5></a>
+				<a href="https://jkdpower.github.io/tim-tackett-commemorative-sweatshirts/"><h2 class="card-title h5">Tim Tackett Commemorative Sweatshirts</h2></a>
 				<div class="card-text">We’re celebrating Sifu Tim Tackett’s 50 years of teaching with these special edition sweatshirts. Available in two colors, black and navy. This same design is also being printed on hoodies and t-shirts. See more products in our merch section.
 </div>
 			</article>
@@ -299,6 +299,39 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

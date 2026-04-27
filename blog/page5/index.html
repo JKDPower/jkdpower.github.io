@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -18,8 +18,8 @@
       },
       "headline": "Blog",
       "image": "https://jkdpower.github.io/assets/img/site/banner-blog.png",
-      "datePublished": "2026-03-23T20:55:02-07:00",
-      "dateModified": "2026-03-23T20:55:02-07:00",
+      "datePublished": "2026-04-26T20:35:09-07:00",
+      "dateModified": "2026-04-26T20:35:09-07:00",
       "author": {
         "@type": "Person",
         "name": "JKD Wednesday Night Group"
@@ -163,7 +163,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/back-fist-in-jkd/"><h5 class="card-title">Back Fist in JKD</h5></a>
+				<a href="https://jkdpower.github.io/back-fist-in-jkd/"><h2 class="card-title h5">Back Fist in JKD</h2></a>
 				<div class="card-text">While the back fist is a valuable tool in combat, sometimes when it is used it has too much preparation, or is thrown from an obvious position if you are in a proper Jeet Kune Do ready stance. In the video below, Jeremy Lynch demonstrates the correct ways to deliver the back fist.
 </div>
 			</article>
@@ -182,7 +182,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/the-art-of-survival-part-4/"><h5 class="card-title">The Art of Survival: Part 4 (Fear &#038; Action)</h5></a>
+				<a href="https://jkdpower.github.io/the-art-of-survival-part-4/"><h2 class="card-title h5">The Art of Survival: Part 4 (Fear &#038; Action)</h2></a>
 				<div class="card-text">To become fearless is not to be our primary purpose or pursuit; this point is critical. We have but to observe the world around us to see the frantic and neurotic behaviors of others.
 </div>
 			</article>
@@ -201,7 +201,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/the-art-of-survival-part-3/"><h5 class="card-title">The Art of Survival: Part 3 (Confrontation)</h5></a>
+				<a href="https://jkdpower.github.io/the-art-of-survival-part-3/"><h2 class="card-title h5">The Art of Survival: Part 3 (Confrontation)</h2></a>
 				<div class="card-text">It is not my effort or intention to proselytize you; rather it is my desire to convey viable information for personal survival in a combative format. What we are concerned with and covering are primal realities. Note these statistics, 1 in 3 women in her lifetime will be a victim of a sexual assault, 3 in 9 people will confront a situation with a mortal outcome.
 </div>
 			</article>
@@ -220,7 +220,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/the-art-of-survival-part-2/"><h5 class="card-title">The Art of Survival: Part 2 (Mental Preparation)</h5></a>
+				<a href="https://jkdpower.github.io/the-art-of-survival-part-2/"><h2 class="card-title h5">The Art of Survival: Part 2 (Mental Preparation)</h2></a>
 				<div class="card-text">Preparedness is not paranoia.
 </div>
 			</article>
@@ -298,6 +298,39 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

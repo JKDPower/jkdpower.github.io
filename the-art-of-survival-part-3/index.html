@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -206,9 +206,9 @@
  <li>Sometimes you’re the hammer, and sometimes you’re the anvil; the predator continues to breathe and procreate.</li>
 </ol>
 <p>Our first task then is to remain aware and alert and at the recognition of an assault maintain distance. Ideally the distance to keep the opponent at bay is 10’ ft. It is here where one needs to identify their position in space and time during the interim of interaction. Continually maintain zoning, while disrupting and disturbing your opponents’ game plan. Here too, we rely upon visual contact of intent, and verbal communication; being ever vigil of gambits. As we have discussed, leave nothing to chance. Predators do travel in packs, especially the cowardly, weak and insecure.</p>
-<h3 id="learn-it-right-before-you-do-it-fast">Learn It Right Before You Do It Fast</h3>
+<h2 id="learn-it-right-before-you-do-it-fast">Learn It Right Before You Do It Fast</h2>
 <p>In learning and educating yourself in combatives you can, as you train, decrease response time by minimizing responses. You will actually learn and comprehend more quickly if you actually slow things down.</p>
-<h3 id="meet-it---greet-it---beat-it">Meet it - Greet it - Beat it</h3>
+<h2 id="meet-it---greet-it---beat-it">Meet it - Greet it - Beat it</h2>
 <p>It cannot be stressed enough the importance of meeting, greeting and beating the situation before you. You must accept the reality of what it will take to survive before you can train for it.</p>
 <p>The confidence required is developed through the successive use of <a href="/the-art-of-survival-part-2/">mental preparation</a> and physical conditioning. You create the outcome by your mind set, a mind set that is realistic, poised and of absolute resolve. Be strategic in all approaches to any endeavor, train for the exception as well as the rule. Do not allow yourself to be taken off guard. Again it is preparedness not paranoia; but it is the lack of preparedness, environmental awareness and a lackless desire for survival that gets you - DEAD!</p>
 <p>The combined physiological and psychological preparation/conditioning creates a set of guidelines for combating threat. This formula of <em><span style="text-decoration: underline;">attitude &amp; knowledge</span></em>, <span style="text-decoration: underline;"><em>understanding &amp; knowledge</em></span> and <em><span style="text-decoration: underline;">skill &amp; understanding</span></em> are essential roles in personal combatives.</p>
@@ -364,6 +364,39 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

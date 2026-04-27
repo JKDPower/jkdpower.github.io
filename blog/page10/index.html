@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -18,8 +18,8 @@
       },
       "headline": "Blog",
       "image": "https://jkdpower.github.io/assets/img/site/banner-blog.png",
-      "datePublished": "2026-03-23T20:55:02-07:00",
-      "dateModified": "2026-03-23T20:55:02-07:00",
+      "datePublished": "2026-04-26T20:35:09-07:00",
+      "dateModified": "2026-04-26T20:35:09-07:00",
       "author": {
         "@type": "Person",
         "name": "JKD Wednesday Night Group"
@@ -163,7 +163,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2010
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/getting-started-in-jkd/"><h5 class="card-title">Getting Started in JKD</h5></a>
+				<a href="https://jkdpower.github.io/getting-started-in-jkd/"><h2 class="card-title h5">Getting Started in JKD</h2></a>
 				<div class="card-text">The Tackett family of JKD&#39;ers
 Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: How long will it take me to become a JKD expert and be certified to teach?
 </div>
@@ -183,7 +183,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/using-no-way-as-way/"><h5 class="card-title">Using No Way As Way?</h5></a>
+				<a href="https://jkdpower.github.io/using-no-way-as-way/"><h2 class="card-title h5">Using No Way As Way?</h2></a>
 				<div class="card-text">
 One of the most famous Bruce Lee quotes referring to our beloved art of Jeet Kune Do is “Using no way as way, having no limitation as limitation”. Unfortunately, this one quote has been the cause of a great deal of confusion. Another quote of Bruce Lee’s that is used frequently is “I don’t believe in styles” and another, “My followers in Jeet Kune Do, do listen to this … all fixed, set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.” The confusion is between two major and opposite interpretations of these quotes. On one hand, you have the belief that anything you do is Jeet Kune Do because Jeet Kune Do cannot be categorized and there is “No limitation” on what you do. On the other hand is the idea that there is a basic and highly scientific structure in Jeet Kune Do which all individuals learning JKD should be taught. I subscribe to the second belief.
 </div>
@@ -203,7 +203,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/jeet-kune-do-trapping/"><h5 class="card-title">Jeet Kune Do Trapping</h5></a>
+				<a href="https://jkdpower.github.io/jeet-kune-do-trapping/"><h2 class="card-title h5">Jeet Kune Do Trapping</h2></a>
 				<div class="card-text">When Jeet Kune Do trapping is mentioned today, it is met with a number of positive as well as negative responses. On one hand, there are those who think anything Bruce Lee wrote, talked about, illustrated or performed is definitely Jeet Kune Do. No doubt about it. On the other hand, you have people who view training methods like trapping, try the techniques a few times, and then decide whether Bruce Lee would have made major modifications or tossed out the entire thing altogether. In the end, neither of the above responses shows an understanding of how Jeet Kune Do really works, or more importantly, what it takes to make it work for you.
 </div>
 			</article>
@@ -222,7 +222,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/dm-blue-interview/"><h5 class="card-title">Dennis Blue interview by Jeremy Lynch</h5></a>
+				<a href="https://jkdpower.github.io/dm-blue-interview/"><h2 class="card-title h5">Dennis Blue interview by Jeremy Lynch</h2></a>
 				<div class="card-text">
 JL: What is your background in the martial arts? Give us the full history.
 </div>
@@ -301,6 +301,39 @@ JL: What is your background in the martial arts? Give us the full history.
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

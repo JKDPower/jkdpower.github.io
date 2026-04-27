@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -194,7 +194,7 @@
 				</div>
 </aside>
 			<article id="maincontent" class="col-lg-8 mt-3 e-content">
-			<h3 id="stages-in-the-evolution-of-bruce-lees-martial-art"><em>Stages In The Evolution Of Bruce Lee’s Martial Art</em></h3>
+			<h2 id="stages-in-the-evolution-of-bruce-lees-martial-art"><em>Stages In The Evolution Of Bruce Lee’s Martial Art</em></h2>
 <figure class="wp-block-image alignleft size-medium">[<img src="/wp-content/uploads/2023/07/observing-differences-300x300.jpg" alt="" />](/observing-differences/observing-differences-2/)</figure>
 <p>One of the major reasons for forming what is now called The Bruce Lee Educational Foundation was to promote unity and comradeship between the four phases of the evolution of Bruce Lee’s martial art. Unfortunately this may not always be the case. The reason may be a misunderstanding of what Bruce Lee was attempting to do with his personal evolution. Bruce was interested in constant experimentation, but it was not just experimentation for its own sake. Bruce’s intense study of other martial arts, and the passionate analysis of various modern training methods were for one purpose and one purpose only, and that was to make himself a better martial artist. With this end in mind Bruce Lee used his schools as a sort of living laboratory. For example, a technique could be tested in the crucible of full contact <a href="/high-performance-sparring/">sparring</a>. Then an analysis could be made as to its efficiency.</p>
 <p>The yearly JFJKD seminar can give participants a chance to experience all four eras of Bruce’s martial art. As James Demile said, during an interview about the late and great Ed Hart who was Bruce’s second student, he was glad that people got to see all four stages of Bruce’s development as it was important to see how A became B, and B became C, and finally C became D. If you were at the Seattle seminar it was obvious that there are vast differences in the way the four eras approach Bruce Lee’s martial art. I think that James DeMile said it best during his portion of the third seminar in Seattle, Washington. Referring to the differences he observed between that of first era, which he was an important part of, and the forth (Chinatown) era, he said that it was as if we had different teachers. At first glance it does look like the first era and the last are two totally different martial arts with the only thing in common is that they were taught by the same person, Bruce Lee. But if we look at a brief history of Bruce Lee’s martial art growth we can see that instead of looking at it as four separate arts, we should look at it as merely <a href="/stages-in-the-cultivation-of-jeet-kune-do/">stages</a> in one extraordinary man’s desire to become the greatest martial artist in the world.</p>
@@ -348,6 +348,39 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

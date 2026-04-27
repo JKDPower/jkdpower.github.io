@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -18,8 +18,8 @@
       },
       "headline": "Blog",
       "image": "https://jkdpower.github.io/assets/img/site/banner-blog.png",
-      "datePublished": "2026-03-23T20:55:02-07:00",
-      "dateModified": "2026-03-23T20:55:02-07:00",
+      "datePublished": "2026-04-26T20:35:09-07:00",
+      "dateModified": "2026-04-26T20:35:09-07:00",
       "author": {
         "@type": "Person",
         "name": "JKD Wednesday Night Group"
@@ -163,7 +163,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/5-reasons-to-train-jeet-kune-do/"><h5 class="card-title">5 Reasons to train in Jeet Kune Do</h5></a>
+				<a href="https://jkdpower.github.io/5-reasons-to-train-jeet-kune-do/"><h2 class="card-title h5">5 Reasons to train in Jeet Kune Do</h2></a>
 				<div class="card-text">
 1. Build a JKD filter
 </div>
@@ -183,7 +183,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2014
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/street-effective/"><h5 class="card-title">Street Effective Martial Arts</h5></a>
+				<a href="https://jkdpower.github.io/street-effective/"><h2 class="card-title h5">Street Effective Martial Arts</h2></a>
 				<div class="card-text">[](https://www.jkdwednite.com/Street-Effective.pdf)[Download PDF](https://www.jkdwednite.com/Street-Effective.pdf)
 Fortunately, debates over which style of martial art is ‘the best’ have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of “Reality-based” training, the old Sport vs. Street argument is ever-present.
 </div>
@@ -203,7 +203,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/close-quarter-tactics/"><h5 class="card-title">Inside The Fighting Measure</h5></a>
+				<a href="https://jkdpower.github.io/close-quarter-tactics/"><h2 class="card-title h5">Inside The Fighting Measure</h2></a>
 				<div class="card-text">Foreward
 </div>
 			</article>
@@ -222,7 +222,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/jkd-filter/"><h5 class="card-title">The JKD Filter</h5></a>
+				<a href="https://jkdpower.github.io/jkd-filter/"><h2 class="card-title h5">The JKD Filter</h2></a>
 				<div class="card-text">[](https://www.jkdwednite.com/JKD-Filter.pdf)[Download PDF](https://www.jkdwednite.com/JKD-Filter.pdf)
 By labeling Jeet Kune Do as “just a philosophy” with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by its founder, Bruce Lee. On the other hand, by crystallizing the art as “only what Bruce Lee taught,” we deprive ourselves of the free expression and naturalness (or natural-unnaturalness!) advocated so strongly by Sijo Lee.
 </div>
@@ -301,6 +301,39 @@ By labeling Jeet Kune Do as “just a philosophy” with no curriculum or progre
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

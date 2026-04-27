@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -199,7 +199,7 @@ Fortunately, debates over which style of m...">
 			<figure class="wp-block-image alignleft size-medium is-resized">[<img src="/wp-content/uploads/2023/07/Street-cover-232x300.jpg" alt="" />](https://www.jkdwednite.com/Street-Effective.pdf)<figcaption>[Download PDF](https://www.jkdwednite.com/Street-Effective.pdf)</figcaption></figure>
 <p>Fortunately, debates over which style of martial art is ‘the best’ have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of “Reality-based” training, the old Sport vs. Street argument is ever-present.</p>
 <p>It would be tough to count the number of times I’ve heard some variation of the following statement:</p>
-<h4 id="that-wont-work-on-the-street-people-dont-fight-like-that">“That won’t work on the street! People don’t fight like that.”</h4>
+<h2 id="that-wont-work-on-the-street-people-dont-fight-like-that">“That won’t work on the street! People don’t fight like that.”</h2>
 <p>Is this simply one of those cliches leveled by martial artists at other systems or schools to prove why their way is superior? Or is it a valid criticism in at least some cases?</p>
 <p>The streets are filled with people who cover the entire spectrum of fighting skills and proclivity for violence. Professional boxers, BJJ black belts, Soldiers, Policemen, Gang bangers, Drug addicts, and Predators of all colors and stripes share the same streets as you and I do.</p>
 <p>Often what’s meant by the above statement is either;</p>
@@ -422,6 +422,39 @@ Fortunately, debates over which style of m...">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>

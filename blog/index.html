@@ -5,7 +5,7 @@
     <!--  MIT License-->
     <!-- Docs: https://dieghernan.github.io/chulapa -->
     <!-- Repo: https://github.com/dieghernan/chulapa -->
-    <!-- Page build 2026-03-23 -->
+    <!-- Page build 2026-04-26 -->
      <!-- Jekyll Version 4.4.1 -->
     <!--Google Structured Data-->
     <script type="application/ld+json">
@@ -18,8 +18,8 @@
       },
       "headline": "Blog",
       "image": "https://jkdpower.github.io/assets/img/site/banner-blog.png",
-      "datePublished": "2026-03-23T20:55:02-07:00",
-      "dateModified": "2026-03-23T20:55:02-07:00",
+      "datePublished": "2026-04-26T20:35:09-07:00",
+      "dateModified": "2026-04-26T20:35:09-07:00",
       "author": {
         "@type": "Person",
         "name": "JKD Wednesday Night Group"
@@ -163,7 +163,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2025
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/wng-jkd-podcast-chris-kent-part-2/"><h5 class="card-title">WNG JKD Podcast – Chris Kent (part 2)</h5></a>
+				<a href="https://jkdpower.github.io/wng-jkd-podcast-chris-kent-part-2/"><h2 class="card-title h5">WNG JKD Podcast – Chris Kent (part 2)</h2></a>
 				<div class="card-text">https://www.youtube.com/watch?v=5HDtq8QhAmE 
 Jeremy Lynch and D.M. Blue talk to JKD legend Chris Kent.
 </div>
@@ -183,7 +183,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2025
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/wng-jkd-podcast-octavio-quintero-part-1/"><h5 class="card-title">WNG JKD Podcast – Octavio Quintero (part 1)</h5></a>
+				<a href="https://jkdpower.github.io/wng-jkd-podcast-octavio-quintero-part-1/"><h2 class="card-title h5">WNG JKD Podcast – Octavio Quintero (part 1)</h2></a>
 				<div class="card-text">https://www.youtube.com/watch?v=Alp3AxuAY48 
 Jeremy Lynch and D.M. Blue talk to friend and fellow JKD Man Octavio Quintero and discuss the art of JKD and the pitfalls of teaching.
 </div>
@@ -203,7 +203,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2023
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/wng-jkd-podcast-episode-1/"><h5 class="card-title">WNG JKD Podcast – Episode 1</h5></a>
+				<a href="https://jkdpower.github.io/wng-jkd-podcast-episode-1/"><h2 class="card-title h5">WNG JKD Podcast – Episode 1</h2></a>
 				<div class="card-text">https://www.youtube.com/watch?v=OiRaDTXPgbo 
 JKD Wednesday Night Group founding members Jeremy Lynch and D.M. Blue delve into the history of the group, their memories of training with legends like Bert Poe and Sonny Bygum, the current state of Jeet Kune Do, and more.
 </div>
@@ -223,7 +223,7 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="https://jkdpower.github.io/chinatown-jkd-wng-jersey/"><h5 class="card-title">Chinatown JKD WNG Jersey</h5></a>
+				<a href="https://jkdpower.github.io/chinatown-jkd-wng-jersey/"><h2 class="card-title h5">Chinatown JKD WNG Jersey</h2></a>
 				<div class="card-text">The first official JKD Wednesday Night Group jersey features “Los Angeles Chinatown JKD” on the front and an illustration of Tim Tackett and Bob Bremer on the back.
 </div>
 			</article>
@@ -301,6 +301,39 @@ style="background-image: url('https://jkdpower.github.io/wp-content/uploads/2024
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/gh/dieghernan/chulapa@master/assets/js/chulapa_script.js"></script>
 	<!-- start custom scripts to be placed at the bottom of the page -->
+<script>
+  (function () {
+    var carousel = document.getElementById('jkd-carousel');
+    var btn = document.getElementById('jkd-carousel-pause');
+    if (!carousel || typeof $ === 'undefined') return;
+    var paused = false;
+    function setPaused(state) {
+      paused = state;
+      if (paused) {
+        $(carousel).carousel('pause');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9654;</span>';
+          btn.setAttribute('aria-label', 'Play slideshow');
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        $(carousel).carousel('cycle');
+        if (btn) {
+          btn.innerHTML = '<span aria-hidden="true">&#9646;&#9646;</span>';
+          btn.setAttribute('aria-label', 'Pause slideshow');
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      $(carousel).carousel({ interval: false });
+      setPaused(true);
+    }
+    if (btn) {
+      btn.addEventListener('click', function () { setPaused(!paused); });
+    }
+  })();
+</script>
 <!-- end custom bottom scripts -->
 	</body>
 </html>
