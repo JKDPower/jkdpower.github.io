@@ -31,7 +31,7 @@ include_on_search: false
   </div>
 </div>
 
-<div class="carousel-item jkd-slide" style="background-image: url('/wp-content/uploads/2023/08/gallery.jpg')">
+<div class="carousel-item jkd-slide" style="background-image: url('/wp-content/uploads/2023/07/gallery.jpg')">
   <div class="carousel-caption">
     <a href="/gallery/" class="btn btn-outline-light btn-lg">GALLERY</a>
   </div>
@@ -49,7 +49,7 @@ include_on_search: false
   </div>
 </div>
 
-<div class="carousel-item jkd-slide" style="background-image: url('/wp-content/uploads/2023/10/video-featured.jpg')">
+<div class="carousel-item jkd-slide" style="background-image: url('/wp-content/uploads/2023/08/jkd-videos.jpg')">
   <div class="carousel-caption">
     <a href="/videos/" class="btn btn-outline-light btn-lg">VIDEOS</a>
   </div>
@@ -61,7 +61,7 @@ include_on_search: false
   </div>
 </div>
 
-<div class="carousel-item jkd-slide" style="background-image: url('/wp-content/uploads/2023/08/seminars-featured1.jpg')">
+<div class="carousel-item jkd-slide" style="background-image: url('/wp-content/uploads/2023/08/seminars1.jpg')">
   <div class="carousel-caption">
     <a href="/seminars/" class="btn btn-outline-light btn-lg">SEMINARS</a>
   </div>

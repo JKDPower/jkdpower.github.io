@@ -187,10 +187,10 @@ footer {
 }
 
 .jkd-slide {
-  height: 60vh;
-  min-height: 280px;
+  height: 100vh;
+  min-height: 480px;
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   background-repeat: no-repeat;
   position: relative;
 }
@@ -199,7 +199,15 @@ footer {
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.45);
+  // Fade-to-black vignette top & bottom, with a mild center darken
+  // kept for caption legibility.
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(0, 0, 0, 0.25) 22%,
+    rgba(0, 0, 0, 0.25) 78%,
+    rgba(0, 0, 0, 0.85) 100%
+  );
 }
 
 #jkd-carousel .carousel-caption {
@@ -218,6 +226,10 @@ footer {
 .jkd-mission-strip {
   margin-left: calc(-50vw + 50%);
   margin-right: calc(-50vw + 50%);
+  // Pull the strip up flush against the navbar, cancelling the wrapper's
+  // top spacing (row .pt-2 = 0.5rem + article .mt-3 = 1rem) so the white
+  // page background no longer shows as a line between the two dark bands.
+  margin-top: -1.5rem;
   overflow: hidden;
   background: #2d3035;
   border-bottom: 3px solid #b91c1c;

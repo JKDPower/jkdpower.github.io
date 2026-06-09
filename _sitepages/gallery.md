@@ -4,7 +4,7 @@ date: '2023-07-18T08:07:13+00:00'
 author: 'JKD WNG'
 layout: default
 header_type: hero
-image: /wp-content/uploads/2023/08/gallery.jpg
+image: /wp-content/uploads/2023/07/gallery.jpg
 permalink: /gallery/
 ---
 
