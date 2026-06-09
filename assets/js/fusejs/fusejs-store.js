@@ -11,7 +11,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2001-11-26",
         "tags": ["Bruce Lee","Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/observing-differences/",
+        "url": "http://jkdwednite.com/observing-differences/",
         "img": null
       },{
         "title": "What Have You Mastered?",
@@ -21,7 +21,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2002-01-23",
         "tags": ["Bruce Lee","Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/what-have-you-mastered/",
+        "url": "http://jkdwednite.com/what-have-you-mastered/",
         "img": null
       },{
         "title": "The Hammer Principle",
@@ -31,7 +31,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2004-06-10",
         "tags": ["Bruce Lee","Jeet Kune Do","JKD Principles","Techniques"],
-        "url": "https://jkdpower.github.io/the-hammer-principle/",
+        "url": "http://jkdwednite.com/the-hammer-principle/",
         "img": null
       },{
         "title": "Structure",
@@ -41,7 +41,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2006-07-15",
         "tags": ["Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/structure/",
+        "url": "http://jkdwednite.com/structure/",
         "img": null
       },{
         "title": "Bruce Lee’s 6 Types of Speed",
@@ -51,7 +51,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2006-11-04",
         "tags": ["Bruce Lee","Speed Training"],
-        "url": "https://jkdpower.github.io/bruce-lee-speed/",
+        "url": "http://jkdwednite.com/bruce-lee-speed/",
         "img": null
       },{
         "title": "JKD Straight Lead Punch",
@@ -61,7 +61,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2007-09-12",
         "tags": ["Counterattack","Interception","Jeet Kune Do","Straight Lead Punch","Techniques"],
-        "url": "https://jkdpower.github.io/jkd-straight-lead-punch/",
+        "url": "http://jkdwednite.com/jkd-straight-lead-punch/",
         "img": null
       },{
         "title": "Dennis Blue interview by Jeremy Lynch",
@@ -71,7 +71,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2008-08-21",
         "tags": ["Interview"],
-        "url": "https://jkdpower.github.io/dm-blue-interview/",
+        "url": "http://jkdwednite.com/dm-blue-interview/",
         "img": null
       },{
         "title": "Jeet Kune Do Trapping",
@@ -81,7 +81,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2008-11-13",
         "tags": ["Jeet Kune Do","Techniques","Trapping Hands"],
-        "url": "https://jkdpower.github.io/jeet-kune-do-trapping/",
+        "url": "http://jkdwednite.com/jeet-kune-do-trapping/",
         "img": null
       },{
         "title": "Using No Way As Way?",
@@ -91,7 +91,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2010-01-11",
         "tags": ["Jeet Kune Do","JKD Principles"],
-        "url": "https://jkdpower.github.io/using-no-way-as-way/",
+        "url": "http://jkdwednite.com/using-no-way-as-way/",
         "img": null
       },{
         "title": "Getting Started in JKD",
@@ -101,7 +101,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2010-03-01",
         "tags": ["Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/getting-started-in-jkd/",
+        "url": "http://jkdwednite.com/getting-started-in-jkd/",
         "img": null
       },{
         "title": "Wednesday Night Group JKD",
@@ -111,7 +111,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2011-11-07",
         "tags": ["Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/wednesday-night-group-jkd/",
+        "url": "http://jkdwednite.com/wednesday-night-group-jkd/",
         "img": null
       },{
         "title": "Punching Power",
@@ -121,7 +121,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2012-05-31",
         "tags": ["Boxing","Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/punching-power/",
+        "url": "http://jkdwednite.com/punching-power/",
         "img": null
       },{
         "title": "The Natural Stance in Jeet Kune Do",
@@ -131,7 +131,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2012-06-30",
         "tags": ["Jeet Kune Do","Techniques"],
-        "url": "https://jkdpower.github.io/the-natural-stance-in-jeet-kune-do/",
+        "url": "http://jkdwednite.com/the-natural-stance-in-jeet-kune-do/",
         "img": null
       },{
         "title": "High Performance Sparring",
@@ -141,7 +141,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2012-08-12",
         "tags": ["Boxing","Jeet Kune Do","Sparring"],
-        "url": "https://jkdpower.github.io/high-performance-sparring/",
+        "url": "http://jkdwednite.com/high-performance-sparring/",
         "img": null
       },{
         "title": "The JKD Filter",
@@ -151,7 +151,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2012-08-17",
         "tags": ["Jeet Kune Do","JKD Principles"],
-        "url": "https://jkdpower.github.io/jkd-filter/",
+        "url": "http://jkdwednite.com/jkd-filter/",
         "img": null
       },{
         "title": "Inside The Fighting Measure",
@@ -161,7 +161,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2012-11-12",
         "tags": ["Combatives","Self Defense"],
-        "url": "https://jkdpower.github.io/close-quarter-tactics/",
+        "url": "http://jkdwednite.com/close-quarter-tactics/",
         "img": null
       },{
         "title": "Street Effective Martial Arts",
@@ -171,7 +171,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2014-09-21",
         "tags": ["Combatives","Self Defense"],
-        "url": "https://jkdpower.github.io/street-effective/",
+        "url": "http://jkdwednite.com/street-effective/",
         "img": null
       },{
         "title": "5 Reasons to train in Jeet Kune Do",
@@ -181,7 +181,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2014-12-19",
         "tags": ["Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/5-reasons-to-train-jeet-kune-do/",
+        "url": "http://jkdwednite.com/5-reasons-to-train-jeet-kune-do/",
         "img": null
       },{
         "title": "JKD: Moving Forward",
@@ -191,7 +191,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2016-12-16",
         "tags": ["Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/jkd-moving-forward/",
+        "url": "http://jkdwednite.com/jkd-moving-forward/",
         "img": null
       },{
         "title": "What Makes JKD JKD?",
@@ -201,7 +201,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2019-04-28",
         "tags": ["Jeet Kune Do","JKD Principles"],
-        "url": "https://jkdpower.github.io/what-makes-jkd/",
+        "url": "http://jkdwednite.com/what-makes-jkd/",
         "img": null
       },{
         "title": "2023 Legacy Camp: September 22-24, Pinon Hills, CA / Zoom",
@@ -211,7 +211,7 @@ var store = [{
         "categories": ["Events"],
         "date": "2023-06-12",
         "tags": ["Seminars"],
-        "url": "https://jkdpower.github.io/2023-legacy-camp-september-22-24-pinon-hills-ca-zoom/",
+        "url": "http://jkdwednite.com/2023-legacy-camp-september-22-24-pinon-hills-ca-zoom/",
         "img": null
       },{
         "title": "Stages in the cultivation of Jeet Kune Do",
@@ -221,7 +221,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2023-08-08",
         "tags": ["Bruce Lee","Jeet Kune Do","JKD Principles"],
-        "url": "https://jkdpower.github.io/stages-in-the-cultivation-of-jeet-kune-do/",
+        "url": "http://jkdwednite.com/stages-in-the-cultivation-of-jeet-kune-do/",
         "img": null
       },{
         "title": "The Wall Survival Drill",
@@ -231,7 +231,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2023-08-10",
         "tags": ["Boxing","Training Drills"],
-        "url": "https://jkdpower.github.io/wall-survival-drill/",
+        "url": "http://jkdwednite.com/wall-survival-drill/",
         "img": null
       },{
         "title": "Jeet Kune Do: Attack",
@@ -241,7 +241,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2023-08-12",
         "tags": ["Attack","Counterattack","Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/jeet-kune-do-attack/",
+        "url": "http://jkdwednite.com/jeet-kune-do-attack/",
         "img": null
       },{
         "title": "Is Jeet Kune Do a style?",
@@ -251,7 +251,7 @@ var store = [{
         "categories": ["Blog"],
         "date": "2023-08-13",
         "tags": ["Jeet Kune Do"],
-        "url": "https://jkdpower.github.io/is-jeet-kune-do-a-style/",
+        "url": "http://jkdwednite.com/is-jeet-kune-do-a-style/",
         "img": null
       },{
         "title": "The Art of Survival: Part 1 (S.U.R.V.I.V.A.L.)",
@@ -261,7 +261,7 @@ var store = [{
         "categories": ["Self-Defense"],
         "date": "2023-08-14",
         "tags": ["Combatives","Self Defense"],
-        "url": "https://jkdpower.github.io/the-art-of-survival-part-1/",
+        "url": "http://jkdwednite.com/the-art-of-survival-part-1/",
         "img": null
       },{
         "title": "The Art of Survival: Part 2 (Mental Preparation)",
@@ -271,7 +271,7 @@ var store = [{
         "categories": ["Self-Defense"],
         "date": "2023-08-14",
         "tags": ["Combatives","Self Defense"],
-        "url": "https://jkdpower.github.io/the-art-of-survival-part-2/",
+        "url": "http://jkdwednite.com/the-art-of-survival-part-2/",
         "img": null
       },{
         "title": "The Art of Survival: Part 3 (Confrontation)",
@@ -281,7 +281,7 @@ var store = [{
         "categories": ["Self-Defense"],
         "date": "2023-08-14",
         "tags": ["Combatives","Self Defense"],
-        "url": "https://jkdpower.github.io/the-art-of-survival-part-3/",
+        "url": "http://jkdwednite.com/the-art-of-survival-part-3/",
         "img": null
       },{
         "title": "The Art of Survival: Part 4 (Fear &#038; Action)",
@@ -291,7 +291,7 @@ var store = [{
         "categories": ["Self-Defense"],
         "date": "2023-08-14",
         "tags": ["Combatives","Self Defense"],
-        "url": "https://jkdpower.github.io/the-art-of-survival-part-4/",
+        "url": "http://jkdwednite.com/the-art-of-survival-part-4/",
         "img": null
       },{
         "title": "Back Fist in JKD",
@@ -301,7 +301,7 @@ var store = [{
         "categories": ["Articles"],
         "date": "2023-08-15",
         "tags": ["Attack","Back Fist","Counterattack","Jeet Kune Do","Techniques"],
-        "url": "https://jkdpower.github.io/back-fist-in-jkd/",
+        "url": "http://jkdwednite.com/back-fist-in-jkd/",
         "img": null
       },{
         "title": "Tim Tackett Commemorative Sweatshirts",
@@ -311,7 +311,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-02-19",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/tim-tackett-commemorative-sweatshirts/",
+        "url": "http://jkdwednite.com/tim-tackett-commemorative-sweatshirts/",
         "img": null
       },{
         "title": "JKD WNG “Legacy” Basic T-Shirt",
@@ -321,7 +321,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-02-22",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/jkd-wng-legacy-basic-tshirt/",
+        "url": "http://jkdwednite.com/jkd-wng-legacy-basic-tshirt/",
         "img": null
       },{
         "title": "JKD WNG Hoodies",
@@ -331,7 +331,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-02-27",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/jkd-wng-hoodies/",
+        "url": "http://jkdwednite.com/jkd-wng-hoodies/",
         "img": null
       },{
         "title": "Groin strikes – Simple And Direct Podcast",
@@ -341,7 +341,7 @@ var store = [{
         "categories": ["Podcast","Updates"],
         "date": "2024-03-01",
         "tags": ["Podcast"],
-        "url": "https://jkdpower.github.io/groin-strikes-jkd-self-defense-podcast/",
+        "url": "http://jkdwednite.com/groin-strikes-jkd-self-defense-podcast/",
         "img": null
       },{
         "title": "JKD WNG Black / White Jogging Set",
@@ -351,7 +351,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-03-09",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/jkd-wng-black-white-jogging-set/",
+        "url": "http://jkdwednite.com/jkd-wng-black-white-jogging-set/",
         "img": null
       },{
         "title": "JKD WNG Black / Red Jogging Set",
@@ -361,7 +361,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-03-12",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/jkd-wng-black-red-jogging-set/",
+        "url": "http://jkdwednite.com/jkd-wng-black-red-jogging-set/",
         "img": null
       },{
         "title": "Footwork in fighting – Simple And Direct Podcast",
@@ -371,7 +371,7 @@ var store = [{
         "categories": ["Podcast","Updates"],
         "date": "2024-03-19",
         "tags": ["Podcast"],
-        "url": "https://jkdpower.github.io/footwork-in-fighting-simple-and-direct-podcast/",
+        "url": "http://jkdwednite.com/footwork-in-fighting-simple-and-direct-podcast/",
         "img": null
       },{
         "title": "Bruce Lee book review – Simple And Direct Podcast",
@@ -381,7 +381,7 @@ var store = [{
         "categories": ["Podcast","Updates"],
         "date": "2024-04-20",
         "tags": ["Podcast"],
-        "url": "https://jkdpower.github.io/bruce-lee-book-review-simple-and-direct-podcast/",
+        "url": "http://jkdwednite.com/bruce-lee-book-review-simple-and-direct-podcast/",
         "img": null
       },{
         "title": "2024 Legacy Camp: September 20-22, Pinon Hills, CA / Zoom",
@@ -391,7 +391,7 @@ var store = [{
         "categories": ["Events"],
         "date": "2024-05-10",
         "tags": ["Seminars"],
-        "url": "https://jkdpower.github.io/2024-legacy-camp/",
+        "url": "http://jkdwednite.com/2024-legacy-camp/",
         "img": null
       },{
         "title": "Bob Bremer and Tim Tackett T-Shirts",
@@ -401,7 +401,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-07-26",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/bob-bremer-and-tim-tackett-t-shirts/",
+        "url": "http://jkdwednite.com/bob-bremer-and-tim-tackett-t-shirts/",
         "img": null
       },{
         "title": "Bob Bremer Commemorative T-Shirt",
@@ -411,7 +411,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-08-27",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/bob-bremer-commemorative-t-shirt/",
+        "url": "http://jkdwednite.com/bob-bremer-commemorative-t-shirt/",
         "img": null
       },{
         "title": "JKD Wooden Dummy Training",
@@ -421,7 +421,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-09-18",
         "tags": ["Jeet Kune Do","Wooden Dummy"],
-        "url": "https://jkdpower.github.io/jkd-wooden-dummy-training/",
+        "url": "http://jkdwednite.com/jkd-wooden-dummy-training/",
         "img": null
       },{
         "title": "Chinatown JKD WNG Jersey",
@@ -431,7 +431,7 @@ var store = [{
         "categories": ["Updates"],
         "date": "2024-09-20",
         "tags": ["WNG Apparel"],
-        "url": "https://jkdpower.github.io/chinatown-jkd-wng-jersey/",
+        "url": "http://jkdwednite.com/chinatown-jkd-wng-jersey/",
         "img": null
       },{
         "title": "WNG JKD Podcast – Episode 1",
@@ -441,7 +441,7 @@ var store = [{
         "categories": ["Podcast","Updates"],
         "date": "2025-02-01",
         "tags": ["Podcast"],
-        "url": "https://jkdpower.github.io/wng-jkd-podcast-episode-1/",
+        "url": "http://jkdwednite.com/wng-jkd-podcast-episode-1/",
         "img": null
       },{
         "title": "WNG JKD Podcast – Octavio Quintero (part 1)",
@@ -451,7 +451,7 @@ var store = [{
         "categories": ["Podcast","Updates"],
         "date": "2025-02-10",
         "tags": ["Podcast"],
-        "url": "https://jkdpower.github.io/wng-jkd-podcast-octavio-quintero-part-1/",
+        "url": "http://jkdwednite.com/wng-jkd-podcast-octavio-quintero-part-1/",
         "img": null
       },{
         "title": "WNG JKD Podcast – Chris Kent (part 2)",
@@ -461,7 +461,7 @@ var store = [{
         "categories": ["Podcast","Updates"],
         "date": "2025-04-25",
         "tags": ["Podcast"],
-        "url": "https://jkdpower.github.io/wng-jkd-podcast-chris-kent-part-2/",
+        "url": "http://jkdwednite.com/wng-jkd-podcast-chris-kent-part-2/",
         "img": null
       },{
         "title": "Privacy Policy",
@@ -471,7 +471,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-17",
         "tags": [],
-        "url": "https://jkdpower.github.io/privacy/",
+        "url": "http://jkdwednite.com/privacy/",
         "img": null
       },{
         "title": "Affiliates",
@@ -481,7 +481,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-17",
         "tags": [],
-        "url": "https://jkdpower.github.io/affiliated/",
+        "url": "http://jkdwednite.com/affiliated/",
         "img": null
       },{
         "title": "Contact",
@@ -491,7 +491,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-17",
         "tags": [],
-        "url": "https://jkdpower.github.io/contact/",
+        "url": "http://jkdwednite.com/contact/",
         "img": null
       },{
         "title": "Jeet Kune Do Classes",
@@ -501,7 +501,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-17",
         "tags": [],
-        "url": "https://jkdpower.github.io/classes/",
+        "url": "http://jkdwednite.com/classes/",
         "img": null
       },{
         "title": "Photo Gallery",
@@ -511,7 +511,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-18",
         "tags": [],
-        "url": "https://jkdpower.github.io/gallery/",
+        "url": "http://jkdwednite.com/gallery/",
         "img": null
       },{
         "title": "History and Purpose",
@@ -521,7 +521,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-18",
         "tags": [],
-        "url": "https://jkdpower.github.io/about/",
+        "url": "http://jkdwednite.com/about/",
         "img": null
       },{
         "title": "Mike Blesch",
@@ -531,7 +531,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/mike/",
+        "url": "http://jkdwednite.com/mike/",
         "img": null
       },{
         "title": "Dennis Blue",
@@ -541,7 +541,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/dennis/",
+        "url": "http://jkdwednite.com/dennis/",
         "img": null
       },{
         "title": "Jeremy Lynch",
@@ -551,7 +551,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/jeremy/",
+        "url": "http://jkdwednite.com/jeremy/",
         "img": null
       },{
         "title": "Jim McCann",
@@ -561,7 +561,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/mccann/",
+        "url": "http://jkdwednite.com/mccann/",
         "img": null
       },{
         "title": "Brent Lance",
@@ -571,7 +571,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/brent/",
+        "url": "http://jkdwednite.com/brent/",
         "img": null
       },{
         "title": "Kwoklyn Wan",
@@ -581,7 +581,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/kwoklyn/",
+        "url": "http://jkdwednite.com/kwoklyn/",
         "img": null
       },{
         "title": "Jim Sewell",
@@ -591,7 +591,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/jim/",
+        "url": "http://jkdwednite.com/jim/",
         "img": null
       },{
         "title": "Alexander Terra",
@@ -601,7 +601,7 @@ var store = [{
         "categories": [],
         "date": "2023-09-17",
         "tags": [],
-        "url": "https://jkdpower.github.io/alexander-terra/",
+        "url": "http://jkdwednite.com/alexander-terra/",
         "img": null
       },{
         "title": "Archive",
@@ -611,7 +611,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/archive",
+        "url": "http://jkdwednite.com/archive",
         "img": null
       },{
         "title": "Jeet Kune Do Articles",
@@ -621,7 +621,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-17",
         "tags": [],
-        "url": "https://jkdpower.github.io/articles/",
+        "url": "http://jkdwednite.com/articles/",
         "img": null
       },{
         "title": "Bob Bremer",
@@ -631,7 +631,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/bob/",
+        "url": "http://jkdwednite.com/bob/",
         "img": null
       },{
         "title": "Bert Poe",
@@ -641,7 +641,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/bert/",
+        "url": "http://jkdwednite.com/bert/",
         "img": null
       },{
         "title": "Jeet Kune Do Books",
@@ -651,7 +651,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-22",
         "tags": [],
-        "url": "https://jkdpower.github.io/books/",
+        "url": "http://jkdwednite.com/books/",
         "img": null
       },{
         "title": "Categories",
@@ -661,7 +661,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/categories",
+        "url": "http://jkdwednite.com/categories",
         "img": null
       },{
         "title": "Hans De Burchgraeve",
@@ -671,7 +671,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/hans/",
+        "url": "http://jkdwednite.com/hans/",
         "img": null
       },{
         "title": "Jeet Kune Do",
@@ -681,7 +681,7 @@ var store = [{
         "categories": [],
         "date": "2023-09-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/jeet-kune-do/",
+        "url": "http://jkdwednite.com/jeet-kune-do/",
         "img": null
       },{
         "title": "Personal Combatives",
@@ -691,7 +691,7 @@ var store = [{
         "categories": [],
         "date": "2023-09-30",
         "tags": [],
-        "url": "https://jkdpower.github.io/combatives/",
+        "url": "http://jkdwednite.com/combatives/",
         "img": null
       },{
         "title": "Impact &amp; Edged Weapons",
@@ -701,7 +701,7 @@ var store = [{
         "categories": [],
         "date": "2023-10-02",
         "tags": [],
-        "url": "https://jkdpower.github.io/impact-edge/",
+        "url": "http://jkdwednite.com/impact-edge/",
         "img": null
       },{
         "title": "Francesco Malfatti",
@@ -711,7 +711,7 @@ var store = [{
         "categories": [],
         "date": "2023-10-05",
         "tags": [],
-        "url": "https://jkdpower.github.io/francesco-malfatti/",
+        "url": "http://jkdwednite.com/francesco-malfatti/",
         "img": null
       },{
         "title": "Group News",
@@ -721,7 +721,7 @@ var store = [{
         "categories": [],
         "date": "2024-02-19",
         "tags": [],
-        "url": "https://jkdpower.github.io/group-news/",
+        "url": "http://jkdwednite.com/group-news/",
         "img": null
       },{
         "title": "Members",
@@ -731,7 +731,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/members/",
+        "url": "http://jkdwednite.com/members/",
         "img": null
       },{
         "title": "Nicolas Calluori",
@@ -741,7 +741,7 @@ var store = [{
         "categories": [],
         "date": "2023-09-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/nicolas-calluori/",
+        "url": "http://jkdwednite.com/nicolas-calluori/",
         "img": null
       },{
         "title": "Official JKD Instructors",
@@ -751,7 +751,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/official/",
+        "url": "http://jkdwednite.com/official/",
         "img": null
       },{
         "title": "Search",
@@ -761,7 +761,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/search.html",
+        "url": "http://jkdwednite.com/search.html",
         "img": null
       },{
         "title": "Jeet Kune Do Videos",
@@ -771,7 +771,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-18",
         "tags": [],
-        "url": "https://jkdpower.github.io/videos/",
+        "url": "http://jkdwednite.com/videos/",
         "img": null
       },{
         "title": "Steven Resell",
@@ -781,7 +781,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/steven/",
+        "url": "http://jkdwednite.com/steven/",
         "img": null
       },{
         "title": "Self Defense Blog",
@@ -791,7 +791,7 @@ var store = [{
         "categories": [],
         "date": "2023-08-14",
         "tags": [],
-        "url": "https://jkdpower.github.io/self-defense-blog/",
+        "url": "http://jkdwednite.com/self-defense-blog/",
         "img": null
       },{
         "title": "Jeet Kune Do Seminars",
@@ -801,7 +801,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/seminars/",
+        "url": "http://jkdwednite.com/seminars/",
         "img": null
       },{
         "title": "Sonny Bygum",
@@ -811,7 +811,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/sonny/",
+        "url": "http://jkdwednite.com/sonny/",
         "img": null
       },{
         "title": "Tags",
@@ -821,7 +821,7 @@ var store = [{
         "categories": [],
         "date": "2026-06-09",
         "tags": [],
-        "url": "https://jkdpower.github.io/tags",
+        "url": "http://jkdwednite.com/tags",
         "img": null
       },{
         "title": "Vince Raimondi",
@@ -831,7 +831,7 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/vince/",
+        "url": "http://jkdwednite.com/vince/",
         "img": null
       },{
         "title": "Tim Tackett",
@@ -841,6 +841,6 @@ var store = [{
         "categories": [],
         "date": "2023-07-20",
         "tags": [],
-        "url": "https://jkdpower.github.io/tim/",
+        "url": "http://jkdwednite.com/tim/",
         "img": null
       }]
