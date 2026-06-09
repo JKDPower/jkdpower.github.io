@@ -7,7 +7,7 @@ include_on_search: false
 ---
 
 <div class="jkd-mission-strip">
-  <p>Bruce Lee's original Jeet Kune Do: the Los Angeles Chinatown lineage, practicing every Wednesday in Redlands, California since 1973.</p>
+  <p>Bruce Lee's original Jeet Kune Do: the Los Angeles Chinatown lineage, practicing every Wednesday in the Redlands, California area since 1973.</p>
 </div>
 
 <div id="jkd-carousel-wrapper">
@@ -142,10 +142,10 @@ The purpose of this group is to preserve and promote Bruce Lee's art of Jeet Kun
 
 <h2 class="jkd-home-section">Recent News &amp; Events</h2>
 
-{% assign events = site.posts | where_exp: "post", "post.categories contains 'Events'" %}
+{% assign events = site.posts | where_exp: "post", "post.categories contains 'Events' or post.categories contains 'Updates'" %}
 {% if events.size > 0 %}
 <ul class="jkd-post-list">
-{% for post in events limit:3 %}
+{% for post in events limit:5 %}
 <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <span class="jkd-post-date">{{ post.date | date: "%B %-d, %Y" }}</span></li>
 {% endfor %}
 </ul>
