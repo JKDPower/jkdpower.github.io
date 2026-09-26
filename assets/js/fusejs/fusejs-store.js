@@ -7,7 +7,7 @@ var store = [{
         "title": "Observing Differences",
         "subtitle": "",
         "excerpt": "<p>Stages In The Evolution Of Bruce Lee’s Martial Art</p>",
-        "content": "Stages In The Evolution Of Bruce Lee’s Martial Art [](/observing-differences/observing-differences-2/) One of the major reasons for forming what is now called The Bruce Lee Educational Foundation was to promote unity...",
+        "content": "Stages In The Evolution Of Bruce Lee’s Martial Art One of the major reasons for forming what is now called The Bruce Lee Educational Foundation was to promote unity and...",
         "categories": ["Articles"],
         "date": "2001-11-26",
         "tags": ["Bruce Lee","Jeet Kune Do"],
@@ -16,7 +16,7 @@ var store = [{
       },{
         "title": "What Have You Mastered?",
         "subtitle": "",
-        "excerpt": "<p>Last year the Bruce Lee Educational Foundation held its annual meeting and seminar in Las Vegas. This meeting is our non-profit organization’s major fundraiser for the year, as the yearly membership fee is barely enough to print and mail our newsletter. During the autograph session in which the various members of the BLEF board of directors (The Nucleus) sign books and photos, a young man handed me a magazine opened to a full-page photo of myself on one page and a full-page photo of my teacher, Dan Inosanto, on the other. I didn’t remember ever seeing this photo before. The magazine was called Masters and Styles and had been published the year before. At first I was just surprised at being in a magazine for over a year and not being aware of it.</p>",
+        "excerpt": "",
         "content": "Last year the Bruce Lee Educational Foundation held its annual meeting and seminar in Las Vegas. This meeting is our non-profit organization’s major fundraiser for the year, as the yearly...",
         "categories": ["Articles"],
         "date": "2002-01-23",
@@ -36,7 +36,7 @@ var store = [{
       },{
         "title": "Structure",
         "subtitle": "",
-        "excerpt": "<p>All martial arts have a specific structure. It is this structure that makes their art work. To understand any martial art you must first look at its structure. You can think of structure as a base of operations from which the attacks and defense of a particular art spring from. Structure is the base from which the art grows from. Structure is the roots from which the branches of the art spring from. To understand any art is to understand its structure. Bruce Lee said that to defend against another art, you don’t need to learn that art, but you must be able to understand its delivery system. The delivery system is the means by which the attack comes from point A, (the attacker) to point B (the defender). To a great extent this delivery system is based on the structure of the art of the attacker while the defender bases his defense on the structure of his art.</p>",
+        "excerpt": "",
         "content": "All martial arts have a specific structure. It is this structure that makes their art work. To understand any martial art you must first look at its structure. You can...",
         "categories": ["Articles"],
         "date": "2006-07-15",
@@ -46,7 +46,7 @@ var store = [{
       },{
         "title": "Bruce Lee’s 6 Types of Speed",
         "subtitle": "",
-        "excerpt": "<p>The Wednesday Night Group has gotten a lot of questions about Bruce Lee’s speed. They usually want to know if he was as fast as he seemed to be in his movies. The truth was that Bruce was even faster and had to slow his movements down so the camera could pick them up. Even though Bruce Lee was very fast, he told Bob Bremer that he had met people who were faster than he was. He told Bob that because of this he had to learn to be deceptive.</p>",
+        "excerpt": "",
         "content": "The Wednesday Night Group has gotten a lot of questions about Bruce Lee’s speed. They usually want to know if he was as fast as he seemed to be in...",
         "categories": ["Blog"],
         "date": "2006-11-04",
@@ -56,7 +56,7 @@ var store = [{
       },{
         "title": "JKD Straight Lead Punch",
         "subtitle": "",
-        "excerpt": "<p>No mastery of Jeet Kune Do would be complete without a thorough working knowledge of the straight lead. Used both offensively and defensively, the straight lead is the main weapon used for the stop-hit in defense. It is also one of the main weapons used to attack your opponent.</p>",
+        "excerpt": "",
         "content": "No mastery of Jeet Kune Do would be complete without a thorough working knowledge of the straight lead. Used both offensively and defensively, the straight lead is the main weapon...",
         "categories": ["Articles"],
         "date": "2007-09-12",
@@ -66,7 +66,7 @@ var store = [{
       },{
         "title": "Dennis Blue interview by Jeremy Lynch",
         "subtitle": "",
-        "excerpt": "<p>JL: What is your background in the martial arts? Give us the full history.</p>",
+        "excerpt": "",
         "content": "JL: What is your background in the martial arts? Give us the full history. DB: I initially got into martial arts because my father was a boxer and he was...",
         "categories": ["Blog"],
         "date": "2008-08-21",
@@ -86,7 +86,7 @@ var store = [{
       },{
         "title": "Using No Way As Way?",
         "subtitle": "",
-        "excerpt": "<p>One of the most famous Bruce Lee quotes referring to our beloved art of Jeet Kune Do is “Using no way as way, having no limitation as limitation”. Unfortunately, this one quote has been the cause of a great deal of confusion. Another quote of Bruce Lee’s that is used frequently is “I don’t believe in styles” and another, “My followers in Jeet Kune Do, do listen to this … all fixed, set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.” The confusion is between two major and opposite interpretations of these quotes. On one hand, you have the belief that anything you do is Jeet Kune Do because Jeet Kune Do cannot be categorized and there is “No limitation” on what you do. On the other hand is the idea that there is a basic and highly scientific structure in Jeet Kune Do which all individuals learning JKD should be taught. I subscribe to the second belief.</p>",
+        "excerpt": "",
         "content": "One of the most famous Bruce Lee quotes referring to our beloved art of Jeet Kune Do is “Using no way as way, having no limitation as limitation”. Unfortunately, this...",
         "categories": ["Articles"],
         "date": "2010-01-11",
@@ -96,7 +96,7 @@ var store = [{
       },{
         "title": "Getting Started in JKD",
         "subtitle": "",
-        "excerpt": "<p>The Tackett family of JKD’ersBecause of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most common is: How long will it take me to become a JKD expert and be certified to teach?</p>",
+        "excerpt": "<p>The Tackett family of JKD’ers</p>",
         "content": "The Tackett family of JKD'ers Because of the books and articles I’ve written about Jeet Kune Do, I receive a lot of e-mails, most of which are questions. The most...",
         "categories": ["Blog"],
         "date": "2010-03-01",
@@ -106,7 +106,7 @@ var store = [{
       },{
         "title": "Wednesday Night Group JKD",
         "subtitle": "",
-        "excerpt": "<p>This group was organized to promote the martial art of Jeet Kune Do as conceived and taught by Bruce Lee. We recognize that Jeet Kune Do consists of two components; one a technical, scientific, concrete component (Foundational Structure) and two; A General philosophic component. The first component is;</p>",
+        "excerpt": "",
         "content": "This group was organized to promote the martial art of Jeet Kune Do as conceived and taught by Bruce Lee. We recognize that Jeet Kune Do consists of two components;...",
         "categories": ["Articles"],
         "date": "2011-11-07",
@@ -116,8 +116,8 @@ var store = [{
       },{
         "title": "Punching Power",
         "subtitle": "",
-        "excerpt": "<p><a href=\"/Punching-Power.pdf\"></a><a href=\"/Punching-Power.pdf\">Download PDF</a>Something has been lost in the modern fighter’s quest for brilliance in every conceivable aspect of the martial arts. Boxing on Monday. Wrestling on Tuesday. Core Conditioning on Thursday. Martial art hobbyists around the world now have training opportunities formerly available only to the pros (and they are taking advantage!). Undoubtedly this type of training breeds well-rounded and capable fighters. That is not in question. In fact, the “average” martial artist of today is head and shoulders above his or her counterpart of decades past. That said, what if there was a single missing element waiting to be (re)discovered that could separate even high level MMA fighter’s from their peers? Something so neglected I dare call it a secret. Prepare to have your striking tools transformed from adequate to elite. That secret is about to be exposed.</p>",
-        "content": "[](/Punching-Power.pdf)[Download PDF](/Punching-Power.pdf) Something has been lost in the modern fighter’s quest for brilliance in every conceivable aspect of the martial arts. Boxing on Monday. Wrestling on Tuesday. Core Conditioning on...",
+        "excerpt": "<p>Download PDF</p>",
+        "content": "Download PDF Something has been lost in the modern fighter’s quest for brilliance in every conceivable aspect of the martial arts. Boxing on Monday. Wrestling on Tuesday. Core Conditioning on...",
         "categories": ["Articles"],
         "date": "2012-05-31",
         "tags": ["Boxing","Jeet Kune Do"],
@@ -136,8 +136,8 @@ var store = [{
       },{
         "title": "High Performance Sparring",
         "subtitle": "",
-        "excerpt": "<p><a href=\"/High-Performance-Sparring.pdf\"></a><a href=\"/High-Performance-Sparring.pdf\">Download PDF</a>One of the most frequently recurring topics of discussion within our group centers around sparring. Specifically, the best progression of drills to prepare new students for contact sparring, as well as how and when to step up the intensity. Now, we realize there is a certain segment of the martial arts community that believes light contact sparring, including sparring progressions, drills, and games is a waste of time. Realism is the priority, therefore it’s high intensity or nothing all. Some flat out do not believe in “sparring”. They tend to be the Combatives and/or Reality-Based Self Defense groups, who sometimes prefer Scenario Training (simulating everyday, real life situations as opposed to “dueling”), and other times simply believe that the only way to prepare for a fight is by fighting, whether for self defense, sport, or anything in between. While the sentiment is understood, we do not wholly agree.</p>",
-        "content": "[](/High-Performance-Sparring.pdf)[Download PDF](/High-Performance-Sparring.pdf) One of the most frequently recurring topics of discussion within our group centers around sparring. Specifically, the best progression of drills to prepare new students for contact sparring,...",
+        "excerpt": "<p>Download PDF</p>",
+        "content": "Download PDF One of the most frequently recurring topics of discussion within our group centers around sparring. Specifically, the best progression of drills to prepare new students for contact sparring,...",
         "categories": ["Articles"],
         "date": "2012-08-12",
         "tags": ["Boxing","Jeet Kune Do","Sparring"],
@@ -146,8 +146,8 @@ var store = [{
       },{
         "title": "The JKD Filter",
         "subtitle": "",
-        "excerpt": "<p><a href=\"https://www.jkdwednite.com/JKD-Filter.pdf\"></a><a href=\"https://www.jkdwednite.com/JKD-Filter.pdf\">Download PDF</a>By labeling Jeet Kune Do as “just a philosophy” with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by its founder, Bruce Lee. On the other hand, by crystallizing the art as “only what Bruce Lee taught,” we deprive ourselves of the free expression and naturalness (or natural-unnaturalness!) advocated so strongly by Sijo Lee.</p>",
-        "content": "[](https://www.jkdwednite.com/JKD-Filter.pdf)[Download PDF](https://www.jkdwednite.com/JKD-Filter.pdf) By labeling Jeet Kune Do as “just a philosophy” with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by...",
+        "excerpt": "<p>Download PDF</p>",
+        "content": "Download PDF By labeling Jeet Kune Do as “just a philosophy” with no curriculum or progression of techniques, we rob it of the technical merits of the material taught by...",
         "categories": ["Articles"],
         "date": "2012-08-17",
         "tags": ["Jeet Kune Do","JKD Principles"],
@@ -157,7 +157,7 @@ var store = [{
         "title": "Inside The Fighting Measure",
         "subtitle": "",
         "excerpt": "<p>Foreward</p>",
-        "content": "Foreward [](https://www.jkdwednite.com/Close-Quarter-Tactics.pdf)[Download PDF](https://www.jkdwednite.com/Close-Quarter-Tactics.pdf) When I started taking Jeet Kune Do around 1970 we were mostly working on the kickboxing phase of JKD. We mostly trained for combat by keeping the...",
+        "content": "Foreward Download PDF When I started taking Jeet Kune Do around 1970 we were mostly working on the kickboxing phase of JKD. We mostly trained for combat by keeping the...",
         "categories": ["Articles"],
         "date": "2012-11-12",
         "tags": ["Combatives","Self Defense"],
@@ -166,8 +166,8 @@ var store = [{
       },{
         "title": "Street Effective Martial Arts",
         "subtitle": "",
-        "excerpt": "<p><a href=\"https://www.jkdwednite.com/Street-Effective.pdf\"></a><a href=\"https://www.jkdwednite.com/Street-Effective.pdf\">Download PDF</a>Fortunately, debates over which style of martial art is ‘the best’ have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of “Reality-based” training, the old Sport vs. Street argument is ever-present.</p>",
-        "content": "[](https://www.jkdwednite.com/Street-Effective.pdf)[Download PDF](https://www.jkdwednite.com/Street-Effective.pdf) Fortunately, debates over which style of martial art is ‘the best’ have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce...",
+        "excerpt": "<p>Download PDF</p>",
+        "content": "Download PDF Fortunately, debates over which style of martial art is ‘the best’ have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce...",
         "categories": ["Articles"],
         "date": "2014-09-21",
         "tags": ["Combatives","Self Defense"],
@@ -176,7 +176,7 @@ var store = [{
       },{
         "title": "5 Reasons to train in Jeet Kune Do",
         "subtitle": "",
-        "excerpt": "<ol>\n  <li>Build a JKD filter</li>\n</ol>",
+        "excerpt": "",
         "content": "1. Build a JKD filter There are many techniques in the martial art world that are taught. Some are very efficient and some are not. Some only work on certain...",
         "categories": ["Blog"],
         "date": "2014-12-19",
@@ -196,7 +196,7 @@ var store = [{
       },{
         "title": "What Makes JKD JKD?",
         "subtitle": "",
-        "excerpt": "<p>Just about every day I get messages from people on social media and in my inbox about how they can get started in JKD. Reasons for wanting to study Jeet Kune Do vary. Some do because they’re a huge Bruce Lee fan and watched and re-watched all of Bruce Lee’s movies. While others, like myself, wanted to study the physical art or expression of what Bruce Lee wrote about. Then there are those who watched some of the more recent movies or documentaries about Bruce Lee and are simply curious. There are also those who want to learn how they can put the JKD thought process into what they’re already doing… and the list goes on.</p>",
+        "excerpt": "",
         "content": "Just about every day I get messages from people on social media and in my inbox about how they can get started in JKD. Reasons for wanting to study Jeet...",
         "categories": ["Articles"],
         "date": "2019-04-28",
@@ -216,7 +216,7 @@ var store = [{
       },{
         "title": "Stages in the cultivation of Jeet Kune Do",
         "subtitle": "",
-        "excerpt": "<p>Jeet Kune Do was one of the first martial arts built upon the idea that the system should adapt to the individual rather than the individual to the system. Bruce Lee’s personal journey in the martial arts began with Tai Chi as a child and Chinese Boxing as a teenager, and ultimately led him to the belief that all labels of ‘style’ are too restrictive. “Using no way as way” became the motto of JKD and to this day many believe that JKD is simply a philosophical framework, with no techniques to learn or specific movements to practice. Bruce’s own words help provide insight into his thought process around the time Jeet Kune Do was created.</p>",
+        "excerpt": "",
         "content": "Jeet Kune Do was one of the first martial arts built upon the idea that the system should adapt to the individual rather than the individual to the system. Bruce...",
         "categories": ["Blog"],
         "date": "2023-08-08",
@@ -226,7 +226,7 @@ var store = [{
       },{
         "title": "The Wall Survival Drill",
         "subtitle": "",
-        "excerpt": "<p>In boxing this drill is also referred to as a corner drill, used as an essential element of a fighter’s ability to take and defend against a punch, and to see where the attack is coming from. It dates back to the Filipino boxing era and was employed by many knife fighters to teach them how to acknowledge the lines of attack and the body movement necessary to set up the combinations following the primary attack. Dan Inosanto originally trained many of his students and fighters with this drill that was passed down through several of his teachers and trainers.</p>",
+        "excerpt": "",
         "content": "In boxing this drill is also referred to as a corner drill, used as an essential element of a fighter’s ability to take and defend against a punch, and to...",
         "categories": ["Blog"],
         "date": "2023-08-10",
@@ -284,7 +284,7 @@ var store = [{
         "url": "https://jkdwednite.com/the-art-of-survival-part-3/",
         "img": null
       },{
-        "title": "The Art of Survival: Part 4 (Fear &#038; Action)",
+        "title": "The Art of Survival: Part 4 (Fear &amp; Action)",
         "subtitle": "",
         "excerpt": "<p>To become fearless is not to be our primary purpose or pursuit; this point is critical. We have but to observe the world around us to see the frantic and neurotic behaviors of others.</p>",
         "content": "To become fearless is not to be our primary purpose or pursuit; this point is critical. We have but to observe the world around us to see the frantic and...",
@@ -336,8 +336,8 @@ var store = [{
       },{
         "title": "Groin strikes – Simple And Direct Podcast",
         "subtitle": "",
-        "excerpt": "<p>https://open.spotify.com/episode/4RWSvRt33Pw2tx7vTHYewE?si=dc52d557a7324b54 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.</p>",
-        "content": "https://open.spotify.com/episode/4RWSvRt33Pw2tx7vTHYewE?si=dc52d557a7324b54 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian...",
+        "excerpt": "<p>JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.</p>",
+        "content": "JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu...",
         "categories": ["Podcast","Updates"],
         "date": "2024-03-01",
         "tags": ["Podcast"],
@@ -366,8 +366,8 @@ var store = [{
       },{
         "title": "Footwork in fighting – Simple And Direct Podcast",
         "subtitle": "",
-        "excerpt": "<p>https://open.spotify.com/episode/3O2zbZD7M8EMcqvX46g3gV?si=0d2f9de688184297 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.</p>",
-        "content": "https://open.spotify.com/episode/3O2zbZD7M8EMcqvX46g3gV?si=0d2f9de688184297 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian...",
+        "excerpt": "<p>JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.</p>",
+        "content": "JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu...",
         "categories": ["Podcast","Updates"],
         "date": "2024-03-19",
         "tags": ["Podcast"],
@@ -376,8 +376,8 @@ var store = [{
       },{
         "title": "Bruce Lee book review – Simple And Direct Podcast",
         "subtitle": "",
-        "excerpt": "<p>https://open.spotify.com/episode/12MtnvlkH1bzvuUMGjGPHo?si=e9c76952c0d44e57 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.</p>",
-        "content": "https://open.spotify.com/episode/12MtnvlkH1bzvuUMGjGPHo?si=e9c76952c0d44e57 JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian...",
+        "excerpt": "<p>JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram.</p>",
+        "content": "JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu...",
         "categories": ["Podcast","Updates"],
         "date": "2024-04-20",
         "tags": ["Podcast"],
@@ -436,33 +436,173 @@ var store = [{
       },{
         "title": "WNG JKD Podcast – Episode 1",
         "subtitle": "",
-        "excerpt": "<p>https://www.youtube.com/watch?v=OiRaDTXPgbo JKD Wednesday Night Group founding members Jeremy Lynch and D.M. Blue delve into the history of the group, their memories of training with legends like Bert Poe and Sonny Bygum, the current state of Jeet Kune Do, and more.</p>",
-        "content": "https://www.youtube.com/watch?v=OiRaDTXPgbo JKD Wednesday Night Group founding members Jeremy Lynch and D.M. Blue delve into the history of the group, their memories of training with legends like Bert Poe and Sonny...",
+        "excerpt": "<p>JKD Wednesday Night Group founding members Jeremy Lynch and D.M. Blue delve into the history of the group, their memories of training with legends like Bert Poe and Sonny Bygum, the current state of Jeet Kune Do, and more.</p>",
+        "content": "JKD Wednesday Night Group founding members Jeremy Lynch and D.M. Blue delve into the history of the group, their memories of training with legends like Bert Poe and Sonny Bygum,...",
         "categories": ["Podcast","Updates"],
         "date": "2025-02-01",
         "tags": ["Podcast"],
         "url": "https://jkdwednite.com/wng-jkd-podcast-episode-1/",
-        "img": null
+        "img": "https://jkdwednite.com/wp-content/uploads/2023/08/wng-ident.jpg"
+      },{
+        "title": "WNG JKD Podcast – Episode 2",
+        "subtitle": "",
+        "excerpt": "<p>Bruce Lee’s Jeet Kune Do has made many claims in the past. What is the truth? Is it the best street fighting art? In today’s MMA climate, is it useful at all?</p>",
+        "content": "Bruce Lee’s Jeet Kune Do has made many claims in the past. What is the truth? Is it the best street fighting art? In today’s MMA climate, is it useful...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-02-01",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-episode-2/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/01/wng-podcast-ep02.jpg"
       },{
         "title": "WNG JKD Podcast – Octavio Quintero (part 1)",
         "subtitle": "",
-        "excerpt": "<p>https://www.youtube.com/watch?v=Alp3AxuAY48 Jeremy Lynch and D.M. Blue talk to friend and fellow JKD Man Octavio Quintero and discuss the art of JKD and the pitfalls of teaching.</p>",
-        "content": "https://www.youtube.com/watch?v=Alp3AxuAY48 Jeremy Lynch and D.M. Blue talk to friend and fellow JKD Man Octavio Quintero and discuss the art of JKD and the pitfalls of teaching. Watch on YouTube (1hr...",
+        "excerpt": "<p>Jeremy Lynch and D.M. Blue talk to friend and fellow JKD Man Octavio Quintero and discuss the art of JKD and the pitfalls of teaching.</p>",
+        "content": "Jeremy Lynch and D.M. Blue talk to friend and fellow JKD Man Octavio Quintero and discuss the art of JKD and the pitfalls of teaching. Watch on YouTube (1hr 3min)...",
         "categories": ["Podcast","Updates"],
         "date": "2025-02-10",
         "tags": ["Podcast"],
         "url": "https://jkdwednite.com/wng-jkd-podcast-octavio-quintero-part-1/",
-        "img": null
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/02/OQ.jpg"
+      },{
+        "title": "WNG JKD Podcast – Octavio Quintero (part 2)",
+        "subtitle": "",
+        "excerpt": "<p>Jeremy Lynch and D.M. Blue continue their talk with friend and fellow JKD man Octavio Quintero.</p>",
+        "content": "Jeremy Lynch and D.M. Blue continue their talk with friend and fellow JKD man Octavio Quintero. Watch on YouTube (56min) or listen on Apple Podcasts. The views and opinions of...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-02-10",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-octavio-quintero-part-2/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/02/wng-podcast-ep04.jpg"
+      },{
+        "title": "WNG JKD Podcast – Chris Kent (part 1)",
+        "subtitle": "",
+        "excerpt": "<p>Jeremy Lynch and D.M. Blue interview JKD legend and longtime friend Chris Kent, getting into great and interesting areas that you will not hear elsewhere.</p>",
+        "content": "Jeremy Lynch and D.M. Blue interview JKD legend and longtime friend Chris Kent, getting into great and interesting areas that you will not hear elsewhere. Watch on YouTube (54min) or...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-04-10",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-chris-kent-part-1/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/04/wng-podcast-ep05.jpg"
       },{
         "title": "WNG JKD Podcast – Chris Kent (part 2)",
         "subtitle": "",
-        "excerpt": "<p>https://www.youtube.com/watch?v=5HDtq8QhAmE Jeremy Lynch and D.M. Blue talk to JKD legend Chris Kent.</p>",
-        "content": "https://www.youtube.com/watch?v=5HDtq8QhAmE  Jeremy Lynch and D.M. Blue talk to JKD legend Chris Kent.   Watch on YouTube (54min) or listen on Apple Podcasts.",
+        "excerpt": "<p>Jeremy Lynch and D.M. Blue talk to JKD legend Chris Kent.</p>",
+        "content": "Jeremy Lynch and D.M. Blue talk to JKD legend Chris Kent.   Watch on YouTube (54min) or listen on Apple Podcasts.",
         "categories": ["Podcast","Updates"],
         "date": "2025-04-25",
         "tags": ["Podcast"],
         "url": "https://jkdwednite.com/wng-jkd-podcast-chris-kent-part-2/",
-        "img": null
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/04/Chris-Kent.jpg"
+      },{
+        "title": "WNG JKD Podcast – Lak Loi (part 1)",
+        "subtitle": "",
+        "excerpt": "<p>The co-founders of the JKD Wednesday Night Group interview their friend Lak Loi about his personal experience and the direction he is going with Bruce Lee’s Jeet Kune Do.</p>",
+        "content": "The co-founders of the JKD Wednesday Night Group interview their friend Lak Loi about his personal experience and the direction he is going with Bruce Lee’s Jeet Kune Do. Watch...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-05-25",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-lak-loi-part-1/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/05/wng-podcast-ep07.jpg"
+      },{
+        "title": "WNG JKD Podcast – Lak Loi (part 2)",
+        "subtitle": "",
+        "excerpt": "<p>We continue our conversation with Lak Loi, head instructor of JKD London. In this episode he tells more about his personal experience with Jeet Kune Do and his plans for the future.</p>",
+        "content": "We continue our conversation with Lak Loi, head instructor of JKD London. In this episode he tells more about his personal experience with Jeet Kune Do and his plans for...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-05-28",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-lak-loi-part-2/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/05/wng-podcast-ep08.jpg"
+      },{
+        "title": "WNG JKD Podcast – Johnny McElhinny (part 1)",
+        "subtitle": "",
+        "excerpt": "<p>We sit down with our friend Johnny McElhinny, a London Irish pub owner, to hear some of the craziest stories this Irishman has to tell.</p>",
+        "content": "We sit down with our friend Johnny McElhinny, a London Irish pub owner, to hear some of the craziest stories this Irishman has to tell. Watch on YouTube (44min) or...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-06-17",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-johnny-mcelhinny-part-1/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/06/wng-podcast-ep09.jpg"
+      },{
+        "title": "WNG JKD Podcast – Johnny McElhinny (part 2)",
+        "subtitle": "",
+        "excerpt": "<p>Picking up where we left off in part one, Johnny McElhinny describes getting away from corrupt police and the mafia in Thailand. He also talks to us about the real Conor McGregor.</p>",
+        "content": "Picking up where we left off in part one, Johnny McElhinny describes getting away from corrupt police and the mafia in Thailand. He also talks to us about the real...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-06-20",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-johnny-mcelhinny-part-2/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/06/wng-podcast-ep10.jpg"
+      },{
+        "title": "WNG JKD Podcast – Vic DiCosola",
+        "subtitle": "",
+        "excerpt": "<p>Vic (Vito) DiCosola has had an interesting life. He has worked with the military and Lockheed Martin Skunk Works, and now runs a highly successful company that specializes in night vision. But it all started at the Wednesday Night Group!</p>",
+        "content": "Vic (Vito) DiCosola has had an interesting life. He has worked with the military and Lockheed Martin Skunk Works, and now runs a highly successful company that specializes in night...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-08-11",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-vic-dicosola/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/08/wng-podcast-ep11.jpg"
+      },{
+        "title": "WNG JKD Podcast – Louie Berard",
+        "subtitle": "",
+        "excerpt": "<p>Louie Berard joins us as we reminisce about our beginnings together in the founding of the Wednesday Night Group. We also get into health, sports medicine, and martial arts as you age.</p>",
+        "content": "Louie Berard joins us as we reminisce about our beginnings together in the founding of the Wednesday Night Group. We also get into health, sports medicine, and martial arts as...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-09-03",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-louie-berard/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/09/wng-podcast-ep12.jpg"
+      },{
+        "title": "WNG JKD Podcast – A Bit of Irish Craic (part 1)",
+        "subtitle": "",
+        "excerpt": "<p>Two of our favorite people, who just happen to be Irish, grace our show with great fun, great patter, and overall great craic. Great stories and info on training in this episode.</p>",
+        "content": "Two of our favorite people, who just happen to be Irish, grace our show with great fun, great patter, and overall great craic. Great stories and info on training in...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-10-21",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-a-bit-of-irish-craic-part-1/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/10/wng-podcast-ep13.jpg"
+      },{
+        "title": "WNG JKD Podcast – A Bit of Irish Craic (part 2)",
+        "subtitle": "",
+        "excerpt": "<p>We finish our interview with two of our favorite people, who just happen to be Irish, for more great fun, great patter, and overall great craic. Great stories and info on training in this episode.</p>",
+        "content": "We finish our interview with two of our favorite people, who just happen to be Irish, for more great fun, great patter, and overall great craic. Great stories and info...",
+        "categories": ["Podcast","Updates"],
+        "date": "2025-11-04",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-a-bit-of-irish-craic-part-2/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2025/11/wng-podcast-ep14.jpg"
+      },{
+        "title": "WNG JKD Podcast – Eddie Velez (part 1)",
+        "subtitle": "",
+        "excerpt": "<p>Season 2 kicks off with Eddie Velez, co-star of White Chicks (Agent Gomez) and The A-Team. Eddie has worked with the greatest in the entertainment business and joins us for a fascinating conversation about making an action movie with the Wednesday Night Group. We get into White Chicks, Walker, Texas Ranger, and a whole lot more!</p>",
+        "content": "Season 2 kicks off with Eddie Velez, co-star of White Chicks (Agent Gomez) and The A-Team. Eddie has worked with the greatest in the entertainment business and joins us for...",
+        "categories": ["Podcast","Updates"],
+        "date": "2026-06-07",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-eddie-velez-part-1/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2026/06/wng-podcast-s2e01.jpg"
+      },{
+        "title": "WNG JKD Podcast – Eddie Velez (part 2)",
+        "subtitle": "",
+        "excerpt": "<p>In this fun, hilarious episode we get into Eddie Velez’s boxing career, great movies, and how he landed his role in White Chicks.</p>",
+        "content": "In this fun, hilarious episode we get into Eddie Velez’s boxing career, great movies, and how he landed his role in White Chicks. Watch on YouTube (47min) or listen on...",
+        "categories": ["Podcast","Updates"],
+        "date": "2026-06-18",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-eddie-velez-part-2/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2026/06/wng-podcast-s2e02.jpg"
+      },{
+        "title": "WNG JKD Podcast – Tom McGrath",
+        "subtitle": "",
+        "excerpt": "<p>Tom McGrath, friend of the Wednesday Night Group and well known for the Primal Podcast, sits in to discuss all things JKD and fighting in general.</p>",
+        "content": "Tom McGrath, friend of the Wednesday Night Group and well known for the Primal Podcast, sits in to discuss all things JKD and fighting in general. Watch on YouTube (1hr...",
+        "categories": ["Podcast","Updates"],
+        "date": "2026-07-29",
+        "tags": ["Podcast"],
+        "url": "https://jkdwednite.com/wng-jkd-podcast-tom-mcgrath/",
+        "img": "https://jkdwednite.com/wp-content/uploads/2026/07/wng-podcast-s2e03.jpg"
       },{
         "title": "Privacy Policy",
         "subtitle": "",
@@ -609,7 +749,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/archive",
         "img": null
@@ -659,7 +799,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/categories",
         "img": null
@@ -729,7 +869,7 @@ var store = [{
         "excerpt": "<p>The Wednesday Night Group has attracted many interesting individuals over the years. The men recognized here as Founding Members have shaped our approach to JKD and are responsible for the group being what it is today.</p>",
         "content": "The Wednesday Night Group has attracted many interesting individuals over the years. The men recognized here as Founding Members have shaped our approach to JKD and are responsible for the...",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/members/",
         "img": null
@@ -749,7 +889,7 @@ var store = [{
         "excerpt": "<p>Official Instructors teach the Wednesday Night Group’s brand of Jeet Kune Do. We also have Affiliates that may teach some WNG JKD combined with material from other sources.</p>",
         "content": "Official Instructors teach the Wednesday Night Group’s brand of Jeet Kune Do. We also have Affiliates that may teach some WNG JKD combined with material from other sources. United States...",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/official/",
         "img": null
@@ -759,7 +899,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/search.html",
         "img": null
@@ -787,7 +927,7 @@ var store = [{
         "title": "Self Defense Blog",
         "subtitle": "",
         "excerpt": "<p>Principles of self defense and personal combatives derived from real world experiences in military theaters of operations, prisons, correctional facilities and elsewhere. We also have a martial arts blog.</p>",
-        "content": "Principles of self defense and personal combatives derived from real world experiences in military theaters of operations, prisons, correctional facilities and elsewhere. We also have a martial arts blog.",
+        "content": "Principles of self defense and personal combatives derived from real world experiences in military theaters of operations, prisons, correctional facilities and elsewhere. We also have a martial arts blog. The...",
         "categories": [],
         "date": "2023-08-14",
         "tags": [],
@@ -799,7 +939,7 @@ var store = [{
         "excerpt": "<p>Dennis Blue, Jeremy Lynch, Vince Raimondi and most of the JKD Wednesday Night Group Instructors are available to conduct seminars at your school.</p>",
         "content": "Dennis Blue, Jeremy Lynch, Vince Raimondi and most of the JKD Wednesday Night Group Instructors are available to conduct seminars at your school. For seminar inquiries, contact us at contact@jkdwednite.com....",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/seminars/",
         "img": null
@@ -819,7 +959,7 @@ var store = [{
         "excerpt": "",
         "content": "",
         "categories": [],
-        "date": "2026-06-18",
+        "date": "2026-09-25",
         "tags": [],
         "url": "https://jkdwednite.com/tags",
         "img": null
