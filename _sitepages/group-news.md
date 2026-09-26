@@ -10,4 +10,9 @@ permalink: /group-news/
 
 
 
-News and updates about the Wednesday Night Group. This is where we will announce new products and services and provide general updates. You can also follow us on [Facebook](https://www.facebook.com/jkdwng/), [Instagram](https://www.instagram.com/jkdwng/) and [YouTube](https://www.youtube.com/jkdwng).
+News and updates about the Wednesday Night Group. This is where we will announce new products and services and provide general updates. You can also follow us on [Facebook](https://www.facebook.com/jkdwng/), [Instagram](https://www.instagram.com/jkdwng/) and [YouTube](https://www.youtube.com/@jkdwng).
+
+<section class="jkd-post-cards mt-4">
+{% assign cat_posts = site.posts | where_exp: "post", "post.categories contains 'Updates'" %}
+{% include components/indexcards.html cacheddocs=cat_posts cachedlimit=100 %}
+</section>

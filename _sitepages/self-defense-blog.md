@@ -11,3 +11,8 @@ permalink: /self-defense-blog/
 
 
 Principles of self defense and [personal combatives](/combatives/) derived from real world experiences in military theaters of operations, prisons, correctional facilities and elsewhere. We also have a [martial arts blog](/blog/).
+
+<section class="jkd-post-cards mt-4">
+{% assign cat_posts = site.posts | where_exp: "post", "post.categories contains 'Self-Defense'" %}
+{% include components/indexcards.html cacheddocs=cat_posts cachedlimit=100 %}
+</section>

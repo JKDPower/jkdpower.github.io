@@ -15,7 +15,9 @@ tags:
 
 
 
-<figure class="wp-block-image alignleft size-medium is-resized">[<img src="/wp-content/uploads/2023/07/Street-cover-232x300.jpg" alt="">](https://www.jkdwednite.com/Street-Effective.pdf)<figcaption>[Download PDF](https://www.jkdwednite.com/Street-Effective.pdf)</figcaption></figure>Fortunately, debates over which style of martial art is 'the best' have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of "Reality-based" training, the old Sport vs. Street argument is ever-present.
+<figure class="wp-block-image alignleft size-medium is-resized"><a href="/wp-content/uploads/pdf/Street-Effective.pdf"><img src="/wp-content/uploads/2023/07/Street-cover-232x300.jpg" alt=""></a><figcaption><a href="/wp-content/uploads/pdf/Street-Effective.pdf">Download PDF</a></figcaption></figure>
+
+Fortunately, debates over which style of martial art is 'the best' have become less and less common. Professional Mixed Martial Arts competition has driven home the point Bruce Lee was making decades ago; Being unwilling to adapt and integrate means the lid on the coffin is closing. However, with the increase in popularity of "Reality-based" training, the old Sport vs. Street argument is ever-present.
 
 It would be tough to count the number of times I've heard some variation of the following statement:
 
@@ -34,7 +36,9 @@ It's certainly true that the more violent the encounter, the less skill is usual
 
 Some very good instructors I know stress the difference between getting into a fight and being the victim of an attack. Fights sometimes begin with two people facing off and ample warning; Maybe not the ones we have to worry about as expert martial artists (ha!), but certainly those involving young males and alcohol, women, or some combination of both. Attacks on the other hand usually happen without warning. The attacker is not looking for a fight; He wants to achieve his objective and get away before men with guns and badges show up. Worse yet, there will probably be [weapons](/impact-edge/) and/or multiple persons involved.
 
-<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/Lead3-1024x527.jpg" alt=""></figure>As generalizations go, the previous paragraph is a pretty good one. It certainly helps to remind ourselves to think beyond the 'dueling' mindset. There is however, one caveat: *Reality is highly unpredictable*.
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/Lead3-1024x527.jpg" alt=""></figure>
+
+As generalizations go, the previous paragraph is a pretty good one. It certainly helps to remind ourselves to think beyond the 'dueling' mindset. There is however, one caveat: *Reality is highly unpredictable*.
 
 I taught a gentleman who works at a correctional facility in Southern California. He related to me that most instances of violence against the staff involve skilled attacks. Inmates are sharing the martial arts training they received on the outside with one another. Officers confiscate makeshift training equipment on a regular basis. Wrap a pillow around a phone book, tie it to your arm and you've got an effective Thai-style striking pad.
 
@@ -82,13 +86,17 @@ In the late 1970's, one of Dan Inosanto's students by the name of Bob Ward was w
 
 #### Mountain Goat Drill
 
-<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/MG1-1024x683.jpg" alt=""></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/MG2-1024x683.jpg" alt=""></figure><figcaption>Head to head: Using angles for leverage</figcaption></figure>No matter how great our technique, physical strength matters. It's crucial that we learn how to take full advantage of what we've got using leverage, and most of all, be able to apply it under pressure against an opponent of equal or greater strength.
+<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/MG1-1024x683.jpg" alt=""></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/MG2-1024x683.jpg" alt=""></figure><figcaption>Head to head: Using angles for leverage</figcaption></figure>
+
+No matter how great our technique, physical strength matters. It's crucial that we learn how to take full advantage of what we've got using leverage, and most of all, be able to apply it under pressure against an opponent of equal or greater strength.
 
 The mountain goat drill is nothing more than a head-to-head drill, literally. The goal is to drive your partner backward through sheer force and leverage *without* using your hands.
 
 #### Phone Booth
 
-<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/PB1-1024x683.jpg" alt=""></figure><figcaption>Using kicking shields to create the "booth"</figcaption></figure>Standing in line at a store, going to a concert, or walking through any generally busy area means other people are going to get close to you. An attacker that knows what he or she is doing will take advantage of those small trespasses into our personal space that we all allow out of common courtesy. Adding to that, probably the most shocking statistic I've found is that more people in the United States are murdered each year during an argument with an acquaintance than in the commission of any crime (FBI Uniform Crime Reports 2012). That means we must learn to defend ourselves from the range in which we typically hold a conversation with people that we know.
+<figure class="wp-block-gallery alignright has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/PB1-1024x683.jpg" alt=""></figure><figcaption>Using kicking shields to create the "booth"</figcaption></figure>
+
+Standing in line at a store, going to a concert, or walking through any generally busy area means other people are going to get close to you. An attacker that knows what he or she is doing will take advantage of those small trespasses into our personal space that we all allow out of common courtesy. Adding to that, probably the most shocking statistic I've found is that more people in the United States are murdered each year during an argument with an acquaintance than in the commission of any crime (FBI Uniform Crime Reports 2012). That means we must learn to defend ourselves from the range in which we typically hold a conversation with people that we know.
 
 For this drill, using whatever equipment or barriers are available, we create a space approximately the size of a phone booth and put two people inside of it. On the trainers command, they fight all out at close range for 5 to 15 seconds or until the trainer calls time. It's important that the students are not allowed time or opportunity to prepare.
 
@@ -100,13 +108,36 @@ What's not often mentioned is that while fine motor skills may go out the window
 
 As martial artists, it's our job to find out at what point our techniques break down into gross movements and train in a way that minimizes the loss of fine motor skills. One way of finding out where exactly those skills break down is to video record ourselves sparring with varying levels of speed and power and analyzing the results. We would typically separate each variable in to three levels of intensity and then mix and match.
 
-<div class="wp-block-siteorigin-panels-layout-block"><div class="panel-layout" id="pl-132"><div class="panel-grid panel-no-style" id="pg-132-0"><div class="panel-grid-cell" id="pgc-132-0-0"><div class="so-panel widget widget_block panel-first-child panel-last-child" data-index="0" id="panel-132-0-0-0"><figure class="wp-block-table">| SPEED | POWER | \# OF OPPONENTS |
-|---|---|---|
-| **Low**: Think light shadowboxing | **Low**: Surface punching - no follow-through on hits - light kicks | 1 |
-| **Medium**: Quick but relaxed | **Medium**: 1 inch of follow-through on punches - drive through target with kicks | 2 |
-| **High**: Combat speed | **High**: 2+ inches of follow-through on punches - full power kicks | 3 |
+<div class="wp-block-siteorigin-panels-layout-block"><div class="panel-layout" id="pl-132"><div class="panel-grid panel-no-style" id="pg-132-0"><div class="panel-grid-cell" id="pgc-132-0-0"><div class="so-panel widget widget_block panel-first-child panel-last-child" data-index="0" id="panel-132-0-0-0"><figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>SPEED</th>
+<th>POWER</th>
+<th># OF OPPONENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Low</strong>: Think light shadowboxing</td>
+<td><strong>Low</strong>: Surface punching - no follow-through on hits - light kicks</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Medium</strong>: Quick but relaxed</td>
+<td><strong>Medium</strong>: 1 inch of follow-through on punches - drive through target with kicks</td>
+<td>2</td>
+</tr>
+<tr>
+<td><strong>High</strong>: Combat speed</td>
+<td><strong>High</strong>: 2+ inches of follow-through on punches - full power kicks</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</figure></div></div></div></div></div>
 
-</figure></div></div></div></div></div>For example:
+For example:
 
 High speed / Medium power / vs. 1 Opponent
 
@@ -128,20 +159,18 @@ In short, the more choices there are to be made, the slower the overall reaction
 
 The idea behind daily decrease is that it's ideal to "own" a few techniques, refined to such a high level that your responses are automatic and happen without thought.
 
-<figure class="wp-block-pullquote has-small-font-size">> **"When there is an opportunity, I do not hit. It hits all by itself."**
-> 
-> <cite>**Bruce Lee (Enter the Dragon)**</cite>
+<figure class="wp-block-pullquote has-small-font-size"><blockquote><p><strong>"When there is an opportunity, I do not hit. It hits all by itself."</strong></p><cite><strong>Bruce Lee (Enter the Dragon)</strong></cite></blockquote></figure>
 
-</figure>### SIMPLE IS FAST
+### SIMPLE IS FAST
 
 To be truly street effective we need to have one response that will cover many scenarios and can be drilled over and over until it becomes a simple reflex. Being able to fall back on this single technique increases reaction speed and thereby our chances of surviving the most dangerous part of the fight, the first few seconds. We all freeze when faced with danger, what matters is how quickly you can recover and start doing something.
 
 There are many options for a one-size-fits-all response taught by some great martial arts instructors. I included a few of them in a previous article titled [High Performance Sparring](/high-performance-sparring/). The one that I've found to have the greatest effectiveness for myself is the simultaneous high/low cover that I learned from [D.m. Blue](/dennis/), the most senior active member of the JKD Wednesday Night Group.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/HL1-683x1024.jpg" alt=""></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/HL2-683x1024.jpg" alt=""></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/HL3-683x1024.jpg" alt=""></figure><figcaption>Simultaneous high/low cover against empty hands or an edged weapon</figcaption></figure><figure class="wp-block-pullquote alignright has-small-font-size">> **"Most martial arts that are any good focus on a few things done well."**
-> 
-> <cite>**Tim Tackett**</cite>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/HL1-683x1024.jpg" alt=""></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/HL2-683x1024.jpg" alt=""></figure><figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/07/HL3-683x1024.jpg" alt=""></figure><figcaption>Simultaneous high/low cover against empty hands or an edged weapon</figcaption></figure>
 
-</figure>Which technique you choose isn't important, so long as it meets a few simple criteria. It needs to work under less than ideal conditions, whether executed perfectly or not, against a blade, impact weapon, and the empty hand. If it works well against a punch but gets you stabbed by a training partner concealing a knife, find something else. There are many options.
+<figure class="wp-block-pullquote alignright has-small-font-size"><blockquote><p><strong>"Most martial arts that are any good focus on a few things done well."</strong></p><cite><strong>Tim Tackett</strong></cite></blockquote></figure>
+
+Which technique you choose isn't important, so long as it meets a few simple criteria. It needs to work under less than ideal conditions, whether executed perfectly or not, against a blade, impact weapon, and the empty hand. If it works well against a punch but gets you stabbed by a training partner concealing a knife, find something else. There are many options.
 
 In summary, cultivate awareness, develop an aggression switch, know your limits, and keep it simple.

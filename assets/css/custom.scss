@@ -321,3 +321,150 @@ footer {
   border-width: 2px;
   text-shadow: 0 1px 4px rgba(0,0,0,0.7);
 }
+// ── Podcast episode media (_includes/podcast-media.html) ────────────────────
+.jkd-podcast-thumb {
+  margin: 0 0 1.25rem;
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+}
+
+.jkd-podcast-player {
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+}
+
+// ── WordPress block cleanup (migrated content) ───────────────────────────────
+
+// Nested-image galleries: <figure.wp-block-gallery><figure.wp-block-image>...
+.wp-block-gallery.has-nested-images {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+  clear: both;
+
+  > figure.wp-block-image {
+    flex: 1 1 0;
+    min-width: 140px;
+    margin: 0;
+    img {
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+    }
+  }
+  > figcaption {
+    flex-basis: 100%;
+    font-size: 0.875rem;
+    color: #555;
+    text-align: center;
+  }
+
+  @for $i from 1 through 5 {
+    &.columns-#{$i} > figure.wp-block-image {
+      flex: 0 0 calc(#{percentage(1 / $i)} - 0.75rem);
+    }
+  }
+
+  &.alignright,
+  &.alignleft {
+    width: 40%;
+    clear: none;
+    > figure.wp-block-image { flex-basis: 100%; }
+  }
+  &.alignright { float: right; margin: 0.25rem 0 1rem 1.5rem; }
+  &.alignleft  { float: left;  margin: 0.25rem 1.5rem 1rem 0; }
+  &.aligncenter { justify-content: center; }
+}
+
+// Classic [gallery] shortcode output
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+  .gallery-item {
+    flex: 1 1 200px;
+    margin: 0;
+    img { width: 100%; height: auto; }
+  }
+  &.gallery-columns-2 .gallery-item { flex: 0 0 calc(50% - 0.75rem); }
+}
+
+// Pullquotes
+.wp-block-pullquote {
+  margin: 1.5rem 0;
+  padding: 1rem 0;
+  border-top: 3px solid #b91c1c;
+  border-bottom: 3px solid #b91c1c;
+  text-align: center;
+  clear: both;
+  blockquote { margin: 0; }
+  p { font-size: 1.2rem; font-style: italic; margin-bottom: 0.5rem; }
+  cite { font-size: 0.9rem; font-style: normal; color: #555; }
+  &.alignright { float: right; width: 40%; margin-left: 1.5rem; clear: none; }
+}
+
+// Tables
+.wp-block-table,
+.so-panel {
+  table {
+    width: 100%;
+    margin: 1rem 0;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+  th, td {
+    border: 1px solid #dee2e6;
+    padding: 0.4rem 0.6rem;
+    vertical-align: top;
+  }
+  th { background: #f1f3f5; }
+  &.alignright { float: right; width: 45%; margin-left: 1.5rem; }
+}
+
+// SiteOrigin panel wrappers carry no layout of their own
+.wp-block-siteorigin-panels-layout-block { clear: both; }
+
+// "Buy now" call-to-action groups
+.wp-block-group.nfd-container {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background: #f5f5f4;
+  border-left: 4px solid #b91c1c;
+  h2 { margin-top: 0; }
+}
+.wp-block-buttons { margin-top: 0.75rem; }
+.wp-block-button a {
+  display: inline-block;
+  padding: 0.45rem 1.25rem;
+  border: 2px solid #b91c1c;
+  border-radius: 4px;
+  color: #b91c1c;
+  font-weight: 600;
+  text-decoration: none;
+  &:hover { background: #b91c1c; color: #fff; }
+}
+
+// Video / audio embeds
+.jkd-video { margin: 1.5rem 0; clear: both; }
+.jkd-spotify {
+  margin: 1.5rem 0;
+  iframe { border: 0; border-radius: 12px; display: block; }
+}
+
+@media (max-width: 575.98px) {
+  .wp-block-gallery.has-nested-images {
+    &.alignright, &.alignleft { float: none; width: 100%; margin: 1rem 0; }
+    > figure.wp-block-image { flex: 0 0 calc(50% - 0.75rem) !important; }
+  }
+  .wp-block-pullquote.alignright,
+  .wp-block-table.alignright,
+  .wp-block-image.alignright,
+  .wp-block-image.alignleft { float: none; width: auto; margin-left: 0; margin-right: 0; }
+}

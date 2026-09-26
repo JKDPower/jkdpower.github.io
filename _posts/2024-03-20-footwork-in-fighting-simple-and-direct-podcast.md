@@ -1,10 +1,11 @@
 ---
-title: 'Footwork in fighting &#8211; Simple And Direct Podcast'
+title: 'Footwork in fighting – Simple And Direct Podcast'
 date: '2024-03-20T05:22:20+00:00'
 author: "JKD WNG"
 layout: default
 permalink: /footwork-in-fighting-simple-and-direct-podcast/
 image: /wp-content/uploads/2024/03/SD-Podcast-featured.jpg
+excerpt: "JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow @simpledirectjkd on Instagram."
 categories:
     - Podcast
     - Updates
@@ -15,7 +16,9 @@ tags:
 
 
 
-<figure class="wp-embed-aspect-21-9 wp-has-aspect-ratio wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify"><div class="wp-block-embed__wrapper">https://open.spotify.com/episode/3O2zbZD7M8EMcqvX46g3gV?si=0d2f9de688184297 </div></figure>JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow [@simpledirectjkd](https://www.instagram.com/simpledirectjkd) on Instagram.
+<div class="jkd-spotify"><iframe src="https://open.spotify.com/embed/episode/3O2zbZD7M8EMcqvX46g3gV" title="Spotify episode player" width="100%" height="152" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
+
+JKD Wednesday Night Group instructor Shawn King talks martial arts and self defense training, nutrition, mindset, and more. His background in Law Enforcement, Security, Jeet Kune Do, and Brazilian Jiu-Jitsu give the podcast a unique flavor. Follow [@simpledirectjkd](https://www.instagram.com/simpledirectjkd) on Instagram.
 
 In this episode: **JKD footwork - Is it good?**
 

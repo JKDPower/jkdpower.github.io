@@ -1,5 +1,5 @@
 ---
-title: 'JKD WNG &#8220;Legacy&#8221; Basic T-Shirt'
+title: 'JKD WNG “Legacy” Basic T-Shirt'
 date: '2024-02-22T22:45:29+00:00'
 author: "JKD WNG"
 layout: default

@@ -1,0 +1,21 @@
+{%- comment -%}
+  Podcast episode media block: linked episode image followed by a
+  privacy-enhanced YouTube player.
+  Usage in a post:  {% include podcast-media.html %}
+  Reads page.youtube_id and page.image (override with youtube= / image=).
+{%- endcomment -%}
+{%- assign _yt = include.youtube | default: page.youtube_id -%}
+{%- assign _img = include.image | default: page.image -%}
+{%- assign _label = page.title | strip_html | replace: '&#8211;', '-' -%}
+{%- if _img %}
+<figure class="jkd-podcast-thumb">
+  <a href="https://www.youtube.com/watch?v={{ _yt }}" title="Watch on YouTube">
+    <img src="{{ _img | relative_url }}" alt="{{ _label }}">
+  </a>
+</figure>
+{%- endif %}
+{%- if _yt %}
+<div class="embed-responsive embed-responsive-16by9 jkd-podcast-player">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ _yt }}" title="{{ _label }} (YouTube video player)" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+{%- endif %}

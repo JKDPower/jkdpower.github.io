@@ -1,5 +1,5 @@
 ---
-title: 'The Art of Survival: Part 4 (Fear &#038; Action)'
+title: 'The Art of Survival: Part 4 (Fear & Action)'
 date: '2023-08-14T15:06:58+00:00'
 author: "Dennis Blue"
 layout: default

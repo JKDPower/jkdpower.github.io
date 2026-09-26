@@ -91,7 +91,7 @@ Official Instructors teach the Wednesday Night Group's brand of [Jeet Kune Do](/
 | Instructor | Location | Contact / Website |
 |------------|----------|-------------------|
 | Andrea Grandinetti | Calabria | +39 327 449 1291 · [jeetkunedocalabria.it](https://jeetkunedocalabria.it) |
-| Andrea Scalia | Sicily | +39 388 119 4636 · [andrea.scalia@hotmail.it](mailto:andrea.scalia@hotmail.it) · [jkdinstitute.net](https://jkdinstitute.net) |
+| Andrea Scalia | Sicily | +39 388 119 4636 · [andrea.scalia@hotmail.it](mailto:andrea.scalia@hotmail.it) |
 | [Nicolas Calluori](/nicolas-calluori/) | Salerno | [nicolasvalac@hotmail.it](mailto:nicolasvalac@hotmail.it) |
 | [Francesco Malfatti](/francesco-malfatti/) | Naples | [francesco_malfatti@libero.it](mailto:francesco_malfatti@libero.it) |
 

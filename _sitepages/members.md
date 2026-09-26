@@ -16,25 +16,25 @@ The Wednesday Night Group has attracted many interesting individuals over the ye
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/bob_bremer-2.jpg" alt="Bob Bremer" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Bob Bremer](/bob/)**
+<strong><a href="/bob/">Bob Bremer</a></strong>
 Trained with Bruce Lee in L.A. Chinatown starting in 1967
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/tim_tackett-1.jpg" alt="Tim Tackett" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Tim Tackett](/tim/)**
+<strong><a href="/tim/">Tim Tackett</a></strong>
 Joined Dan Inosanto's "Backyard" JKD group in 1971
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/jim_sewell-1.jpg" alt="Jim Sewell" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Jim Sewell](/jim/)**
+<strong><a href="/jim/">Jim Sewell</a></strong>
 Original student of the L.A. Chinatown school
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/bert-sm.jpg" alt="Bert Poe" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Bert Poe](/bert/)**
+<strong><a href="/bert/">Bert Poe</a></strong>
 Marine Raider, Sheriff, Pro Boxer, and Bodyguard
 </div>
 </div>
@@ -43,19 +43,19 @@ Marine Raider, Sheriff, Pro Boxer, and Bodyguard
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/sonny_bygum-1.jpg" alt="Sonny Bygum" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Sonny Bygum](/sonny/)**
-Navy Seal, Boxer, and Automobile & Motorcycle Racer
+<strong><a href="/sonny/">Sonny Bygum</a></strong>
+Navy Seal, Boxer, and Automobile &amp; Motorcycle Racer
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/blue.jpg" alt="D.M. Blue" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[D.M. Blue](/dennis/)**
+<strong><a href="/dennis/">D.M. Blue</a></strong>
 Instrumental in training the current generation of Instructors
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/lynch.jpg" alt="Jeremy Lynch" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Jeremy Lynch](/jeremy/)**
+<strong><a href="/jeremy/">Jeremy Lynch</a></strong>
 Has been with the group since he was just 19 years old
 </div>
 </div>
@@ -68,22 +68,22 @@ Has been with the group since he was just 19 years old
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/raimondi.jpg" alt="Vince Raimondi" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Vince Raimondi](/vince/)**
+<strong><a href="/vince/">Vince Raimondi</a></strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/lance.jpg" alt="Brent Lance" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Brent Lance](/brent/)**
+<strong><a href="/brent/">Brent Lance</a></strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/loi.jpg" alt="Lak Loi" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**Lak Loi**
+<strong>Lak Loi</strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/09/casier_dieter_belgium.jpg" alt="Dieter Casier" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**Dieter Casier**
+<strong>Dieter Casier</strong>
 </div>
 </div>
 
@@ -91,22 +91,22 @@ Has been with the group since he was just 19 years old
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/thornton.jpg" alt="Mick Thornton" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**Mick Thornton**
+<strong>Mick Thornton</strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/jmccann.jpg" alt="Jim McCann" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Jim McCann](/mccann/)**
+<strong><a href="/mccann/">Jim McCann</a></strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/mcgrath.jpg" alt="Tom McGrath" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**Tom McGrath**
+<strong>Tom McGrath</strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/07/mike.jpg" alt="Mike Blesch" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**[Mike Blesch](/mike/)**
+<strong><a href="/mike/">Mike Blesch</a></strong>
 </div>
 </div>
 
@@ -114,11 +114,11 @@ Has been with the group since he was just 19 years old
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/10/christian-kluge-de.jpg" alt="Christian Kluge" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**Christian Kluge**
+<strong>Christian Kluge</strong>
 </div>
 <div class="col-md-3 col-sm-6 text-center mb-4">
 <img src="/wp-content/uploads/2023/09/cedomir_pusica.jpg" alt="Cedomir Pusica" class="img-fluid rounded mb-2" style="max-height:220px">
 
-**Cedomir Pusica**
+<strong>Cedomir Pusica</strong>
 </div>
 </div>
